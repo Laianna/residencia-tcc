@@ -1,6 +1,7 @@
 import pandas as pd
 import numpy as np
 import string
+import unicodedata
 
 from scipy import spatial
 
@@ -10,7 +11,16 @@ def remove_pontuacao(texto):
     
     texto_sp = texto.translate(str.maketrans('', '', string.punctuation))
     
-    return texto_sp   
+    return texto_sp
+
+
+def tirar_acento(texto):
+
+    texto_sa = unicodedata.normalize("NFD", texto)
+    texto_sa = texto_sa.encode("ascii", "ignore")
+    texto_sa = texto_sa.decode("utf-8")
+
+    return texto_sa
 
 
 def formatar_entrada_bow(dados, mf = 1000):
