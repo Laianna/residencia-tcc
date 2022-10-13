@@ -160,3 +160,29 @@ def calcular_acuracia_k(df_matches, df_concat, indices):
                     df_matches[f'k-{k}-qtd'].loc[enum] += 1
 
             df_matches[f'k-{k}-qtd/{k}'].loc[enum] = (df_matches[f'k-{k}-qtd'].loc[enum])/k
+
+
+def calcular_match_rank(df_matches, df_concat, indices):
+
+    # criando uma coluna nova no df
+    df_matches['match_rank'] = 0
+    df_matches['1/match_rank'] = 0
+    df_matches['match_rank/total'] = 0
+    tam_df = df_concat.shape[0]
+
+    # para cada linha do dataframe
+    for enum, i in enumerate(df_matches['indice'].to_list()):
+
+        # para cada uma das distâncias encontradas rankeadas em ordem decrescente
+        for cont, j in enumerate(indices[i]):
+        
+            # se for match
+            if (df_concat['ean'].loc[i] == df_concat['ean'].loc[j]) and (i != j):
+
+                # guarda a posição do primeiro match, lembrando que o enumerate começa em 0
+                df_matches['match_rank'].loc[enum] = (cont + 1)
+                df_matches['1/match_rank'].loc[enum] = 1/(cont + 1)
+                df_matches['match_rank/total'].loc[enum] = (cont + 1)/tam_df
+                
+                # para o for
+                break
