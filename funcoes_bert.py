@@ -1,5 +1,5 @@
 import tensorflow as tf
-import tensorflow_addons as tfa
+#import tensorflow_addons as tfa
 
 from tensorflow.keras.optimizers import Adam
 from tensorflow.keras.losses import SparseCategoricalCrossentropy
@@ -8,10 +8,10 @@ from tensorflow.keras.metrics import SparseCategoricalAccuracy
 from transformers import TFBertForSequenceClassification
 from transformers import BertTokenizer
 
-test = None
+#test = None
 # can be up to 512 for BERT
 MAX_LENGTH = 256
-BATCH_SIZE = 64
+BATCH_SIZE = 1
 
 tokenizer = BertTokenizer.from_pretrained('neuralmind/bert-base-portuguese-cased', do_lower_case = False)
 
@@ -56,55 +56,55 @@ def encode_examples(df_titulos, labels, limit = -1):
         
     return tf.data.Dataset.from_tensor_slices((input_ids_list, attention_mask_list, token_type_ids_list, label_list)).map(map_example_to_dict)
 
-def get_bert_data(X_train, y_train, X_valid, y_valid, X_test, y_test):
+def formatar_dados_bert(X_treino, y_treino, X_val, y_val, X_teste, y_teste):
     
-    # train dataset
-    ds_train = encode_examples(X_train, y_train).batch(BATCH_SIZE)
+    # dataset de treino
+    ds_treino = encode_examples(X_treino, y_treino).batch(BATCH_SIZE)
 
-    # test dataset
-    ds_test = encode_examples(X_test, y_test).batch(BATCH_SIZE)
+    # dataset de validação
+    ds_val = encode_examples(X_val, y_val).batch(BATCH_SIZE)
 
-    #validation dataset
-    ds_valid = encode_examples(X_valid, y_valid).batch(BATCH_SIZE)
+    # dataset de teste
+    ds_teste = encode_examples(X_teste, y_teste).batch(BATCH_SIZE)
 
-    return ds_train, ds_valid, ds_test
+    return ds_treino, ds_val, ds_teste
+
+
+
+def fazer_predicao_teste(modelo, ds_teste):
+
+    # Predição no dataset de teste
+    tf_saida = modelo.predict(ds_teste)[0]
+    tf_predicao = tf.nn.softmax(tf_saida, axis = 1)
+
+    pred = tf.argmax(tf_predicao, axis = 1)
+
+    y_pred = pred.numpy()
+
+    return y_pred
+
 
 #######################FIM FUNÇOES DE APOIO#######################
+def pipeline_bert(X_treino, y_treino, X_val, y_val, X_teste, y_teste):
 
-def get_test_prediction(model, ds_test):
+    lr = 2e-5
+    num_epocas = 3
 
-    #Predictin test dataset
-    tf_output = model.predict(ds_test)[0]
-    tf_prediction = tf.nn.softmax(tf_output, axis = 1)
-    label = tf.argmax(tf_prediction, axis = 1)
-    label_pred = label.numpy()
-    # print(label_pred)
-
-    return label_pred
-
-
-def pipeline_bert(name, X_train, y_train, X_valid, y_valid, X_test, y_test): #X_train = [titulos1, titulos2]
-
-    learning_rate = 2e-5
-    number_of_epochs = 3
-    ds_train, ds_valid, ds_test = get_bert_data(X_train, y_train, X_valid, y_valid, X_test, y_test)
+    ds_treino, ds_val, ds_teste = formatar_dados_bert(X_treino, y_treino, X_val, y_val, X_teste, y_teste)
     
-    # model initialization
-    model = TFBertForSequenceClassification.from_pretrained('neuralmind/bert-base-portuguese-cased', from_pt = True)
+    # inicialização do mocelo
+    modelo = TFBertForSequenceClassification.from_pretrained('neuralmind/bert-base-portuguese-cased', from_pt = True)
 
-    # choosing Adam optimizer
-    optimizer = Adam(learning_rate=learning_rate, epsilon = 1e-08)
-    loss = SparseCategoricalCrossentropy(from_logits = True)
-    metric_acc = SparseCategoricalAccuracy('accuracy')
-    model.compile(optimizer = optimizer, loss = loss, metrics = [metric_acc])
+    # escolhendo o otimizador
+    otimizador = Adam(learning_rate = lr, epsilon = 1e-08)
+    perda = SparseCategoricalCrossentropy(from_logits = True)
+    metrica = SparseCategoricalAccuracy('accuracy')
+    modelo.compile(optimizer = otimizador, loss = perda, metrics = [metrica])
 
-    #Training model
-    bert_history = model.fit(ds_train, epochs = number_of_epochs, validation_data = ds_valid)
+    # Fine-tune do modelo
+    bert_historico = modelo.fit(ds_treino, epochs = num_epocas, validation_data = ds_val)
     
-    #Predict test data
-    label_pred = get_test_prediction(model, ds_test)
+    # Predizendo a saída dos dados de teste
+    y_pred = fazer_predicao_teste(modelo, ds_teste)
 
-    return (name, bert_history, y_test, label_pred)
-
-    # metrics = calc_metrics(y_test, result, name)
-    # return metrics
+    return (modelo, bert_historico, y_pred)
