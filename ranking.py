@@ -42,12 +42,12 @@ def concatenar_titulos(df_teste):
     return df
 
 
-def concatenar_df(df_teste):
+def concatenar_df(df_teste, coluna_1 = "titulo_sa_1", coluna_2 = "titulo_sa_2", coluna_saida = 'titulo_sa'):
 
-    df_1 = df_teste.rename(columns = {'titulo_sa_1': 'titulo_sa', 'ean_1': 'ean'})
-    df_2 = df_teste.rename(columns = {'titulo_sa_2': 'titulo_sa', 'ean_2': 'ean'})
+    df_1 = df_teste.rename(columns = {coluna_1: coluna_saida, 'ean_1': 'ean'})
+    df_2 = df_teste.rename(columns = {coluna_2: coluna_saida, 'ean_2': 'ean'})
 
-    lista_df = [df_1[['titulo_sa', 'ean', 'categoria']], df_2[['titulo_sa', 'ean', 'categoria']]]
+    lista_df = [df_1[[coluna_saida, 'ean', 'categoria']], df_2[[coluna_saida, 'ean', 'categoria']]]
     df = pd.concat(lista_df, ignore_index = True)
 
     return df
@@ -70,6 +70,55 @@ def calcular_tam_max(df):
     tam_max = len(results)
 
     return tam_max
+
+
+def criar_dicionario(indice, titulo, ean, categoria, colunas):
+    
+    return {
+            colunas[0] : indice, colunas[1] : titulo, colunas[2] : ean, colunas[3] : categoria
+           }
+
+
+def criar_df_match(df_concat, ean_repetido, colunas, coluna_saida = 'titulo_sa'):
+
+    df_matches = pd.DataFrame(columns = colunas)
+    for ean in ean_repetido:
+
+        # pega o indice da primeira linha com aquele EAN
+        filtro = (df_concat['ean'] == ean)
+        indice = next(iter(filtro.index[filtro]))
+
+        dicionario = criar_dicionario(
+                                      indice = indice,
+                                      titulo = df_concat.loc[indice][coluna_saida],
+                                      ean = df_concat.loc[indice]['ean'],
+                                      categoria = df_concat.loc[indice]['categoria'],
+                                      colunas = colunas
+                                     )
+
+        df_matches = df_matches.append(dicionario, ignore_index = True)
+
+    df_matches.sort_values('indice', inplace = True)
+    df_matches.reset_index(drop = True, inplace = True)
+
+    return df_matches
+
+
+def criar_df_teste(df_teste, coluna_1 = "titulo_sa_1", coluna_2 = "titulo_sa_2", coluna_saida = 'titulo_sa'):
+
+    COLUNAS = ("indice", coluna_saida, "ean", "categoria")
+
+    # colocando os titulos em um dataframe com 1 coluna só
+    df_concat = concatenar_df(df_teste, coluna_1, coluna_2, coluna_saida)
+
+    # encontrando a lista de valores únicos de EAN repetidos
+    vc = df_concat['ean'].value_counts()
+    ean_repetido = vc[vc > 1].index.values
+
+    # criando um dataframe apenas com 1 ocorrência de cada EAN repetido
+    df_matches = criar_df_match(df_concat, ean_repetido, COLUNAS, coluna_saida)
+
+    return df_concat, df_matches
 
 
 def formatar_entrada_bow(dados, mf = 1000):
@@ -186,3 +235,22 @@ def calcular_match_rank(df_matches, df_concat, indices):
                 
                 # para o for
                 break
+
+
+def calcular_tempo(df_matches, inicio_tempo, final_tempo):
+
+    tempo = final_tempo - inicio_tempo
+
+    df_matches['tempo'] = tempo
+
+
+def calcular_metricas(df_matches, df_concat, resultado):
+
+    # colocando o resultado em ordem (menor distância até maior distância)
+    indices, valores = ordenar_resultado(resultado)
+
+    # calculando as métricas
+    calcular_acuracia_k(df_matches, df_concat, indices)
+    calcular_match_rank(df_matches, df_concat, indices)
+
+    return indices, valores

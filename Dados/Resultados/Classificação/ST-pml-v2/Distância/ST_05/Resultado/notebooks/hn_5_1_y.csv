@@ -1,0 +1,719 @@
+match,pred,categoria,titulo_1,titulo_2
+1,1,notebooks,Notebook lenovo BS145-15IIL I3 1005G1 4GB 500GB 15.6 dos,"NOTEBOOK LENOVO BS145-15IIL 15,6"" HD/ 82HB000BBR/ I3-1005G1/ 4GB/ 500GB/ FREEDOS"
+1,1,notebooks,Notebook Ultra 15 Pol Core I5 8Gb 1Tb Hdd Windows 10 Prata - Ub521,"Notebook Ultra, W10 Home, Processador Intel Core i5, Memória 8GB RAM e 1TB HDD, Tela 15,6 Pol. Full HD, Prata – UB521"
+0,0,notebooks,"Notebook Asus X543MA-GQ1300W Windows 11 15,6 Polegadas 500GB 4GB ram Celeron wi-fi","Notebook Asus Core I5 256GB Memória 4GB ram Windows 11 15,6 Polegadas wi-fi X515JA-EJ2734W"
+0,0,notebooks,"Notebook Vaio FE14 VJFE42F11X-B1521H Intel Core i3-10110U 4GB 128GB SSD FHD Linux 14"" Chumbo Escuro",Notebook VAIO® FE15 Intel® Core™ i3 Linux 4GB 128GB SSD HD - Cinza Escuro
+0,1,notebooks,"Notebook Dell Inspiron 15 a0700-UM20P 15.6"" FHD AMD Ryzen™ 7 8GB 256GB SSD Linux Preto","Notebook Dell Inspiron 15 a0500-UM10P 15.6"" FHD AMD Ryzen™ 5 8GB 256GB SSD Linux Preto"
+0,1,notebooks,"Notebook Acer Aspire 3 amd Ryzen 3500U, 1TB hd, 8GB ram, amd Radeon Graphics 2GB GDDR5","Notebook Acer Aspire 5 A515-45-R760 amd Ryzen 7 Windows 11 Home 8GB 256GB ssd 15,6' Full HD"
+0,0,notebooks,Kit Notebook Dell Inspiron i15-i1100-M40SC 15.6 Full HD 11ª Geração Intel Core i5 8GB 256GB ssd Windows 11 com Capa,"Notebook Dell Inspiron i15-i1100-M60P 15.6"" Full HD 11ª Geração Intel Core i7 8GB 256GB SSD Windows 11"
+0,1,notebooks,Notebook Dell Inspiron i15-i1100-M25P 15.6 Full HD 11ª Geração Intel Core i3 4GB 256GB ssd Windows 11 Preto,"Notebook Dell Inspiron i15-i1100-U25P 15.6"" Full HD 11ª Geração Intel Core i3 4GB 256GB SSD Linux"
+0,1,notebooks,"Notebook Positivo Motion Q464C Intel Atom Quad Core 4GB 64GB eMMC 14,1'' W10 - Cinza","Notebook Positivo Motion Gray Q464C Intel Atom Quad Core 4GB 64GB 14,1'' LED Webcam HD Windows 10 Home - Cinza"
+0,0,notebooks,Notebook vaio FE14 Intel Core i3 Linux 4GB 1TB Full HD - Cinza Escuro,Notebook VAIO® FE14 Intel® Core™ i3 Linux 4GB 128GB SSD Full HD - Branco
+0,1,notebooks,"Notebook asus X515JF-EJ361T Intel Core i5 1035G1 8GB 256GB ssd W10 15,6 LED-backlit Cinza","Notebook asus X515JF-EJ360T Intel Core i5 1035G1 8GB 256GB ssd W10 15,6 LED-backlit Cinza"
+0,0,notebooks,Notebook Windows 10 Home Intel Core i3 4GB 1TB Ultra,Notebook VAIO® FE14 Intel® Core™ i3 Windows 11 Home 4GB 1TB Full HD - Cinza Escuro
+0,0,notebooks,Notebook Dell Inspiron 15 i1101-M50S 15.6 Full HD 11ª geração Intel Core i7 8GB 512GB ssd nvidia Geforce Windows 11,Notebook Dell Inspiron 15 i1101-M60S 15.6” Full HD 11ª geração Intel Core i7 16GB 512GB SSD NVIDIA Geforce Windows 11
+0,1,notebooks,Kit Notebook Dell Inspiron 15 3000 a0700-MM20SF 15.6 fhd amd Ryzen 7 8GB 256GB ssd Windows 11 + Microsoft 365 Prata,Notebook Dell Inspiron 15 3000 a0500-MM10P 15.6 fhd amd Ryzen 5 8GB 256GB ssd Windows 11 Preto
+0,1,notebooks,"Notebook Vaio FE14 B1521H - Tela 14 Full hd, Intel i3 1005G1, 4GB, ssd 128GB, Linux - VJFE42F11X","Notebook Vaio FE14 - Tela 14 Full HD - Intel i3 1005G1, 8GB, ssd 128GB, Linux - VJFE43F11X - B0331H"
+0,1,notebooks,Notebook Samsung Chromebook 11.6 Intel Celeron N4020 32GB eMMC 4GB Chrome os XE310XBA-KT3BR,Notebook Samsung Chromebook XE310XBA-KC1US 11.6 Intel Celeron N4020 - Platinum Titan Oferta!
+0,1,notebooks,Notebook Positivo Motion C41TE Celeron 4GB 1TB HD Windows 10 Home – Cinza,"Notebook Positivo Motion C41TE Intel® Celeron® Dual-Core™ 1TB 4GB Windows 10 Home 14"" - Vermelho Notebook Positivo Motion C41TE Intel® Celeron® Dual-Core™ Windows 10 Home 14"" - Vermelho"
+0,1,notebooks,"Notebook Asus, Intel Core i3 1005G1, 8GB, 256GB ssd, Tela de 15,6, W11, Cinza - X515JA-BR2751W","Notebook Asus Intel Core i5-1035G1 8GB 256GB SSD W10 15,6'' Cinza X515JA-EJ592T"
+0,1,notebooks,"Notebook Dell Inspiron i13-i1100-M20S 13.3"" Full HD 11ª geração Plataforma Intel® EVO™ Core i7 8GB 512GB SSD Windows 11",Notebook Dell Inspiron i13-i1100-M10S 13.3 Full HD 11ª geração Plataforma Intel evo Core i5 8GB 256GB ssd Windows 11
+0,1,notebooks,Notebook Positivo Motion 14 HD Intel i3-6157U 128GB ssd 4GB Win 10 Home I34128GB,Notebook Positivo Motion I34128BI 14 HD Intel Core i3-6157U 1TB 4GB Linux Cinza Escuro
+0,1,notebooks,"Notebook Acer A514-53 - Tela 14, Intel i3 1005G1, ram 12GB, ssd 128GB, Windows 10 Professional","Notebook Acer A514-53 - Tela 14, Intel i3 1005G1, 12GB, ssd 128GB + HD 1TB, Windows 10 Pro"
+0,1,notebooks,Notebook asus X571GT-AL888T Preto,Notebook ASUS VivoBook K513EQ-EJ682W Preto
+0,0,notebooks,Notebook Lenovo IdeaPad Flex 5i i7-1165G7 8GB 256GB ssd W11 14 fhd Intel Iris Xe,"Notebook Lenovo Flex 5i i7-1065G7 8GB 256GB SSD Windows 10 14"" FHD WVA 81WS0004BR Grafite"
+0,0,notebooks,Notebook Gamer Dell G15-i1000-U20P 15.6 fhd 10ª Geração Intel Core i5 8GB 512GB ssd nvidia gtx 1650 Linux,"Notebook Gamer Dell G15-i1000-M25P 15.6"" 165Hz FHD 10ª Geração Intel Core i5 8GB 512GB SSD NVIDIA GTX 1650 Windows 11"
+0,1,notebooks,Notebook Samsung Book I5 8GB 256GB ssd 15.6 Windows 11H Cinza Chumbo,Notebook Samsung Book I3 8GB 256GB ssd 15.6 Windows 11 Cinza Chumbo
+0,0,notebooks,Notebook Dell Alienware m15 R6 i1100-M20P 15.6 fhd 11ª ger Intel Core i7 16GB 1TB ssd rtx 3060 Win 11,"Notebook Dell Alienware m15 R6 AW15-i1100-M30P 15.6"" FHD 11ª ger Intel Core i7 16GB 1TB SSD RTX 3070 Win 11"
+0,1,notebooks,Notebook Asus ZenBook 14 UX425EA-BM319T CORE I5-1135G7 / 8 GB / 256 GB SSD / Windows 10 Home / Cinza Escuro,Notebook ASUS ZenBook 14 UX434FAC-A6340T - CORE I7 / 8 GB / 256 GB SSD / Windows 10 Home / Azul Escuro
+0,1,notebooks,"Notebook Positivo Motion Gold Q4128C-S Intel Atom-Z8350 4GB 128GB W10 14,1"" Dourado","Notebook Positivo Motion Gold C4128E Intel Celeron 4GB 128GB SSD 14,1'' W10 Dourado + Licença Office 365"
+0,0,notebooks,Multilaser notebook ultra 14 core I3 4GB 1TB W10 prata UB421,"Notebook Ultra UB432, Tela de 14, Intel Core i3-7020U, Linux, 4GB, 1TB, Prata"
+0,1,notebooks,Notebook Compaq Presario CQ-29 Intel i5 5257u 8GB DDR3 ssd 480GB Tela 15.6 Full HD Windows 10 Home,"Notebook GT Tóquio Intel® Core™ i5, 8GB, SSD 240GB, 15.6"" Full HD, Windows 10"
+0,0,notebooks,Notebook compaq CQ-27 COREI3 4GB SSD120GB WIN10,Notebook 15'' Lenovo B330 Core I5-8250U 4GB 1TB WIN10 PRO
+0,0,notebooks,Notebook Lenovo V14 i5-1135G7 8GB 256GB ssd W11 Pro mx 350 2GB 14 fhd 82NM0014BR Preto,"Notebook Lenovo V14 i5-1135G7 8GB 256GB SSD Linux 14"" 82NMS00100 Preto"
+0,1,notebooks,"Notebook Acer A514-53 - Tela 14, Intel i3 1005G1, 12GB, ssd 128GB + HD 1TB, Windows 10 Pro","Notebook Vaio FE14 - Tela 14 Full hd, Intel i3 1005G1, 8GB, ssd 128GB, Windows 10 pro"
+1,1,notebooks,Notebook ultra multilaser 15.6 pol celeron N4020 4GB 120GB ssd windows 11 prata + microsoft 365 pers,"Notebook Ultra, W11 Home, Processador Intel Celeron N4020, Memória 4GB 120GB SSD, Tela 15,6 Pol, Microsoft 365 Personal com 1TB na Nuvem Prata – UB220"
+1,1,notebooks,Notebook Acer Aspire 5 Intel Core i5-1035G1 4GB 256GB SSD W10 14'' A514-53-5239 - Cinza,Notebook Acer Aspire 5 A514-53-5239 Intel Core I5 10ª geração 4GB memória 256GB SSD Windows
+0,0,notebooks,Notebook Asus X543NA-GQ342T - CELERON DUAL CORE / 4 GB / 500 GB / Windows 10 Home / Cinza Escuro,Notebook ASUS Laptop X543UA-GQ3157T - CORE I3 / 4 GB / 256 GB / Windows 10 Home / Cinza Escuro
+0,1,notebooks,"Notebook Lenovo V14 i3-1115G4 8GB 256GB SSD W11 Home 14"" HD 82NM0010BR Preto",Notebook Lenovo V14 i3-1115G4 8GB 256GB ssd W11 Pro 14 HD 82NM000YBR Preto
+0,0,notebooks,Notebook i3 4GB ssd 120GB Tela full HD 15.6 Wifi Bluetooh WebCam,Notebook Acer Aspire 5 Intel Core I5 10210u 4gb Ram Ssd 256gb Linux Tela 15.6'' Full HD Wifi hdmi USB
+0,1,notebooks,Kit Notebook Dell Inspiron 15 3000 a0500-MM10SC 15.6 fhd amd Ryzen 5 8GB 256GB ssd Windows 11 Prata + Capa,Notebook Dell Inspiron 15 3000 a0500-MM10P 15.6 fhd amd Ryzen 5 8GB 256GB ssd Windows 11 Preto
+0,1,notebooks,"Notebook ASUS Vivobook X515EA-BR1275W Intel Core i3 1115G4 4GB 256GB SSD W11 15,6"" LED-backlit Cinza","Notebook ASUS Vivobook X515EA-EJ1320W Intel Core i3 1115G4 4GB 256GB SSD W11 15,6"" LED-backlit Cinza"
+0,1,notebooks,Notebook Dell Inspiron i15-i1100-M20PF 15.6 Full HD 11ª Ger. Intel Core i3 4GB 128GB ssd Win 11 Microsoft 365 Preto,"Notebook Dell Inspiron i15-i1100-M25P 15.6"" Full HD 11ª Geração Intel Core i3 4GB 256GB SSD Windows 11 Preto"
+0,0,notebooks,"Notebook Samsung Book 15,6 fhd Intel Celeron 6305 128GB ssd 4GB Windows 10 Pro - NP550XDA-KO7BR","Notebook Samsung Book NP550XDA, Processador Intel Celeron 4GB HD 500GB Windows 10 Tela 15.6, Branco"
+0,1,notebooks,Notebook vaio FE14 Intel Core i5 Linux 8GB 1TB Full HD - Cinza Escuro,Notebook vaio FE14 Intel Core i3 Windows 11 Home 4GB 1TB Full HD - Cinza Escuro
+0,1,notebooks,"Notebook 2 em 1 Positivo Duo C464C Intel Celeron 4GB de Memória RAM 64GB de Armazenamento 11.6"" IPS Full HD touch com caneta Windows 10 Home - Cinza","Notebook 2 em 1 Positivo DUO C464D-1 Intel Celeron 4GB 64GB 11.6"" IPS Full HD touch com caneta Windows 11 Home - Cinza"
+0,1,notebooks,Notebook Lenovo V14 i3-1115G4 8GB 256GB ssd W11 Home 14 HD 82NM0010BR Preto,Notebook Lenovo V14 i3-1115G4 8GB 256GB ssd W11 Pro 14 HD 82NM000YBR Preto
+0,0,notebooks,"Notebook ASUS X515MA-BR623X Intel Celeron Dual Core N4020 4GB 128GB SSD W11 15,60"" LED-backlit Cinza","Notebook ASUS E510MA-BR702X Intel Celeron Dual Core N4020 4GB 128GB W11 15,6"" LED-backlit Preto"
+0,0,notebooks,Notebook Positivo Motion C4500a Intel Celeron Tela 14 Polegadas Hd 500gb 4gb Ram Com Tecla Netflix,Notebook Positivo Motion Tela 14 Intel Celeron 128GB - C4128E
+0,1,notebooks,"Notebook Acer A514-53 - Tela 14, Intel i3 1005G1, ram 12GB, ssd 128GB, Windows 10 Professional","Notebook Vaio FE14 - Tela 14 Full hd, Intel i3 1005G1, 8GB, ssd 128GB, Windows 10 pro"
+0,1,notebooks,Notebook Dell Inspiron 15 3000 a0700-UM20P 15.6 fhd amd Ryzen 7 8GB 256GB ssd Linux Preto,"Notebook Dell Inspiron 15 a0500-UM10P 15.6"" FHD AMD Ryzen™ 5 8GB 256GB SSD Linux Preto"
+0,1,notebooks,Notebook Positivo Motion I 341TBi Intel Core i3 4GB ram HD 1TB Tela 14'' Linux - 3011873,"Notebook Vaio FE14, Intel Core i3, 4GB RAM, HD 1TB, Tela 14"" LCD FullHD, Linux - Chumbo Escuro"
+1,1,notebooks,Notebook Positivo Motion I 341TBi Intel Core i3 4GB ram HD 1TB Tela 14'' Linux - 3011873,Notebook Positivo Motion 14 HD Intel i3-7020U 1TB 4GB Linux Cinza Escuro
+1,1,notebooks,"Kit Notebook Dell Inspiron i15-i1100-M70PB 15.6"" FHD 11ª Ger Intel Core i7 8GB 256GB SSD NVIDIA GeForce Win 11 + Mochila",Kit Notebook Dell Inspiron i15-i1100-M70PB 15.6 fhd 11ª Ger Intel Core i7 8GB 256GB ssd nvidia GeForce Win 11 + Mochila
+0,0,notebooks,"Notebook Gamer Acer AN515-44-R54Q, Ryzen 5 4600H, 8GB, M.2 ssd 512GB, Geforce gtx 1650 4GB, 15.6 fhd 144Hz, Win 10 Home","Notebook Acer 15,6 Fhd A515-45-r2a3/ R5-5500u/ 8gb/ 512gb Ssd/ W11 Home"
+0,0,notebooks,"MacBook Pro Apple 13,3"" Intel Core i5 (16GB 1TB) Prateado","Macbook Pro Retina Apple 13,3"", 16gb, Cinza Espacial, Ssd 1tb, Intel Core i5, 2.0 Ghz, Touch Bar e Touch Id - Mwp52bz/a"
+0,0,notebooks,"Notebook Positivo Motion Q464C-O Intel Atom Quad Core Windows 10 Home 14,1'' - Dourado - Inclui Microsoft 365*",Notebook Positivo Intel Quad Core 4gb 128gb 14.1 Windows 10
+0,0,notebooks,"Notebook Asus Intel Core i7-1165G7 8GB 256GB SSD W11 15,6"" Preto X513EA-EJ3010W","Notebook asus VivoBook X513EA-BQ2782W Intel Core i5 1135G7 8GB 256GB ssd W11 15,6 LED-backlit Azul"
+0,0,notebooks,"Notebook Asus X543MA-GQ1300W Windows 11 15,6 Polegadas 500GB 4GB ram Celeron wi-fi","Notebook Acer 15.6"" A315-34-C5EY Celeron N4000 4GB 500GB, NX.HRNAL.001"
+0,1,notebooks,"Notebook Lenovo IdeaPad 3i 15IML05 Intel Core i3 - 4GB Ram e SSD de 256GB Tela 15,6” LCD Windows 10",Notebook Intel Celeron 4GB ram 128GB ssd IdeaPad 3i - igl Tela 15.6 Windows 10
+0,1,notebooks,Notebook Lenovo ThinkPad T14 i5-1145G7 16GB 256GB ssd W11 Pro 14 fhd 20W100BNBO Preto,"Notebook Lenovo V14 i5-1135G7 8GB 256GB SSD W11 Pro MX 350 2GB 14"" FHD 82NM0014BR Preto"
+0,0,notebooks,Notebook asus X571GT-AL888T Preto,Notebook ASUS VivoBook X513EP-EJ232T Preto
+0,0,notebooks,"Notebook Asus Zenbook Core I5 2,4 Ghz 8Gb 256 Gb Ssd",Notebook ASUS VivoBook X543UA-DM3507 INTEL CORE I3 7020U / 4 GB / 256 GB SSD / Endless OS / Cinza Escuro
+0,0,notebooks,"Notebook Samsung Intel Core i3-1115G4 4GB 1TB W11 15,6"" NP550XDA-KV2BR - Branco","Notebook Asus Intel Core i3-1115G4 4GB 256GB SSD W11 15,6"" Cinza X515EA-BR1275W"
+0,1,notebooks,"Notebook Ultra UB522 - Tela 15 Full hd, Intel i5, ram 8GB, ssd 240GB, Windows 10 - Prata","Notebook Ultra - Tela 14, Intel i5, 8GB, ssd 480GB, Windows 10 - Prata"
+0,0,notebooks,Notebook Lenovo V14 i7-1165G7 12GB 512GB ssd Geforce MX350 W11 Home 14 fhd 82NM0017BR Preto,"Notebook Lenovo V15 i7-1165G7 8GB 256GB SSD Geforce MX350 W11 Pro 15.6"""" FHD 82ME000NBR Preto"
+0,0,notebooks,Notebook Gamer ROG Zephyrus Duo 15 GX550LXS-HF157T INTEL CORE I7 10875H / 16 GB / 512 GB SSD / Windows 10 Home / Cinza,Notebook ASUS VivoBook 15 X513EA-EJ1065T INTEL CORE I7 1165G7 / 8 GB / 512 GB SSD / Windows 10 Home / Black
+0,0,notebooks,Notebook Lenovo 15.6 RYZEN5 8GB 256GBSSD W11 - 82MF0003BR Prata Bivolt,Notebook Lenovo Ideapad 3 Ryzen 7 8gb 256ssd W10 Prata
+0,1,notebooks,"SAMSUNG Notebook Book Intel Celeron W11 4GB 500GB HD 15.6"" NP550XDA-KP2BR- Branco - Bivolt","Notebook Samsung Book Intel, Celeron, 4Gb, 500Gb, 15.6 Pol"
+0,1,notebooks,"Notebook asus VivoBook X513EA-EJ3010 Intel Core i7 1165G7 8GB 256GB ssd Linux 15,6 LED Preto","Notebook asus VivoBook X513EA-EJ1064 Intel Core i7 1165G7 8GB 256GB ssd 15,6 LED-backlit Preto"
+0,0,notebooks,Notebook Lenovo Ideapad 3i 15.6 HD Intel Celeron ssd 128GB 4GB Windows 11 Home Prata - 82BU0006BR,Notebook lenovo ideapad 3I ryzen 5-5500U 8GB 256GB ssd windows 11 home 15.6 - prata
+0,0,notebooks,Notebook vaio FE14 Intel Core i5 Windows 11 Home 8GB 256GB ssd Full HD - Cinza Escuro,Notebook VAIO® FE14 Intel® Core™ i7 Windows 11 Home 8GB 256GB SSD Full HD Cinza Escuro - Inclui Microsoft 365*
+0,0,notebooks,Notebook asus E410MA-BV1872X Intel Celeron Dual Core N4020 4GB 128GB ssd W11 14 Rose Gold,"Notebook Asus Intel Core i3-1115G4 4GB 256GB SSD W11 15,6"" Cinza X515EA-BR1275W"
+0,1,notebooks,"Notebook Samsung Book Intel Core I5 1135G7 - Iris Xe, Windows 10 Home 256GB ssd, 8GB ram, Tela 15.6 Iintel iris xe - Cinza Chumbo",Notebook Samsung Book I5 8GB 256GB SSD 15.6 Windows 11H Cinza Chumbo
+0,0,notebooks,Notebook Compaq Presario CQ-29 Intel i5 5257u 8GB DDR3 ssd 480GB Tela 15.6 Full HD Windows 10 Home,"Notebook Intel Core i5, Tela 15.6 Full HD ips, 8GB, 480 ssd e Windows 10 - Everex"
+0,1,notebooks,Notebook i3 4GB ssd 120GB Tela full HD 15.6 Wifi Bluetooh WebCam,"Notebook i5 8GB SSD 240GB Tela FULL HD 15.6"" Wifi BT4 C/WebCam"
+0,1,notebooks,Kit Notebook Dell Inspiron i15-i1100-U25PC 15.6 Full HD 11ª Geração Intel Core i3 4GB 256GB ssd Linux com Capa,Notebook Dell Inspiron i15-i1100-U25P 15.6 Full HD 11ª Geração Intel Core i3 4GB 256GB ssd Linux
+0,0,notebooks,Notebook Dell Inspiron 15 i1101-M50S 15.6 Full HD 11ª geração Intel Core i7 8GB 512GB ssd nvidia Geforce Windows 11,"Notebook Dell Inspiron i15-i1100-M70P 15.6"" Full HD 11ª Geração Intel Core i7 8GB 256GB SSD NVIDIA GeForce Windows 11"
+1,1,notebooks,Notebook A315-56-569F Intel Core I5-1035G1 ssd 256GB Endless os Acer,"Notebook Acer 15,6 - A315-56-569F/ I5-1035G1 - Linux Endless"
+0,1,notebooks,"Notebook Dell Inspiron I15-3501-A25P Intel Core I3-1005G1 4GB 256GB SSD W10 15.6"" - Preto","Notebook Dell Inspiron i15-3501-A46P 15.6"" HD 10ª Geração Intel Core i5 8GB 256GB SSD Windows Preto"
+0,0,notebooks,"Notebook Positivo Motion Q464C-O Intel Atom Quad Core Windows 10 Home 14,1'' - Dourado - Inclui Microsoft 365*",Notebook Positivo Motion Q4128C Intel Atom Quad-Core Windows 10 Home 14.1 - Cinza – Inclui Microsoft 365*
+0,0,notebooks,Notebook Positivo Motion C4500a Intel Celeron Tela 14 Polegadas Hd 500gb 4gb Ram Com Tecla Netflix,Notebook Positivo Motion C4128ei Celeron Dual-core N3350 Memoria 4gb Ddr4 Hd 1tb Tela 14 Hd Led Linux
+0,1,notebooks,"MacBook Pro Apple 13,3"" Intel Core i5 (16GB 1TB) Prateado","MacBook Pro 13,3"" Intel Core i5 (16GB 512GB SSD) Cinza Espacial"
+0,1,notebooks,Notebook Acer Aspire 5 Intel Core I5 10210u 4gb Ram Ssd 256gb Linux Tela 15.6'' Full HD Wifi hdmi USB,Notebook Acer Aspire 5 A515 Intel Core I5-10210u Memoria 4gb Ssd 256gb Tela 15.6'' Full Hd Sistema Linux
+0,1,notebooks,"Notebook asus X515JF-EJ360T Intel Core i5 1035G1 8GB 256GB ssd W10 15,6 LED-backlit Cinza","Notebook ASUS X515JF-EJ361T Intel Core i5 1035G1 8GB 256GB SSD W10 15,6"" LED-backlit Cinza"
+1,1,notebooks,"Notebook Lenovo Ideapad 3i Intel Celeron N4020 Memoria 4GB Ssd 480GB Tela 15,6'' HD Windows 10 Pro","Notebook Lenovo Ultrafino Ideapad 3i Intel Celeron-N4020 4GB 128GB SSD W10 15.6"" Prata"
+0,1,notebooks,Notebook Dell Inspiron i15-i1100-M25P 15.6 Full HD 11ª Geração Intel Core i3 4GB 256GB ssd Windows 11 Preto,Notebook Dell Inspiron i15-i1100-U25P 15.6 Full HD 11ª Geração Intel Core i3 4GB 256GB ssd Linux
+0,0,notebooks,Notebook Acer A314-35-C4CZ Celeron N4500 4GB 256GB ssd 14FHD,Notebook Aspire 3 I5 4GB 256GB SSD Linux - Acer
+0,0,notebooks,Notebook Acer Aspire 3 A315-33-C58X Intel Celeron N3060 Memória de 4GB HD de 240GB ssd Tela de 15.6,"Adesivo de janela, filme de janela de economia de energia de 1,6 pés x 9,8 pés para Coberturas de controle de calor com bloqueio de UV para sala de estar e quarto"
+1,1,notebooks,Notebook Positivo Motion Red Q232B Intel® Atom® Quad- Core 2GB 32GB flash 14'' Windows 10 Home Flash Vermelho,Notebook positivo motion red Q232B intel ATOM/2GB/32GB EMMC/14/ WIND.10 home
+0,1,notebooks,"Notebook Nitro 5 AN515-44-R4KA, AMD R7 4800H, 8GB, 512GB SDD, (GTX 1650 com 4 GB) Windows11. 15,6” LED FHD IPS",Notebook Gamer Acer Nitro 5 AN515-44-R54Q AMD Ryzen 5 Windows 10 Home 8GB 512GB SSD GTX 1650 15.6' Full HD
+1,1,notebooks,Notebook Positivo C4128ei Celeron N3350 4gb Ddr4 Ssd 128gb Tela 14 Hd Led Windows 10 Pro,Notebook Positivo C4128ei Celeron N3350 4gb Ddr4 Ssd 240gb Tela 14 Hd Led Windows 10 Pro
+0,1,notebooks,Notebook Positivo Motion I 341TBi Intel Core i3 4GB ram HD 1TB Tela 14'' Linux - 3011873,Notebook Positivo Motion I34128BI 14 HD Intel Core i3-6157U 1TB 4GB Linux Cinza Escuro
+0,1,notebooks,"Notebook Acer 15.6"" A315-34-C5EY Celeron N4000 4GB 500GB, NX.HRNAL.001","Notebook Acer A315-34-C6ZS Intel Celeron N4000 4gb 1tb 15,6"" Linux"
+0,1,notebooks,Notebook dell inspiron I15-3501-A25P core i3,NOTEBOOK DELL VOSTRO 3401 CORE i3 1005G1
+0,1,notebooks,"Notebook 2 em 1 hp 435-G8, amd Ryzen 3, 8GB, 256GB ssd, Tela de 13, Windows 11 Home, 5R5A6LA","Notebook 256-g8 Hp, Core i3, 4gb, 256gb Ssd, Tela de 15"", Windows 11 Home, 5r5b0la"
+0,0,notebooks,Notebook Gamer 2AM E550 nvidia GeForce gtx 1050 3GB - Windows 10 Home Core i7-9700 8GB 1TB + ssd 128GB FullHD 15.6,"Notebook Gamer Dell G15-i1000-M20P 15.6"" FHD 10ª Geração Intel Core i5 8GB 512GB SSD NVIDIA GTX 1650 Windows 11"
+0,1,notebooks,"Notebook Lenovo Ideapad S145, 15.6, amd Ryzen 5, 8GB, Windows 10","Notebook Lenovo Ultrafino Ideapad S145 AMD Ryzen 5 12GB 1TB Linux 15.6"" Prata"
+0,1,notebooks,Notebook Gamer Legion Slim7 R5-5600H 16GB 512GB RTX3050 Ti 4GB W11 15.6 Full HD wva 82K800EABR,"Notebook Dell Gamer G15 - Tela 15.6 Full HD 120Hz, i5 10500H, 16GB, ssd 512GB, gtx 1650, Win10 Pro"
+0,1,notebooks,Notebook vaio FE14 Intel Core i3 Linux 4GB 128GB ssd Full HD - Branco,Notebook vaio FE14 Intel Core i3 Windows 11 Home 4GB 256GB ssd Full HD - Branco
+0,1,notebooks,"SAMSUNG CHROMEBOOK INTEL® DUAL-CORE, GOOGLE CHROME OS, 4GB, 32GB, 11.6'' HD LED, 1.18KG","SAMSUNG CHROMEBOOK INTEL DUAL-CORE, GOOGLE CHROME OS, 4GB, 32GB, 11.6'' HD LED, 1.18KG, Prata, XE340XDA-KS1BR"
+0,1,notebooks,"Notebook Lenovo Ideapad S145, 15.6, amd Ryzen 5, 8GB, Windows 10","Notebook Lenovo Ultrafino Ideapad 3 AMD Ryzen 7-5700u 8GB 256GB SSD W11 15,6"" - Prata"
+0,0,notebooks,Notebook Dell Inspiron i15-i1100-U40P 15.6 Full HD 11ª Geração Intel Core i5 8GB 256GB ssd Linux,"Notebook Dell Inspiron i15-i1100-M40PF 15.6"" Full HD 11ª Geração Intel Core i5 8GB 256GB SSD Microsoft 365 Windows 11"
+0,1,notebooks,Notebook Gamer Legion Slim7 R5-5600H 16GB 512GB RTX3050 Ti 4GB W11 15.6 Full HD wva 82K800EABR,"Notebook Dell Gamer G15 - Tela 15.6 Full HD 120Hz, i5 10500H, 16GB, ssd 512GB, gtx 1650, Linux"
+0,0,notebooks,Kit Notebook Dell Inspiron i15-i1100-U25PC 15.6 Full HD 11ª Geração Intel Core i3 4GB 256GB ssd Linux com Capa,"Kit Notebook Dell Inspiron i15-i1100-M25PB 15.6"" Full HD 11ª Geração Intel Core i3 4GB 256GB SSD Win 11 Preto com Mochila"
+0,1,notebooks,"Notebook 2 em 1 hp 435-G8, amd Ryzen 7, 16GB, 512GB ssd, Tela de 13, Windows 11 Home, 5R5A7LA","Notebook 2 em 1 hp 435-G8, amd Ryzen 3, 8GB, 256GB ssd, Tela de 13, Windows 11 Home, 5R5A6LA"
+0,1,notebooks,"Kit Notebook Dell Inspiron 15 a0500-MM10SB 15.6"" FHD AMD Ryzen™ 5 8GB 256GB SSD Windows 11 Prata + Mochila","Kit Notebook Dell Inspiron 15 a0500-MM10PB 15.6"" FHD AMD Ryzen™ 5 8GB 256GB SSD Windows 11 Preto + Mochila"
+0,1,notebooks,"Notebook Compaq Presario 420 Intel Pentium-N3700 4GB 120GB W10 14,1'' Cinza",Notebook Compaq Presario 430 Intel Core i3 Windows 10 Home 4GB 120GB ssd 14 - Cinza
+0,1,notebooks,"Notebook Positivo Motion C41TE Intel Celeron 14,1'' Cinza",Notebook Positivo Motion Tela 14 Intel Celeron 1TB - C41TE
+0,1,notebooks,Notebook vaio FE15 Intel Core i7 Linux 8GB 256GB ssd HD - Prata,Notebook VAIO® FE15 Intel® Core™ i7 Windows 11 Home 8GB 256GB SSD HD - Prata
+1,1,notebooks,"Notebook Acer 15,6 Fhd A515-45-r6kh/ R3-5300u/ 8gb/ 256gb Ssd/ W11 Home","NOTEBOOK ACER A515-45-R6KH R3 5300U 8GB 256GB SSD W11 15,6"
+0,1,notebooks,Notebook Acer Aspire 3 Intel Celeron 4GB 1TB Endless,Notebook Acer Aspire 3 A315-34-C7BT 15.6 Intel Celeron N4000 - Preto Oferta!
+0,1,notebooks,Notebook Acer Aspire 5 A514 Intel Core I5 1035G1 Memória 8gb Hd 1tb Ssd 256gb Tela 14'' HD Windows 10 Home,Notebook Acer Aspire 5 A515 Intel Core I5-10210u Memoria 20gb Hd 1tb Ssd 256gb Tela 15.6'' Full Hd Windows 10 Pro
+0,1,notebooks,"Notebook 15,6"" Bs145 I3-1005g1/4gb/hd500gb/win 10 Pro - 82hb0002br Lenovo","Notebook Lenovo B330 i5 - 8540U, 8GB RAM, 1TB HD 15.6'', Windows 10 Pro - Preto"
+0,1,notebooks,"Notebook Dell Inspiron i15-i1100-U60P 15.6"" Full HD 11ª Geração Intel Core i7 8GB 256GB SSD Linux Preto","Notebook Dell Inspiron i15-i1100-U60S 15.6"" Full HD 11ª Geração Intel Core i7 8GB 256GB SSD Linux Prata"
+0,0,notebooks,Notebook compaq CQ-27 COREI3 4GB SSD120GB WIN10,"Notebook Compaq Presario 431 14,1 LED HD i3-6157U 120GB 4GB Shell efi - Cinza"
+0,1,notebooks,"Notebook Dell Inspiron i15-i1100-M40PF 15.6"" Full HD 11ª Geração Intel Core i5 8GB 256GB SSD Microsoft 365 Windows 11","Notebook Dell Inspiron i15-i1100-M40S 15.6"" Full HD 11ª Geração Intel Core i5 8GB 256GB SSD Windows 11"
+0,0,notebooks,Kit Notebook Dell Inspiron i15-i1100-U25PC 15.6 Full HD 11ª Geração Intel Core i3 4GB 256GB ssd Linux com Capa,"Notebook Dell Inspiron i15-i1100-U20P 15.6"" Full HD 11ª Geração Intel Core i3 4GB 128GB SSD Linux"
+0,1,notebooks,Notebook Gamer Acer Nitro 5 AN515-44-R4KA amd Ryzen 7 Windows 11 Home 8GB 512GB ssd gtx 1650 15.6',"Notebook Acer Aspire 5 A515-45-R2A3 AMD Ryzen 5 Windows 11 Home 8GB 512GB SSD 15,6' Full HD"
+0,1,notebooks,"Notebook Lenovo Ultrafino Ideapad 3 AMD Ryzen 7-5700u 8GB 256GB SSD W11 15,6"" - Prata","Notebook Lenovo Ultrafino ideapad S145 Ryzen 5 8GB 256GB SSD Windows 10 15.6"" 81V70008BR Prata"
+0,1,notebooks,Notebook Samsung Book I3 8GB 256GB SSD 15.6 Windows 11 Cinza Chumbo,Notebook Samsung Book I3 4GB 256GB SSD 15.6 Windows 11 Cinza Chumbo
+0,1,notebooks,"Dell Inspiron i3501-U25P - Tela 15.6, Intel i3 1005G1, 4GB, ssd 256GB, Linux",Kit Notebook Dell Inspiron i15-i1100-U25PC 15.6 Full HD 11ª Geração Intel Core i3 4GB 256GB ssd Linux com Capa
+1,1,notebooks,"Notebook Lenovo Ideapad 3i Intel Celeron N4020 Memoria 4GB Ssd 240GB Tela 15,6'' HD Sistema Linux",Notebook Intel Celeron 4GB ram 128GB ssd IdeaPad 3i - igl Tela 15.6 Windows 10
+0,0,notebooks,Notebook IdeaPad 128 gb 4 gb com ssd Lenovo,"Lenovo IdeaPad 1 14IGL05 81VU00D6US 14"" Notebook - HD - 1366 x 768 - Intel Pentium Silver N5030 Quad-core (4 núcleos) 1,10 GHz - 4 GB de RAM - 128 GB SSD"
+0,1,notebooks,"Notebook Lenovo Ultrafino Ideapad 3 AMD Ryzen 7-5700u 8GB 256GB SSD W11 15,6"" - Prata",Notebook lenovo ideapad 3I ryzen 5-5500U 8GB 256GB ssd windows 11 home 15.6 - prata
+0,1,notebooks,Notebook asus E410MA-BV1872X Intel Celeron Dual Core N4020 4GB 128GB ssd W11 14 Rose Gold,"Notebook ASUS E410MA-BV1871X Celeron Dual Core N4020 4GB 128GB SSD W11 14"" LED-backlit Star Black"
+0,0,notebooks,"Notebook Samsung NP550XDA-KV1BR Intel Core i3-1115G4 4GB 1TB  Tela 15,6"" W11 - Cinza Chumbo","Notebook Asus Intel Core i3-1115G4 4GB 256GB SSD W11 15,6"" Cinza X515EA-BR1275W"
+0,0,notebooks,Notebook vaio FE14 Intel Core i5 Linux 8GB 1TB Full HD - Cinza Escuro,Notebook VAIO® FE14 Intel® Core™ i3 Windows 11 Home 4GB 1TB Full HD - Cinza Escuro
+0,0,notebooks,"Notebook Positivo Motion C4128Ei - Intel Celeron Dual Core N3350, 14, 4Gb, ssd 128GB","Notebook ASUS E410MA-BV1872X Intel Celeron Dual Core N4020 4GB 128GB SSD W11 14"" Rose Gold"
+0,0,notebooks,"Notebook Samsung Intel Celeron-6305 NP550XDA-KP3BR 4GB 256GB SSD Tela 15,6"" Windows 11 - Cinza Chumbo",Notebook Samsung Book I3 8GB 256GB ssd 15.6 Windows 11 Cinza Chumbo
+1,1,notebooks,NTB POSITIVO MOTION RED Q464C,Notebook Positivo Motion Q464C Intel Atom Z8350 4GB eMMC 64GB W10 14.1'' - Vermelho
+0,1,notebooks,"Notebook Acer Aspire 5 A515-54-53VN Core I5 –10210U 8GB Win10, preto",Notebook Acer Aspire 5 A515-54-55L0 Core I5 –10210U 8GB Win10
+0,1,notebooks,"Notebook Gamer Dell G15-a0500-MM10P 15.6"" FHD AMD Ryzen™ 5 8GB 512GB SSD NVIDIA RTX 3050 Windows 11","Notebook Gamer Dell G15-a0500-M11P 15.6"" 165Hz FHD AMD Ryzen™ 5 8GB 512GB SSD NVIDIA RTX 3050 Windows 11"
+0,0,notebooks,Notebook Lenovo V14 i3-1115G4 8GB 256GB ssd W11 Home 14 HD 82NM0010BR Preto,"Notebook Lenovo V14 i5-1135G7 8GB 256GB SSD W11 Home 14"" FHD 82NM0012BR Preto"
+0,1,notebooks,"Notebook asus VivoBook X513EA-EJ3010 Intel Core i7 1165G7 8GB 256GB ssd Linux 15,6 LED Preto","Notebook Asus Intel Core i7-1165G7 8GB 256GB SSD W11 15,6"" Preto X513EA-EJ3010W"
+0,0,notebooks,"Notebook asus X515JF-EJ360T Intel Core i5 1035G1 8GB 256GB ssd W10 15,6 LED-backlit Cinza","Notebook asus VivoBook X513EA-BQ2782W Intel Core i5 1135G7 8GB 256GB ssd W11 15,6 LED-backlit Azul"
+0,0,notebooks,Chromebook Lenovo 100e Gen 3 amd 3015C3 4GB 32GB eMMC Google Chrome 11.6 Antirreflexo 82J80001BR,"Chromebook Acer 11,6'' C733T-C2HY Cel 4GB eMMC 32GB OS Touch"
+0,0,notebooks,Kit Notebook Dell Inspiron 15 3000 a0700-MM20SF 15.6 fhd amd Ryzen 7 8GB 256GB ssd Windows 11 + Microsoft 365 Prata,"Kit Notebook Dell Inspiron 15 a0500-MM10SC 15.6"" FHD AMD Ryzen™ 5 8GB 256GB SSD Windows 11 Prata + Capa"
+1,1,notebooks,Notebook Gamer Dell G15-i1000-M20P 15.6 fhd 10ª Geração Intel Core i5 8GB 512GB ssd nvidia gtx 1650 Windows 11,"Notebook Gamer Dell G15-i1000-M20P 15.6"" FHD 10ª Geração Intel Core i5 8GB 512GB SSD NVIDIA GTX 1650 Windows 11"
+0,1,notebooks,"Notebook i3 4GB HD 500GB Tela FULL HD 15.6"" Wifi BT4 C/WebCam","Notebook i3 4GB SSD 120GB Tela FULL HD 15.6"" Wifi BT4 C/WebCam"
+0,1,notebooks,Notebook Samsung Book Celeron 4GB 256GB SSD 15.6 W11H Cinza Chumbo,Notebook Samsung Book I3 4GB 256GB ssd 15.6 Windows 11 Cinza Chumbo
+0,1,notebooks,Notebook Gamer Acer Nitro 5 AN517-52-50RS Intel Core i5 Windows 11 Home 8GB 512GB SSD GTX 1650 17.3',Notebook Gamer Acer Nitro 5 AN517-52-77KZ Intel Core i7 Windows 11 Home 8GB 512GB ssd gtx 1650 17.3'
+0,0,notebooks,"Notebook Samsung Intel Core i3-1115G4 4GB 1TB W11 15,6"" NP550XDA-KV2BR - Branco",Notebook Samsung Book Intel Core I3-1115G4 4GB 1TB W10 FHD 15.6'' Cinza Chumbo NP550XDA-KT1BR
+0,1,notebooks,Notebook Dell Inspiron i15-i1100-M20PF 15.6 Full HD 11ª Ger. Intel Core i3 4GB 128GB ssd Win 11 Microsoft 365 Preto,"Notebook Dell Inspiron i15-i1100-M10PF 15.6"" Full HD Intel Pentium Gold 4GB 128GB SSD Windows 11 Microsoft 365 Preto"
+0,0,notebooks,Notebook Samsung E40 NP550XDZ i3 4GB 256GB ssd Linux Cinza,Notebook Aspire 3 I5 4GB 256GB ssd Linux - Acer
+0,1,notebooks,Notebook Dell Inspiron 15 3000 a0700-UM20P 15.6 fhd amd Ryzen 7 8GB 256GB ssd Linux Preto,"Notebook Dell Inspiron 15 a0500-UM10S 15.6"" FHD AMD Ryzen™ 5 8GB 256GB SSD Linux Prata"
+0,1,notebooks,"Notebook Lenovo Ultrafino Ideapad 3i Intel Core i5-10210U 8GB (GeForce MX330 2GB) 256GB SSD Linux 15,6"" - Prata","Notebook Lenovo Ultrafino Ideapad S145 Intel Core i5-1035G1 8GB 256GB SSD W10 15.6"" Prata"
+1,1,notebooks,"Notebook Positivo Motion Q464C Intel Atom Quad Core 4GB 64GB eMMC 14,1'' W10 - Cinza",NTB POSITIVO MOTION GRAY Q464C
+0,1,notebooks,"Notebook Samsung Book E30 4GB, 15.6'', Intel Core i3, ssd 256GB, Windows 10 Home, cinza","ASUS Notebook VivoBook, Intel Core i3 7020U, 4GB, 256GB SSD, Tela de 15,6"", Windows 10, Cinza Escuro - X543UA-GQ3430T"
+0,1,notebooks,"Notebook Samsung Book 15,6 fhd Intel Celeron 6305 128GB ssd 4GB Windows 10 Pro - NP550XDA-KO7BR",Notebook Intel Celeron 4GB ram 128GB ssd IdeaPad 3i - igl Tela 15.6 Windows 10
+1,0,notebooks,Notebook Gamer Acer Nitro 5 AN515-44-R4KA amd Ryzen 7 Windows 11 Home 8GB 512GB ssd gtx 1650 15.6',"Notebook Gamer Acer Nitro 5 Ryzen 7 4800H, GeForce gtx 1650, 8GB ram Preto"
+0,1,notebooks,Notebook Positivo Motion Gray C4128E ssd 128GB DDR4 4GB,"Notebook Positivo Motion Gold C4128E Intel Celeron 4GB 128GB SSD 14,1'' W10 Dourado + Licença Office 365"
+0,0,notebooks,Kit Notebook Dell Inspiron 15.6 i1101-M60SB fhd 11ªger Intel Core i7 16GB 512GB ssd nvidia Geforce Windows 11 Mochila,"Notebook Gamer Dell G15-i1100-M50P 15.6"" FHD 11ª Geração Intel Core i7 16GB 512GB SSD NVIDIA RTX 3060 Windows 11"
+0,1,notebooks,Notebook Lenovo V14 i3-1115G4 8GB 256GB ssd W11 Home 14 HD 82NM0010BR Preto,Notebook Lenovo V14 i5-1135G7 8GB 256GB ssd Linux 14 82NMS00100 Preto
+1,0,notebooks,"Notebook Samsung NP550XDA-KV1BR Intel Core i3-1115G4 4GB 1TB  Tela 15,6"" W11 - Cinza Chumbo","Notebook Samsung Book 11ª Geração Intel Core i3-1115G4 4GB HDD 1TB 15,6"" Full HD Windows 11 Home Cinza-chumbo"
+0,1,notebooks,Notebook Gamer Dell G15-i1100-M30P 15.6 fhd 11ª Geração Intel Core i5 8GB 512GB ssd nvidia rtx 3050 Windows 11,"Notebook Gamer Dell G15-i1100-M45P 15.6"" 165Hz FHD 11ª Geração Intel Core i5 16GB 512GB SSD NVIDIA RTX 3050 Windows 11"
+1,1,notebooks,Multilaser notebook ultra 14 core I3 4GB 1TB W10 prata UB421,"Notebook 14"" Ultra Core I3/4gb/1tb/win10 Prata Ub421 Multilaser"
+0,0,notebooks,"Samsung Book E20 Intel® Dual-Core, Windows 10 Home, 4GB, 500GB, 15.6'' HD LED","Notebook Samsung Book Intel Dual-Core, Windows 10 Home 500GB, 4GB ram, Tela 15.6 Full HD LED Branco"
+0,0,notebooks,Notebook Gamer Dell G15-i1000-M20P 15.6 fhd 10ª Geração Intel Core i5 8GB 512GB ssd nvidia gtx 1650 Windows 11,Notebook Gamer Dell G15-i1100-M30P 15.6 fhd 11ª Geração Intel Core i5 8GB 512GB ssd nvidia rtx 3050 Windows 11
+0,1,notebooks,Notebook Lenovo Gaming 3 Core i5 8GB 256GB ssd gfx 4GB Linux,Notebook Aspire 3 I5 4GB 256GB ssd Linux - Acer
+0,0,notebooks,Notebook Compaq Presario CQ-29 Intel i5 5257u 8GB DDR3 ssd 480GB Tela 15.6 Full HD Windows 10 Home,"Notebook Intel Core i5, Tela 15.6 Full HD ips, 8GB, 240 ssd e Windows 10 - Everex"
+0,1,notebooks,Notebook Lenovo V14 i5-1135G7 8GB 256GB ssd Intel Iris Xe Graphics Win 10 Pro 14 82NM0000BR Preto,"Notebook Lenovo V14 i5-1135G7 8GB 256GB SSD Linux 14"" 82NMS00100 Preto"
+0,1,notebooks,"Notebook asus VivoBook X513EA-BQ2782W Intel Core i5 1135G7 8GB 256GB ssd W11 15,6 LED-backlit Azul","ASUS Notebook X515JA-EJ1792W Intel Core i5 1035G1 8GB 256GB ssd W11 15,6 LED-backlit Cinza"
+0,1,notebooks,Notebook Lenovo 15.6 RYZEN5 8GB 256GBSSD W11 - 82MF0003BR Prata Bivolt,"Notebook Lenovo 3i Intel i5-10210U 8GB ssd 256GB 15,6 W11"
+0,1,notebooks,Notebook Lenovo Ultrafino ideapad S145 i7-1065G7 8GB (Placa de Vídeo Intel Iris Plus) 256GB SSD W10 15.6'' FHD Prata,"Notebook Lenovo Ultrafino IdeaPad 3i i7 8GB 256GB SSD Placa de Vídeo Dedicada Linux 15.6"" 82BSS00500, Prata"
+0,0,notebooks,"Notebook Samsung Book NP550XDA-K02BR, Intel Dual-Core, 4GB, 500GB, Branco - Windows 10","Samsung Book E20 Intel® Dual-Core, Windows 10 Home, 4GB, 500GB, 15.6'' HD LED"
+0,1,notebooks,"Notebook Gamer Dell G15-a0700-MM20PB 15.6"" FHD AMD Ryzen™ 7 16GB 512GB SSD NVIDIA RTX 3060 Windows 11 + Mochila","Kit Notebook Gamer Dell G15-a0700-MM20PM 15.6"" FHD AMD Ryzen™ 7 16GB 512GB SSD NVIDIA RTX 3060 Windows 11"
+0,1,notebooks,"Notebook Asus Intel Core i3-1115G4 4GB 256GB SSD W11 15,6"" Cinza X515EA-BR1275W","ASUS Notebook Intel Core i7-1165G7 8GB 256GB SSD W11 15,6"" Preto X513EA-EJ3010W"
+0,1,notebooks,"Notebook Asus Vivobook Intel Core i7-1165G7 8GB 256GB SSD W10 15,6"" Preto X513EA-EJ1064T","ASUS Notebook Intel Core i7-1165G7 8GB 256GB SSD W11 15,6"" Preto X513EA-EJ3010W"
+0,0,notebooks,"Notebook Acer Aspire 3 amd Ryzen 3500U, 1TB hd, 8GB ram, amd Radeon Graphics 2GB GDDR5","Notebook Acer Aspire 3 AMD R5-3500U 8GB (AMD Radeon Vega 8) 512GB SSD W10 15,6'' A315-23-R6HC - Preto"
+0,0,notebooks,Notebook lenovo ideapad 3I ryzen 5-5500U 8GB 256GB ssd windows 11 home 15.6 - prata,"Notebook Lenovo Ultrafino IdeaPad 3 Ryzen 7 5700U 8GB 256GB SSD Windows 11 15.6"" 82MF0004BR Prata"
+0,0,notebooks,Notebook Dell Inspiron i13-i1100-M20S 13.3 Full HD 11ª geração Plataforma Intel evo Core i7 8GB 512GB ssd Windows 11,"Notebook Dell Inspiron i15-i1100-M70P 15.6"" Full HD 11ª Geração Intel Core i7 8GB 256GB SSD NVIDIA GeForce Windows 11"
+0,0,notebooks,Notebook asus X515EA-EJ1668 Cinza,Notebook ASUS VivoBook X512FJ-EJ571T Cinza Escuro
+0,0,notebooks,Notebook positivo motion Q432B intel ATOM/4GB/32GB EMMC/14/ WIND.10 home,Notebook positivo motion red Q232B intel ATOM/2GB/32GB EMMC/14/ WIND.10 home
+0,1,notebooks,Notebook Lenovo ideapad Gaming 3i i5-10300H 8GB 256SSD gtx 1650 4GB 15.6 fhd wva W10 82CG0002BR,Notebook ideapad Gaming 3i i5-10300H 8GB 256GBSSD gtx 1650 4GB 15.6 fhd wva Linux 82CGS00100
+0,1,notebooks,"Notebook Gamer Acer Nitro 5 Ryzen 7 4800H, GeForce gtx 1650, 8GB ram Preto","Notebook Gamer Acer Nitro AN515-43-R9K7 AMD Ryzen 5 8GB RAM, 1TB + 256SSD Placa de Vídeo NVIDIA GeForce GTX 1650"
+0,1,notebooks,Notebook Multilaser Legacy Book PC250 Celeron 4gb 64gb Preto,Notebook Multilaser Legacy Book PC312 Intel 64GB Windows 10 Preto
+1,1,notebooks,"Notebook Gamer Dell G15-I1100-A30P 11ª Intel Core i5 8GB 512GB SSD (GeForce RTX 3050 4GB) Tela FHD 15.6"" Windows 11 - Preto","Notebook Gamer Dell G15-i1100-A30P 15.6"" FHD 11ª Geração Intel Core i5 8GB 512GB SSD NVIDIA RTX 3050 Windows 11, preto"
+0,0,notebooks,Notebook ASUS Vivobook Pro 15 K3500PC-KJ390W INTEL CORE I7 11370H / 16 GB / 512 GB / Windows 11 Home / Prata Metálico,Notebook ASUS Vivobook Pro 15 M3500QC-KJ432W AMD RYZEN 7 5800H / 16 GB / 512 GB / Windows 11 Home / Prata Metálico
+0,0,notebooks,"Notebook Samsung Flash F30 Intel Celeron 4GB 64GB SSD Full HD 13.3"" W10 - Cinza","Notebook Samsung Galaxy Book S Intel Core i5- L16G7 8GB 256GB SSD 13,3"" Full HD Windows 10 Home, Cinza"
+0,1,notebooks,"Notebook Acer A514-53- Tela 14, Intel i3 1005G1, ram 8GB, ssd 128GB, Windows 10 Professional","Notebook Acer Aspire 5 A514-53-31PN Intel Core i3 10ª geração 4GB RAM, 128GB SSD 14' Windows 10 + Office 365"
+0,0,notebooks,Notebook Gamer Dell G15-i1000-M20P 15.6 fhd 10ª Geração Intel Core i5 8GB 512GB ssd nvidia gtx 1650 Windows 11,"Notebook Gamer Dell G15-i1100-M30P 15.6"" FHD 11ª Geração Intel Core i5 8GB 512GB SSD NVIDIA RTX 3050 Windows 11"
+0,1,notebooks,"Notebook lenovo ideapad 3i 15,6 HD celeron N4020 4GB 128GB ssd linux","Notebook Lenovo Ideapad 3i Intel Celeron N4020 Memoria 4GB Ssd 240GB Tela 15,6'' HD Sistema Linux"
+0,0,notebooks,"Notebook asus VivoBook X513EA-BQ2782W Intel Core i5 1135G7 8GB 256GB ssd W11 15,6 LED-backlit Azul","Notebook asus VivoBook X513EA-EJ1064 Intel Core i7 1165G7 8GB 256GB ssd 15,6 LED-backlit Preto"
+1,1,notebooks,"Notebook Positivo Motion Gray C4128E-S Intel Celeron 4GB 128GB SSD 14,1'' LED Webcam HD Windows 10 Home - Cinza",Notebook Positivo Motion Tela 14 Intel Celeron 128GB - C4128E
+0,0,notebooks,Notebook Windows 10 Home Intel Core i3 4GB 1TB Ultra,Notebook Compaq Presario 434 Intel Core i3 Windows 10 Home 4GB 1TB 14 - Cinza
+0,0,notebooks,Notebook Lenovo V14 i5-1135G7 8GB 256GB ssd Linux 14 82NMS00100 Preto,Notebook Lenovo V14 i3-1115G4 8GB 256GB ssd W11 Pro 14 HD 82NM000YBR Preto
+0,1,notebooks,"Notebook Lenovo Ultrafino IdeaPad S145, Intel Core i3-1005G1, 4GB RAM, 1TB HD, Windows 10, 15.6"", Prata",Notebook Lenovo IdeaPad 3i i3 4GB ram 1TB HD 15.6 Windows 10
+0,0,notebooks,Notebook VAIO® FE14 Intel® Core™ i3 Linux 4GB 128GB SSD Full HD - Branco,Notebook VAIO® FE14 Intel® Core™ i3 Linux 4GB 128GB SSD Full HD - Cinza Escuro
+0,0,notebooks,Notebook i3 4GB HD 500GB Tela full HD 15.6 Wifi Bluetooh WebCam,Notebook FE14 I3 4GB Tela 14 LED Full HD Vaio
+0,1,notebooks,"Notebook Philco PNB14 Intel Celeron-N3350 4GB 128GB W10 14"" Cinza",Notebook Acer Aspire 5 Intel Core i5-1035G1 4GB 256GB SSD W10 14'' A514-53-5239 - Cinza
+0,0,notebooks,"Notebook Asus, Intel Core i3 1005G1, 8GB, 256GB ssd, Tela de 15,6, W11, Cinza - X515JA-BR2751W","ASUS Notebook Intel Core i5-1035G1, 8GB, 256GB SSD, Intel® HD Graphics 620, Tela de 15,6"", Cinza - X515JA-EJ592T"
+0,1,notebooks,Notebook Lenovo Ideapad 3i 15.6 HD Intel Celeron ssd 128GB 4GB Windows 11 Home Prata - 82BU0006BR,"Notebook Lenovo IdeaPad 3i Celeron 4GB 128GB SSD + Microsoft 365 Personal - Windows 11 15.6"" 82BU0008BR Prata"
+0,0,notebooks,"Notebook Dell Inspiron I15-3501-A25P Intel Core I3-1005G1 4GB 256GB SSD W10 15.6"" - Preto","Notebook Dell Inspiron 15 3000 i15-3583-DS90S 8ª Geração Intel Core i7 8GB 256GB SSD 15.6"" Linux Preto"
+0,1,notebooks,Kit Notebook Dell Inspiron i15-i1100-M10PC 15.6 Full HD Intel Pentium Gold 4GB 128GB ssd Windows 11 Preto com Capa,"Notebook Dell Inspiron i15-i1100-M10PF 15.6"" Full HD Intel Pentium Gold 4GB 128GB SSD Windows 11 Microsoft 365 Preto"
+0,0,notebooks,Notebook vaio FE15 Intel Core i7 Linux 8GB 256GB ssd HD - Prata,"Notebook Dell Inspiron i15-3501-D60S 15.6"" HD 11ª Geração Intel Core i7 8GB 256GB SSD Linux Prata"
+0,1,notebooks,Notebook Samsung Book Intel Celeron-6305 4GB 500GB W10 FHD 15.6'' Cinza Chumbo NP550XDA-KO1BR,"SAMSUNG, Notebook Samsung Intel Celeron-6305 4GB 500GB W11 15,6"" Cinza Chumbo NP550XDA-KP1BR"
+0,0,notebooks,Notebook Dell Inspiron 15 i1101-M60S 15.6 Full HD 11ª geração Intel Core i7 16GB 512GB ssd nvidia Geforce Windows 11,Notebook Dell Inspiron 15 i1101-M50S 15.6” Full HD 11ª geração Intel Core i7 8GB 512GB SSD NVIDIA Geforce Windows 11
+0,1,notebooks,"Notebook Lenovo Ultrafino Ideapad 3i Intel Core i5-10210U 8GB (GeForce MX330 2GB) 256GB SSD Linux 15,6"" - Prata","Notebook Lenovo, Intel Core i5 10210U, 8GB, 256GB ssd, Tela de 15,6, nvidia MX330, Prata, IdeaPad 3i - 82BS0001BR"
+0,1,notebooks,Notebook Lenovo BS145 Intel i3 1005G1 4GB 500GB Windows 10 Home 15.6' HD Preto - 82HB0001BR,Notebook lenovo BS145-15IIL I3 1005G1 4GB 500GB 15.6 dos
+0,1,notebooks,"Notebook 2 em 1 hp 435-G8, amd Ryzen 7, 16GB, 512GB ssd, Tela de 13, Windows 11 Home, 5R5A7LA","Notebook 2 em 1 Hp 435-g8, Amd Ryzen 3, 8gb , 256gb Ssd, Tela de 13"", Windows 11 Home, 5r5a6la"
+0,0,notebooks,Notebook Samsung Book I5 8GB 512GB ssd 15.6 Windows 11 Cinza Chumbo,Notebook Samsung Book I3 4GB 256GB ssd 15.6 Windows 11 Cinza Chumbo
+0,1,notebooks,"Notebook Lenovo S145 Intel Celeron Linux 4Gb 500Gb HD 15.6"" Prata - Bivolt","Notebook Lenovo Ultrafino ideapad S145 i3-8130U 4GB 1TB Linux 15.6"" 81XMS00000 Prata"
+0,1,notebooks,Notebook Acer A315 Intel Celeron N4000 Memoria 8gb HD 1tb Tela 15.6' Hd Windows 10 Home,Notebook Acer A315 Intel Celeron N4000 Memoria 4gb Ssd 120gb Tela 15.6' Hd Windows 10 Pro
+0,0,notebooks,"Notebook Acer A514-53 - Tela 14, Intel i3 1005G1, 12GB, ssd 128GB + HD 1TB, Windows 10 Pro","Notebook Dell Inspiron i15-3501 - Tela 15.6, Intel i3 1005G1, 12GB, ssd 256GB, Windows 10 Pro"
+0,1,notebooks,Notebook Positivo Motion C41TEi Intel Celeron Dual-Core Linux 14 - Vermelho,"Notebook Positivo Motion C4128E Intel® Celeron® Dual-Core™ Windows 10 Home 14"" - Vermelho - Inclui Microsoft 365* Notebook Positivo Motion C4128E Intel® Celeron® Dual-Core™ Windows 10 Home 14"" - Vermelho - Inclui Microsoft 365"
+0,0,notebooks,Notebook asus E410MA-BV1872X Intel Celeron Dual Core N4020 4GB 128GB ssd W11 14 Rose Gold,"Notebook ASUS X515MA-BR623X Intel Celeron Dual Core N4020 4GB 128GB SSD W11 15,60"" LED-backlit Cinza"
+0,1,notebooks,"Notebook Asus Core I5 256GB Memória 4GB ram Windows 11 15,6 Polegadas wi-fi X515JA-EJ2734W",Notebook Intel Core i5 8GB ram 256GB ssd IdeaPad 3i-15IML Tela 15.6 Windows 11
+0,1,notebooks,"Notebook Samsung Book 11ª Intel Core i3-1115G4 4GB 256GB SSD 15,6"" Full HD Windows 10 Home, Cinza Chumbo","Notebook Samsung Book E40 Intel Core i3-10110U 4GB 256GB SSD 15,6"" Full HD Windows 10 Home, Prata"
+0,1,notebooks,Notebook Samsung Tela 11.6 N4000 32GB 4GBRAM Chromebook XE310XBA-KT1BR,NOTEBOOK SAMSUNG NP550XDA-KU3BR
+0,1,notebooks,"Notebook Samsung Intel Core i3-1115G4 4GB 1TB W11 15,6"" NP550XDA-KV2BR - Branco",Notebook Samsung Book Intel Core I3-1115G4 4GB 1TB W10 FHD 15.6'' Branco NP550XDA-KT2BR
+0,0,notebooks,Notebook vaio FE14 Intel Core i3 Linux 4GB 128GB ssd Full HD - Branco,"Notebook Vaio FE14 B1521H - Tela 14 Full hd, Intel i3 1005G1, 4GB, ssd 128GB, Linux - VJFE42F11X"
+0,0,notebooks,Notebook Lenovo IdeaPad Flex 5i i7-1165G7 8GB 256GB ssd W11 14 fhd Intel Iris Xe,Notebook Lenovo Yoga 7i 2 em 1 14 i7-1165G7 8GB 512GB ssd Intel Iris Xe W11 fhd wva
+0,1,notebooks,"Notebook GT Silver Intel® Dual-Core, 4GB, SSD 64GB, 14"", Windows 10","Notebook GT Silver Intel® Dual-Core, 4GB, SSD 64GB, 14"""
+0,0,notebooks,Notebook asus E410MA-BV1872X Intel Celeron Dual Core N4020 4GB 128GB ssd W11 14 Rose Gold,Notebook asus E410MA-BV1870X Intel Celeron Dual Core N4020 4GB 128GB ssd W11 14 Peacock Blue
+1,1,notebooks,Notebook Acer Aspire 3 Intel Celeron 4GB 1TB Endless,"Notebook Acer Aspire 3 A315-34-c6zs Intel Celeron N4000 4gb Ram 1tb Hd 15,6 Linux"
+0,1,notebooks,"Notebook Acer A514-53 - Tela 14, Intel i3 1005G1, 12GB, ssd 128GB + HD 1TB, Windows 10 Pro",Notebook Acer Aspire 5 A514 Intel Core I5 1035G1 Memória 12gb Hd 1tb Ssd 256gb Tela 14'' HD Windows 10 Home
+0,0,notebooks,Notebook Samsung Chromebook 11.6 Intel Celeron N4020 32GB eMMC 4GB Chrome os XE310XBA-KT3BR,"Samsung Chromebook 3 XE501C13-K02US, Intel Dual-Core Celeron N3060, 11,6"" HD, 4GB DDR3, 32GB eMMC, Night Charcoal"
+1,0,notebooks,"Notebook Lenovo BS145 i3-1005G1 4GB 500GB W10 Home 15.6"" HD Antirreflexo 82HB0001BR Preto, Silver",Notebook Lenovo BS145 Intel i3 1005G1 4GB 500GB Windows 10 Home 15.6' HD Preto - 82HB0001BR
+1,0,notebooks,Notebook vaio FE14 Intel Core i3 Linux 4GB 1TB Full HD - Cinza Escuro,VAIO® FE14 Core™ i3 10ª Geração Linux - Chumbo
+0,1,notebooks,"Notebook Samsung NP550XDA-KV1BR Intel Core i3-1115G4 4GB 1TB  Tela 15,6"" W11 - Cinza Chumbo","SAMSUNG Book Intel® Core™ i3-1115G4, Windows 10 Home, 4GB, 1TB, 15.6'' Full HD LED, Cinza, NP550XDA-KV1BR"
+0,1,notebooks,Notebook Dell Inspiron 15 3000 a0500-UM10P 15.6 fhd amd Ryzen 5 8GB 256GB ssd Linux Preto,"Notebook Dell Inspiron 15 3000 i15-a0500-AM10P 15.6"" FHD AMD Ryzen™ 5 8GB 256GB SSD Windows 11 Preto"
+0,0,notebooks,Notebook Gamer Dell G15-i1000-M10P 15.6 fhd 10ª Geração Intel Core i5 8GB 256GB ssd nvidia gtx 1650 Windows 11,"Notebook Gamer Dell G15-i1000-U20P 15.6"" FHD 10ª Geração Intel Core i5 8GB 512GB SSD NVIDIA GTX 1650 Linux"
+0,1,notebooks,Notebook Aspire 3 I5 4GB 256GB SSD Linux - Acer,Notebook Acer Aspire 5 256Gb ssd Core I5-10210U 4Gb Ram
+1,1,notebooks,"Notebook Acer A315-56-569F, Intel Core i5, 4GB 256GB, 15.6, Endless Os, Grafite",Notebook Aspire 3 I5 4GB 256GB SSD Linux - Acer
+0,1,notebooks,Notebook Positivo Motion I 341TBi Intel Core i3 4GB ram HD 1TB Tela 14'' Linux - 3011873,Notebook Compaq Presario 433 Intel Core i3 Linux 4GB 1TB 14 - Cinza
+0,0,notebooks,Notebook Samsung Book Intel Celeron-6305 4GB 500GB W10 FHD 15.6'' Cinza Chumbo NP550XDA-KO1BR,"Notebook Samsung Book E20 Intel Celeron 4GB 500GB W10 15,6"" - Prata"
+0,0,notebooks,"Notebook Gamer Gigabyte G5 Intel Core i5 10500H 16GB ram ssd 512GB GeForce rtx 3060 Tela 15,6'' Win 10 Home - KC-5BR2130SH",Notebook Gamer Acer Nitro 5 AN515-55-50JB Processador Intel Core I5 16GB 512GB ssd Windows 10 Tela 15.6
+0,0,notebooks,Notebook Dell Inspiron i13-i1100-M10S 13.3 Full HD 11ª geração Plataforma Intel evo Core i5 8GB 256GB ssd Windows 11,Notebook Dell Inspiron i15-i1100-M40PF 15.6 Full HD 11ª Geração Intel Core i5 8GB 256GB ssd Microsoft 365 Windows 11
+1,1,notebooks,Notebook Compaq Presario CQ-29 Intel i5 5257u 8GB DDR3 ssd 480GB Tela 15.6 Full HD Windows 10 Home,"Notebook Compaq Presario CQ29 (Core i5 / 5257u / 8GB RAM / SSD 480GB / Win 10 Home / Tela 15,6'') - Preto - CQ29"
+1,1,notebooks,"Notebook Acer 15,6"" A515-55G-53QD I5-1035G1 8GB 512GB W10H",Notebook Acer Aspire 5 i5 W10 Pro 8GB 256SSD 15.6 A515-55G-53QD - Prata
+0,1,notebooks,Notebook Asus Intel Celeron 2.8GHz 4GB ram 128GB ssd Windows 10 Pro Tela 15.6,"Notebook Lenovo Ideapad 3i Intel Celeron N4020 Memoria 4GB Ssd 480GB Tela 15,6'' HD Windows 10 Pro"
+0,1,notebooks,Notebook Dell Inspiron i15-i1100-U40P 15.6 Full HD 11ª Geração Intel Core i5 8GB 256GB ssd Linux,"Notebook Dell Inspiron i15-i1100-M40P 15.6"" Full HD 11ª Geração Intel Core i5 8GB 256GB SSD Windows 11"
+0,0,notebooks,"Notebook 2 em 1 hp 435-G8, amd Ryzen 7, 16GB, 512GB ssd, Tela de 13, Windows 11 Home, 5R5A7LA","Notebook 445-g8 Hp, Amd Ryzen 5, 8gb, 512gb Ssd, Tela de 14"", Windows 11 Home, 5r5b4la"
+0,0,notebooks,"Notebook Asus ZenBook 14, Intel Core i7 10510U, 8GB, 256GB ssd, 14, Segunda Tela ScreenPad 2.0 - UX434FAC-A6340T","Notebook asus VivoBook X513EA-EJ1064 Intel Core i7 1165G7 8GB 256GB ssd 15,6 LED-backlit Preto"
+0,0,notebooks,"Macbook Pro Retina Apple 13,3"", 16gb, Prata, Ssd 1tb, Intel Core i5, 2.0 Ghz, Touch Bar e Touch Id - Mwp82bz/a","Macbook Pro Retina Apple 13,3"", 16gb, Cinza Espacial, Ssd 1tb, Intel Core i5, 2.0 Ghz, Touch Bar e Touch Id - Mwp52bz/a"
+0,0,notebooks,"Notebook asus Vivobook Pro 15 K3500PC-KJ390W Intel i7 11370H 16GB 512GB ssd RTX3050 W11 15,6 Prata","Notebook ASUS Vivobook Pro 15 K3500PH-KJ378W Cool Silver Intel Core i5 11300H 8GB 512GB ssd W11 15,6"
+0,0,notebooks,"Notebook Samsung Flash F30 Intel Celeron 4GB 64GB SSD Full HD 13.3"" W10 - Cinza",Notebook Gateway GWTN116-3GR Intel Celeron N4020/ 4GB/ 64GB Emmc/ 11.6 hd/ W10 Oferta!
+0,0,notebooks,Notebook Multilaser PC131 Legacy Cloud Intel Atom Z8350 2GB 32GB W10 14'',"Notebook Multilaser Legacy Cloud, W10 Home Processador Intel Quadcore Memoria 2GB 64GB Tela 14,1 Pol. Cinza Multilaser – PC134"
+0,0,notebooks,"Notebook Samsung NP550XDA-KU1BR Intel Core i7-1165G7 8GB 256GB SSD Tela 15,6"" Windows 11 - Cinza Chumbo",Notebook Samsung Book I5 8GB 512GB ssd 15.6 Windows 11 Cinza Chumbo
+0,1,notebooks,"Notebook IdeaPad Gaming 3i, Intel Core i5-10300H, 8GB RAM, 256GB SSD, Placa Dedicada GTX 1650 4GB, Windows 10, 15.6"" Full HD WVA, Azul","Notebook ideapad Gaming 3i i7-10750H, 8GB RAM, 512GB SSD, Placa Dedicada GTX 1650 4GB, Windows 10, 15.6"" Full HD WVA, Azul"
+1,1,notebooks,Notebook vaio FE14 Intel Core i5 Windows 11 Home 8GB 256GB ssd Full HD - Cinza Escuro,Notebook VAIO® FE14 Intel® Core™ i5 Windows 11 Home 8GB 256GB SSD Full HD - Cinza Escuro
+0,1,notebooks,"Notebook 2 em 1 Positivo DUO C464D Intel® Celeron® Dual Core Windows 11 Home 11"" - Cinza",Notebook Positivo Motion C4120F Intel® Celeron® Windows 11 Home Cinza - Inclui Microsoft 365*
+0,1,notebooks,Notebook Acer A315 Intel Celeron N4000 Memoria 8gb HD 1tb Tela 15.6' Hd Windows 10 Home,Notebook Acer A315 Intel Celeron N4000 Memoria 8gb Ssd 240gb Tela 15.6' Hd Windows 10 Pro
+0,0,notebooks,Notebook Samsung Book I5 8GB 256GB ssd 15.6 Windows 11H Cinza Chumbo,Notebook Samsung Book Celeron 4GB 256GB SSD 15.6 W11H Cinza Chumbo
+0,1,notebooks,Notebook Gamer Dell G15-i1100-M40P 15.6 fhd 11ª Geração Intel Core i5 16GB 512GB ssd nvidia rtx 3050 Windows 11,"Notebook Gamer Dell G15-i1100-M30P 15.6"" FHD 11ª Geração Intel Core i5 8GB 512GB SSD NVIDIA RTX 3050 Windows 11"
+0,0,notebooks,"Notebook Samsung Book Intel Core I5 1135G7 - Iris Xe, Windows 10 Home 256GB ssd, 8GB ram, Tela 15.6 Iintel iris xe - Cinza Chumbo","Notebook Samsung Book E30 4GB, 15.6'', Intel Core i3, ssd 256GB, Windows 10 Home, cinza"
+0,0,notebooks,Notebook Lenovo ideapad Gaming 3i i5-10300H 8GB 256SSD gtx 1650 4GB 15.6 fhd wva W10 82CG0002BR,"Notebook ideapad Gaming 3 R7-5800H 8GB 256GB SSD PCIe GTX 1650 4GB 15.6"" FHD W11 82MJ0001BR"
+0,1,notebooks,Notebook Samsung Tela 11.6 N4000 32GB 4GBRAM Chromebook XE310XBA-KT1BR,Notebook Samsung Chromebook 11.6 Intel Celeron N4020 32GB eMMC 4GB Chrome os XE310XBA-KT3BR
+0,1,notebooks,Notebook asus rog Zephyrus G14 GA401IV-HE251T Ryzen 9 4900HS 16GB 1TB ssd RTX2060 W10 14'' Cinza,Asus Zephyrus G14 (Laptop Gamer) rtx 3060 Ryzen9 5900HS tela 14' ssd 2Tb NVMe ram 16Gb
+1,1,notebooks,"Notebook Lenovo V14 i7-1165G7 12GB 512GB SSD Geforce MX350 W11 Home 14"" FHD 82NM0017BR Preto",Notebook Lenovo V14 i7-1165G7 12GB 512GB ssd Geforce MX350 W11 Home 14 fhd 82NM0017BR Preto
+0,0,notebooks,Notebook 2 em 1 Positivo duo C464D Intel Celeron Dual Core Windows 11 Home 11 - Cinza,Notebook Positivo Motion C4120F Intel® Celeron® Windows 11 Home Cinza - Inclui Microsoft 365*
+0,0,notebooks,Notebook positivo motion red Q232B intel ATOM/2GB/32GB EMMC/14/ WIND.10 home,NOTEBOOK POSITIVO MOTION C4500D
+0,1,notebooks,"Notebook 2 em 1 Hp 435-g8, Amd Ryzen 3, 8gb , 256gb Ssd, Tela de 13"", Windows 11 Home, 5r5a6la","Notebook 2 em 1 hp 435-G8, amd Ryzen 7, 16GB, 512GB ssd, Tela de 13, Windows 11 Home, 5R5A7LA"
+1,1,notebooks,"Notebook Lenovo IdeaPad 3i, Intel Core i3-10110U, 4GB ram, 256GB ssd, Windows 10, 15.6 82BSS006BR Prata",Notebook IdeaPad 82BS0006BR Intel Core i3-10110U 4GB ram 256GB ssd Tela 15.6 Windows 10 Lenovo
+0,0,notebooks,Notebook asus rog Zephyrus Duo 15 GX550LXS-HF157T Cinza,Notebook ASUS M515DA-BR1213 Cinza
+1,1,notebooks,"Notebook Compaq Presario 431 14,1 LED HD i3-6157U 120GB 4GB Shell efi - Cinza","Notebook Compaq Presario 431 14,1 LED HD i3-6157U 120GB 4GB Shell EFI - Cinza"
+0,1,notebooks,"Notebook Lenovo Ultrafino Ideapad 3i Intel Core i5-10210U 8GB (GeForce MX330 2GB) 256GB SSD Linux 15,6"" - Prata","Notebook Lenovo Ultrafino Ideapad 3i Intel Core i5-10210U 8GB 256GB SSD W10 15.6"" Prata"
+1,1,notebooks,Notebook Positivo Motion C41TE Celeron 4GB 1TB HD Windows 10 Home – Cinza,Notebook Positivo Motion C41TE Celeron 4GB 1TB 14 LED Windows 10
+1,1,notebooks,Notebook Positivo Motion Intel Core i3 Linux 14 4GB 1TB - Cinza - I341TBI,"Notebook Positivo Motion Intel® Core™ i3 1TB 4GB Linux 14"" - Cinza"
+0,0,notebooks,Notebook Lenovo Yoga Slim 9i 14 i7-1165G7 16GB 512GB ssd Placa de Vídeo Intel Iris Xe W11 fhd wva,"Notebook Lenovo IdeaPad Flex 5i i7-1165G7 8GB 256GB SSD W11 14"" FHD Intel Iris Xe, Grafite"
+0,0,notebooks,"SAMSUNG Book Intel Dual-Core, Windows 11 Home, 4GB, 500GB, 15.6'' Full HD LED, 1.86kg*., branco","SAMSUNG Book Intel® Dual-Core, Windows 11 Home, 4GB, 500GB, 15.6'' Full HD LED, 1.86kg Cinza Chumbo, NP550XDA-KO1BR"
+0,0,notebooks,"Notebook Compaq Presario 431 14,1 LED HD i3-6157U 120GB 4GB Shell efi - Cinza","Notebook Compaq Presario 450 Intel Core i5 8GB 240GB SSD 14,1'' LED Webcam HD Windows 10 Home - Cinza"
+0,0,notebooks,"Notebook 15,6"" Bs145 I3-1005g1/4gb/hd500gb/win 10 Pro - 82hb0002br Lenovo","Notebook Lenovo Ideapad 3i - Tela 15.6, Intel i3 10110U, ram 8GB, ssd 128GB, Windows 10 Pro"
+0,1,notebooks,Notebook asus X515EA-EJ1668 Cinza,Notebook ASUS X515EA-EJ1668W Cinza
+0,1,notebooks,Notebook Gamer 2AM E550 nvidia GeForce gtx 1050 3GB - Windows 10 Home Core i7-9700 8GB 1TB + ssd 128GB FullHD 15.6,"Notebook Gamer 2Am E550, Intel Core I7 9700, 8Gb, 256Gb Ssd, Nvi Geforce Gtx 1050 3Gb, Ips Full Hd 15.6"" - Windows 10 Home"
+0,0,notebooks,Notebook Samsung Tela 11.6 N4000 32GB 4GBRAM Chromebook XE310XBA-KT1BR,Chromebook Samsung 11.6 Intel 4Gb 32Gb Xe310Xba-Kt3Br
+1,1,notebooks,"Notebook Acer 15,6 A315-56-569F i5-10ª 4GB 256SSD Linux","Notebook Acer 15,6 - A315-56-569F/ I5-1035G1 - Linux Endless"
+0,1,notebooks,Notebook Gamer Legion Slim7 R7-5800H 16GB 512GB ssd rtx 3060 6GB W11 15.6 Full HD wva 82K800E9BR,Notebook Gamer Legion Slim7 R5-5600H 16GB 512GB RTX3050 Ti 4GB W11 15.6 Full HD wva 82K800EABR
+0,1,notebooks,"Notebook Positivo Motion Q464B Intel Atom Quad core 4GB 64GB SSD + 64GB Nuvem 14"" W10 - Vermelho","Notebook Positivo Motion Intel Atom-Z8350 4GB 64GB W10 14,1'' Led Webcam HD + Office 365 Personal - Vermelho"
+1,1,notebooks,"Kit Notebook Dell Inspiron i15-i1100-U25PC 15.6"" Full HD 11ª Geração Intel Core i3 4GB 256GB SSD Linux com Capa",Kit Notebook Dell Inspiron i15-i1100-U25PC 15.6 Full HD 11ª Geração Intel Core i3 4GB 256GB ssd Linux com Capa
+0,1,notebooks,"Notebook Gamer Dell G15-I1100-A30P 11ª Intel Core i5 8GB 512GB SSD (GeForce RTX 3050 4GB) Tela FHD 15.6"" Windows 11 - Preto","Notebook Gamer Dell G15-i1100-M30PB 15.6"" FHD 11ª Ger Intel Core i5 8GB 512GB SSD NVIDIA RTX 3050 Windows 11 + Mochila"
+0,0,notebooks,Notebook Acer Aspire 5 i5 W10 Pro 8GB 256SSD 15.6 A515-55G-53QD - Prata,"NOTEBOOK ACER A315-56-311J CI3-1005G1 8GB 256GBSSD W10 15,6"
+0,1,notebooks,Notebook Lenovo Ideapad 3i 15.6 HD Intel Celeron ssd 128GB 4GB Windows 11 Home Prata - 82BU0006BR,"Notebook Lenovo IdeaPad 3i Celeron 4GB 128GB SSD Linux 15.6"" 82BUS00100, Prata"
+1,1,notebooks,Notebook Gamer Legion Slim7 R5-5600H 16GB 512GB RTX3050 Ti 4GB W11 15.6 Full HD wva 82K800EABR,"Lenovo Notebook Gamer Legion Slim7 R5-5600H 16GB 512GB RTX3050 Ti 4GB W11 15.6"" Full HD WVA 82K800EABR, Shadow Black"
+0,1,notebooks,Notebook vaio FE15 Intel Core i7 Linux 8GB 256GB ssd HD - Prata,Notebook VAIO® FE15 Intel® Core™ i5 Linux 8GB 256GB SSD HD - Prata
+0,1,notebooks,Notebook Ultra 15 Pol Core I5 8Gb 1Tb Hdd Windows 10 Prata - Ub521,"Notebook Ultra - Tela 14, Intel i5, 8GB, ssd 480GB, Windows 10 - Prata"
+0,1,notebooks,Notebook Lenovo V14 i3-1115G4 8GB 256GB ssd W11 Home 14 HD 82NM0010BR Preto,"Notebook Lenovo V14 i5-1135G7 8GB 256GB SSD W11 Pro 14"" FHD 82NM0013BR Preto"
+1,1,notebooks,Notebook Samsung Book Intel Core I3-1115G4 4GB 1TB W10 FHD 15.6'' Cinza Chumbo NP550XDA-KT1BR,"SAMSUNG Book Intel® Core™ i3-1115G4, Windows 10 Home, 4GB, 1TB, 15.6'' Full HD LED, Cinza, NP550XDA-KV1BR"
+0,1,notebooks,Notebook vaio FE14 Intel Core i3 Linux 4GB 128GB ssd Full HD - Branco,"Notebook Vaio FE14, Intel Core i3, 4GB, 256GB SSD, 14"" Full HD, Windows 10 - Branco"
+0,1,notebooks,Notebook Compaq Presario 433 Intel Core i3 Linux 4GB 1TB 14 - Cinza,Notebook Compaq Presario 454 Intel Core i5 Linux 8GB 240GB ssd 14 - Cinza
+1,0,notebooks,"MacBook Pro Apple 13,3"" Intel Core i5 (16GB 1TB) Prateado","Macbook Pro Retina Apple 13,3"", 16gb, Prata, Ssd 1tb, Intel Core i5, 2.0 Ghz, Touch Bar e Touch Id - Mwp82bz/a"
+0,1,notebooks,"Notebook Samsung Intel Celeron-6305 4GB 500GB W11 15,6"" NP550XDA-KP2BR - Branco","Notebook Samsung Book NP550XDA-K02BR, Intel Dual-Core, 4GB, 500GB, Branco - Windows 10"
+0,0,notebooks,"Notebook Lenovo 3i Intel i5-10210U 8GB ssd 256GB 15,6 W11","ASUS Notebook Intel Core i7-1165G7 8GB 256GB SSD W11 15,6"" Preto X513EA-EJ3010W"
+0,1,notebooks,Notebook Dell Inspiron 15 3000 a0700-UM20P 15.6 fhd amd Ryzen 7 8GB 256GB ssd Linux Preto,"Notebook Dell Inspiron 15 3000 i15-a0700-UM20S 15.6"" FHD AMD Ryzen™ 7 8GB 256GB SSD Linux Prata"
+0,1,notebooks,"Notebook Dell Inspiron 15 a0500-MM10P 15.6"" FHD AMD Ryzen™ 5 8GB 256GB SSD Windows 11 Preto","Notebook Dell Inspiron 15 a0700-MM20P 15.6"" FHD AMD Ryzen™ 7 8GB 256GB SSD Windows 11 Preto"
+0,1,notebooks,"Notebook Positivo Motion C41TEi Intel® Celeron® Dual-Core™ Linux 14"" - Vermelho",Notebook Positivo Motion Intel Celeron Dual-Core Linux 14 - Cinza - C41TEI
+1,1,notebooks,"Notebook Acer 15.6"" A315-34-C5EY Celeron N4000 4GB 500GB, NX.HRNAL.001",Notebook Acer Aspire Intel 2.6Ghz 4Gb 500Gb Hd Windows 15.6
+0,1,notebooks,Notebook Positivo Motion Intel Celeron Dual-Core Linux 14 - Cinza - C41TEI,"Notebook Positivo Motion C4128Ei Intel® Celeron® Dual-Core™ Linux 14"" - Cinza"
+0,0,notebooks,Notebook Lenovo V14 i5-1135G7 8GB 256GB ssd Intel Iris Xe Graphics Win 10 Pro 14 82NM0000BR Preto,Notebook Lenovo V14 i3-1115G4 8GB 256GB ssd W11 Pro 14 HD 82NM000YBR Preto
+0,1,notebooks,"SAMSUNG Notebook Book Intel® Core i7-1165G7, 8GB, 256 GB SSD, Intel® Iris® Xe, 15.6'' Full HD LED, NP550XDA-KS1BR Prata, Cinza","Notebook Samsung Book Intel Core i7, 8GB, 1TB hd, Intel Iris Xe, 15.6'' Full HD LED"
+0,1,notebooks,"Notebook Samsung Flash F30 Intel Celeron 4GB 64GB SSD Full HD 13.3"" W10 - Cinza",Notebook F30 Intel Celeron N4000 4GB 64GB W10 - Samsung
+0,1,notebooks,Notebook Samsung Chromebook 11.6 Intel Celeron N4020 32GB eMMC 4GB Chrome os XE310XBA-KT3BR,"Samsung Chromebook 4 Chrome OS 11,6"" HD Processador Intel Celeron N4000 4GB RAM 32GB eMMC Gigabit Wi-Fi - XE310XBA-K01US"
+0,1,notebooks,Notebook Positivo C4128ei Celeron N3350 4gb Ddr4 Ssd 128gb Tela 14 Hd Led Windows 10 Pro,Notebook Positivo Motion C41TE Celeron 4GB 1TB 14 LED Windows 10
+1,1,notebooks,Notebook Lenovo ThinkPad E14 i5-1135G7 8GB 256GB ssd Windows 11 Home 20TB0023BO Preto,Notebook Lenovo ThinkPad E14 i5-1135G7 8GB 256GB SSD Windows 11 Home 20TB0023BO Preto
+0,1,notebooks,"Notebook Lenovo S145 Intel Celeron Linux 4Gb 500Gb HD 15.6"" Prata - Bivolt","Notebook Lenovo IdeaPad 3i Celeron 4GB 128GB SSD Linux 15.6"" 82BUS00100, Prata"
+0,0,notebooks,Notebook Dell Inspiron i13-i1100-M20S 13.3 Full HD 11ª geração Plataforma Intel evo Core i7 8GB 512GB ssd Windows 11,"Notebook Dell Inspiron i15-i1100-M60P 15.6"" Full HD 11ª Geração Intel Core i7 8GB 256GB SSD Windows 11"
+0,0,notebooks,"Notebook asus VivoBook X513EA-EJ3010 Intel Core i7 1165G7 8GB 256GB ssd Linux 15,6 LED Preto","Notebook Asus Vivobook Intel Core i7-1165G7 8GB 256GB SSD W10 15,6"" Preto X513EA-EJ1064T"
+0,1,notebooks,"Lenovo Notebook Gamer Legion Slim7 R5-5600H 16GB 512GB RTX3050 Ti 4GB W11 15.6"" Full HD WVA 82K800EABR, Shadow Black","Lenovo Notebook Gamer Legion Slim7 R7-5800H 16GB 512GB SSD RTX 3060 6GB W11 15.6"" Full HD WVA 82K800E9BR, Shadow Black"
+0,0,notebooks,Notebook Vaio Fe14 14 Fhd I5-10210u 1tb 8gb Win10 Home,"Notebook VAIO FE14 VJFE42F11X-B0451H Intel Core i5 10510U 8GB 1TB 14"" Full HD Linux - Grey (Chumbo Escuro)"
+0,1,notebooks,"Notebook Lenovo Ultrafino Ideapad S145 AMD Ryzen 5 12GB 1TB Linux 15.6"" Prata","Notebook Lenovo Ultrafino ideapad S145 Ryzen 5 8GB 256GB SSD Windows 10 15.6"" 81V70008BR Prata"
+1,1,notebooks,Notebook Positivo Intel Quad Core 4gb 128gb 14.1 Windows 10,Notebook Positivo Motion Q4128C Intel Atom Quad-Core Windows 10 Home 14.1 - Cinza – Inclui Microsoft 365*
+0,1,notebooks,Notebook asus vivobook N4020 500GB 4GB X543MA-GQ1300T,"ASUS Notebook VivoBook X543MA-GQ1300W Intel Celeron Dual Core N4020 4GB 500GB W11 15,6 Cinza Escuro"
+0,1,notebooks,"Notebook Asus X515JA-EJ1792W, 15,6 Intel Core i5-1035G1, 8GB, ssd 256GB","Notebook Lenovo Ultrafino Ideapad S145 Intel Core i5-1035G1 8GB 256GB SSD W10 15.6"" Prata"
+0,0,notebooks,Notebook Samsung Book i7 8GB 256GB ssd Intel Iris Xe 15.6 fhd LED,"Notebook Dell i15-3501 - Tela 15.6, Intel i7 1165G7, 8GB, ssd 256GB, Intel Iris Xe, Windows 10"
+0,0,notebooks,"Notebook Samsung NP550XDA-KU1BR Intel Core i7-1165G7 8GB 256GB SSD Tela 15,6"" Windows 11 - Cinza Chumbo",Notebook Samsung Book I3 8GB 256GB SSD 15.6 Windows 11 Cinza Chumbo
+0,0,notebooks,Notebook Gamer Legion Slim7 R7-5800H 16GB 512GB ssd rtx 3060 6GB W11 15.6 Full HD wva 82K800E9BR,"Notebook Gamer Legion 5i i7-11800H 8GB 512GB SSD PCIe RTX3060 6GB W11 15.6"" Full HD 82MH0001BR"
+0,0,notebooks,"Notebook Positivo Motion Gold C41TEI Intel Celeron-N3350 4GB 1TB Linux 14,1'' Dourado",Notebook Positivo Motion 14 HD Intel i3-7020U 1TB 4GB Linux Cinza Escuro
+1,1,notebooks,"Notebook ideapad Gaming 3i i7-10750H, 8GB RAM, 512GB SSD, Placa Dedicada GTX 1650 4GB, Windows 10, 15.6"" Full HD WVA, Azul","Notebook Ideapad Gaming 3i Intel Core i7-10750H 8GB (Geforce GTX 1650 4GB) 512GB SSD FHD W10 15.6"" Azul"
+0,1,notebooks,Notebook Positivo Motion C41TE Celeron 4GB 1TB HD Windows 10 Home – Cinza,Notebook Positivo C4128ei Celeron N3350 4gb Ddr4 Hd 1TB Tela 14 Hd Led Windows 10 Pro
+0,1,notebooks,"Notebook Asus Vivobook Intel Core i7-1165G7 8GB 256GB SSD W10 15,6"" Preto X513EA-EJ1064T","Notebook asus VivoBook X513EA-EJ1064 Intel Core i7 1165G7 8GB 256GB ssd 15,6 LED-backlit Preto"
+0,0,notebooks,Notebook asus vivobook N4020 500GB 4GB X543MA-GQ1300T,Notebook ASUS VivoBook X513EA
+0,0,notebooks,Kit Notebook Dell Alienware m15 R6 AW15-i1100-A30PH 15.6 fhd 11ª ger Intel Core i7 16GB 1TB ssd rtx 3070 Win 11 Headset,"Notebook Dell Alienware m15 R6 AW15-i1100-M20PB 15.6"" FHD 11ª ger Intel Core i7 16GB 1TB SSD RTX 3060 Win 11 + Mochila"
+0,0,notebooks,Note quad 4GB 64GB C4128E-S cza positivo,"Notebook Positivo Motion Q464B Intel Atom Quad core 4GB 64GB SSD + 64GB Nuvem 14"" W10 - Vermelho"
+0,1,notebooks,Notebook legacy book pentium quadcore 4 + 64GB/WIN10HOME - PC312,Notebook Multilaser Legacy Book Intel Pentium Quadcore 4GB 64GB Windows 10 Home 14 Pol. HD Preto - PC310
+0,0,notebooks,"Notebook Samsung Book 15,6 fhd Intel Celeron 6305 128GB ssd 4GB Windows 10 Pro - NP550XDA-KO7BR","SAMSUNG Notebook Book Intel Dual-Core, Windows 11 Pro, 4GB, 128GB SSD, 15.6'' Full HD LED"
+0,0,notebooks,Notebook Acer A314-35-C4CZ Celeron N4500 4GB 256GB ssd 14FHD,Notebook Aspire 3 I5 4GB 256GB ssd Linux - Acer
+0,0,notebooks,"Notebook Compaq Presario 431 14,1 LED HD i3-6157U 120GB 4GB Shell efi - Cinza",Notebook Compaq Presario 421 Pentium N3700 120Gb Shell Efi
+0,0,notebooks,Notebook Dell i3 4GB RAM 128GB SSD Vostro 14 Win10 Preto,Notebook Usado hp TPN-C125 Intel Core i3 4GB ram 128GB ssd
+0,1,notebooks,Notebook Acer A315 Intel Celeron N4000 Memoria 8gb HD 1tb Tela 15.6' Hd Windows 10 Home,Notebook Acer A315 Intel Celeron N4000 Memoria 8gb Hd 1tb Tela 15.6' Hd Endless Os
+1,1,notebooks,"Notebook Lenovo IdeaPad 3i, Intel Core i3-10110U, 4GB ram, 256GB ssd, Windows 10, 15.6 82BSS006BR Prata","Notebook Lenovo IdeaPad 3i 15IML05 Intel Core i3 - 4GB Ram e SSD de 256GB Tela 15,6” LCD Windows 10"
+1,1,notebooks,"Notebook Lenovo V14 i5-1135G7 8GB 256GB SSD Linux 14"" 82NMS00100 Preto",Notebook Lenovo V14 i5-1135G7 8GB 256GB ssd Linux 14 82NMS00100 Preto
+0,0,notebooks,Notebook positivo motion red Q232B intel ATOM/2GB/32GB EMMC/14/ WIND.10 home,"Notebook Positivo Motion C4500C, Positivo, Motion, INTEL CELERON, 4 GB RAM, Tela"","
+0,0,notebooks,"Notebook Ultra UB522 - Tela 15 Full hd, Intel i5, ram 8GB, ssd 240GB, Windows 10 - Prata","Notebook Intel Core i5, Tela 15.6 Full HD ips, 8GB, 480 ssd e Windows 10 - Everex"
+0,1,notebooks,Notebook vaio FE14 Intel Core i5 Windows 10 Home 8GB 256GB ssd Full hd- Branco,Notebook vaio FE14 Intel Core i7 Windows 11 Home 8GB 512GB ssd Full HD - Branco
+0,0,notebooks,Notebook Dell Inspiron i15-i1100-U60P 15.6 Full HD 11ª Geração Intel Core i7 8GB 256GB ssd Linux Preto,"Notebook Dell Inspiron i15-i1100-M60S 15.6"" Full HD 11ª Geração Intel Core i7 8GB 256GB SSD Windows 11"
+0,0,notebooks,"ASUS Notebook X515JA-EJ1792W Intel Core i5 1035G1 8GB 256GB ssd W11 15,6 LED-backlit Cinza","Notebook asus X515JF-EJ361T Intel Core i5 1035G1 8GB 256GB ssd W10 15,6 LED-backlit Cinza"
+1,1,notebooks,Notebook Acer Aspire 5 A514 Intel Core I5 1035G1 Memória 8gb Hd 1tb Ssd 256gb Tela 14'' HD Windows 10 Home,Notebook Acer Aspire 5 A514 Intel Core I5 1035G1 Memória 8gb Ssd 256gb Tela 14'' HD Windows 10 pro
+0,1,notebooks,"Notebook Positivo Motion Q464C-O Intel® Atom® Quad Core™ Windows 10 Home 14,1'' - Dourado - Inclui Microsoft 365*","Notebook Positivo Motion Gray Q464C-O Intel® Atom® Quad Core™ Windows 10 Home 14,1'' - Cinza - Inclui Microsoft 365*"
+0,0,notebooks,Notebook Dell Alienware m15 R6 i1100-M20P 15.6 fhd 11ª ger Intel Core i7 16GB 1TB ssd rtx 3060 Win 11,Kit Notebook Dell Alienware m15 R6 AW15-i1100-A30PH 15.6 fhd 11ª ger Intel Core i7 16GB 1TB ssd rtx 3070 Win 11 Headset
+0,0,notebooks,Kit Notebook Dell Inspiron i15-i1100-U25PC 15.6 Full HD 11ª Geração Intel Core i3 4GB 256GB ssd Linux com Capa,Notebook Dell Inspiron i15-i1100-U20P 15.6 Full HD 11ª Geração Intel Core i3 4GB 128GB ssd Linux
+0,1,notebooks,"Notebook 14 Galaxy Book Go Snapdragon 7c, 4GB, SSD128GB, Windows 10 Prata NP340XLA-K02BR samsung","SAMSUNG GALAXY BOOK GO SNAPDRAGON 7C, WIN 10 PRO, 4GB, 128GB SSD, 14'' FHD LED PRATA, NP340XLA-KO3BR"
+0,0,notebooks,Notebook gt Silver Intel Celeron 4GB 64GB ssd 14 HD Windows 10 - Goldentec,"Notebook Samsung Flash F30 Intel Celeron , 4GB RAM, 64GB SSD , Tela Full HD 13.3"", Windows 10 - Cinza"
+1,1,notebooks,"Notebook Acer Aspire 5 A515-45-R760 amd Ryzen 7 Windows 11 Home 8GB 256GB ssd 15,6' Full HD","NOTEBOOK ACER A515-45-R760 R7 5700U 8GB 256GB SSD W11 15,6"
+0,1,notebooks,"Notebook Ultra, W10 Home, Processador Intel Core i3, Memória 4GB RAM e 1TB HDD, Tela 14,1 Pol. Full HD, Prata – UB421","Notebook Ultra, Processador Intel Core i3, Memória 4GB RAM, 1TB HDD, Linux, 14,1 Pol. Full HD, Prata – UB422"
+0,1,notebooks,Notebook Acer A315 Intel Celeron N4000 Memoria 8gb HD 1tb Tela 15.6' Hd Windows 10 Home,Notebook Acer A315 Intel Celeron N4000 Memoria 8gb Ssd 480gb Tela 15.6' Hd Windows 10 Pro
+1,0,notebooks,"Notebook Samsung NP550XDA-KU1BR Intel Core i7-1165G7 8GB 256GB SSD Tela 15,6"" Windows 11 - Cinza Chumbo",Notebook Samsung Book I7 8GB 256GB SSD 15.6 Windows 11H Cinza Chumbo
+0,1,notebooks,Notebook Samsung Book I3 4GB 256GB SSD 15.6 Windows 11 Cinza Chumbo,Notebook Samsung Book I3 8GB 256GB SSD 15.6 Windows 11 Cinza Chumbo
+1,1,notebooks,"Notebook Acer A315-34-C6ZS Intel Celeron N4000 4gb 1tb 15,6"" Linux",Notebook Acer Aspire 3 Intel Celeron 4GB 1TB Endless
+0,0,notebooks,Notebook Samsung E30 Tela 15.6 Intel i3 SSD256 4GBRAM Linux,"Notebook Dell Inspiron i15-3501 - Tela 15.6, Intel i3 1005G1, 8GB, ssd 256GB, Linux"
+0,1,notebooks,"Notebook Positivo 2 Em 1 Tablet Tela 11,6 Hd 64gb C464ap","Notebook 2 em 1 Positivo Duo C464C Intel Celeron 4GB de Memória RAM 64GB de Armazenamento 11.6"" IPS Full HD touch com caneta Windows 10 Home - Cinza"
+1,1,notebooks,"Kit Notebook Dell Inspiron 15 a0500-MM10SC 15.6"" FHD AMD Ryzen™ 5 8GB 256GB SSD Windows 11 Prata + Capa",Kit Notebook Dell Inspiron 15 3000 a0500-MM10SC 15.6 fhd amd Ryzen 5 8GB 256GB ssd Windows 11 Prata + Capa
+0,1,notebooks,"Notebook Acer Aspire 5 Intel Core i5-10210U 8GB 256GB SSD W10 15,6'' IPS FHD Preto A515-54-53VN",Notebook Acer Aspire 5 Intel Core i5-1135G7 8GB 512GB SSD W11 15.6” FHD Prata A515-56-57LB
+0,0,notebooks,"Notebook Samsung Book 15,6 fhd Intel Celeron 6305 128GB ssd 4GB Windows 10 Pro - NP550XDA-KO7BR","Notebook Samsung Book E30 4GB, 15.6'', Intel Core i3, ssd 256GB, Windows 10 Home, cinza"
+0,1,notebooks,Notebook Lenovo ideapad Gaming 3i i5-10300H 8GB 256SSD gtx 1650 4GB 15.6 fhd wva W10 82CG0002BR,"Notebook ideapad Gaming 3 R5-5600H 8GB 256GB SSD PCIe GTX 1650 4GB 15.6"" FHD W11 82MJ0002BR"
+0,1,notebooks,"Notebook hp 256-G8, Processador Core i5, 8GB de memoria, 256GB ssd, Tela de 15,6, Windows 11","Notebook hp 256-G8, Processador Core i5, 16GB de memória, 256 ssd, Tela de 15,6, Windows 11"
+0,0,notebooks,Notebook Gamer Legion Slim7 R7-5800H 16GB 512GB ssd rtx 3060 6GB W11 15.6 Full HD wva 82K800E9BR,Notebook Gamer Dell G15-a0700-MM20PB 15.6 fhd amd Ryzen 7 16GB 512GB ssd nvidia rtx 3060 Windows 11 + Mochila
+0,0,notebooks,Notebook Ultra 15 Pol Core I5 8Gb 1Tb Hdd Windows 10 Prata - Ub521,"Notebook Ultra 15"" Intel Core i5 8GB 240GB SSD Windows 10, UB522, Prata"
+0,1,notebooks,"Notebook Gamer Dell G15-i1100-A30P 15.6"" FHD 11ª Geração Intel Core i5 8GB 512GB SSD NVIDIA RTX 3050 Windows 11, preto","Notebook Gamer Dell G15-i1100-M30P 15.6"" FHD 11ª Geração Intel Core i5 8GB 512GB SSD NVIDIA RTX 3050 Windows 11"
+0,0,notebooks,Notebook Samsung Tela 11.6 N4000 32GB 4GBRAM Chromebook XE310XBA-KT1BR,"ACER Chromebook 311 C733-C3V2 - Tela 11.6"" LED TFT"
+0,1,notebooks,"Notebook asus VivoBook X513EA-EJ3010 Intel Core i7 1165G7 8GB 256GB ssd Linux 15,6 LED Preto","Notebook Dell Inspiron 15 3000 i15-3583-DS90S 8ª Geração Intel Core i7 8GB 256GB SSD 15.6"" Linux Preto"
+0,1,notebooks,"Dell Inspiron i3501-U25P - Tela 15.6, Intel i3 1005G1, 4GB, ssd 256GB, Linux","Notebook Dell Inspiron i15-i1100-U25P 15.6"" Full HD 11ª Geração Intel Core i3 4GB 256GB SSD Linux"
+1,1,notebooks,"Dell Latitude 3520, laptop FHD de 15,6"" sem toque - Intel Core i5-1135G7, 8GB DDR4 RAM, 256GB SSD HD, Intel Iris Xe Graphics, Windows Pro - Preto (modelo mais recente)","Dell Latitude 3420, laptop HD de 14"" sem toque - Intel Core i5-1135G7, 8GB DDR4 RAM, 500GB 7200 RPM SATA HD, Intel Iris Xe Graphics, Windows Pro - Preto (modelo mais recente)"
+0,1,notebooks,Notebook Gamer Dell G15-i1000-U20P 15.6 fhd 10ª Geração Intel Core i5 8GB 512GB ssd nvidia gtx 1650 Linux,"Notebook Gamer Dell G15-i1000-M20P 15.6"" FHD 10ª Geração Intel Core i5 8GB 512GB SSD NVIDIA GTX 1650 Windows 11"
+0,1,notebooks,"Notebook Dell Inspiron I15-3501-A25P Intel Core I3-1005G1 4GB 256GB SSD W10 15.6"" - Preto","Notebook Dell Inspiron i15-i1100-U25P 15.6"" Full HD 11ª Geração Intel Core i3 4GB 256GB SSD Linux"
+0,0,notebooks,Notebook Lenovo Yoga Slim 9i 14 i7-1165G7 16GB 512GB ssd Placa de Vídeo Intel Iris Xe W11 fhd wva,"Notebook Lenovo Yoga 7i 2 em 1 14"" i5-1135G7 8GB 512GB SSD Com EVO Intel Iris Xe W11 FHD WVA, Grafite"
+0,1,notebooks,Notebook Dell Inspiron i15-i1100-M20PF 15.6 Full HD 11ª Ger. Intel Core i3 4GB 128GB ssd Win 11 Microsoft 365 Preto,"Kit Notebook Dell Inspiron i15-i1100-M20PC 15.6"" Full HD 11ª Geração Intel Core i3 4GB 128GB SSD Windows 11 Preto com Capa"
+0,1,notebooks,Notebook 8gb Ssd 256gb R5 W11h Fhd A515-45-r84h Acer,"Notebook Acer Aspire 5 15,6 FHD i5-10210U 256GB SSD 8GB Win 11 Home Prata - A515-54-57CS"
+0,1,notebooks,"MacBook Pro Apple 13,3"" Intel Core i5 (16GB 1TB) Prateado",Computador Gamer Intel I5 11400F 16Gb Gtx 1050Ti Hd 1Tb
+0,0,notebooks,Notebook Lenovo ideapad Gaming 3i i5-10300H 8GB 256SSD gtx 1650 4GB 15.6 fhd wva W10 82CG0002BR,Notebook ideapad Gaming 3i i7-10750H 8GB 512GB ssd gtx 1650 4GB 15.6 fhd wva Linux 82CGS00200
+0,0,notebooks,Notebook vaio FE14 Intel Core i5 Windows 10 Home 8GB 256GB ssd Full hd- Branco,Notebook VAIO® FE14 Intel® Core™ i5 Windows 11 Home 8GB 256GB SSD Full HD - Cinza Escuro
+0,0,notebooks,"Notebook Lenovo S145 Intel Celeron Linux 4Gb 500Gb HD 15.6"" Prata - Bivolt","SAMSUNG Notebook Book Intel Celeron W11 4GB 500GB HD 15.6"" NP550XDA-KP2BR- Branco - Bivolt"
+0,1,notebooks,Notebook Lenovo V14 i5-1135G7 8GB 256GB ssd Linux 14 82NMS00100 Preto,"Notebook Lenovo V14 i3-1115G4 8GB 256GB SSD W11 Home 14"" HD 82NM0010BR Preto"
+0,1,notebooks,Notebook Multilaser Ultra 14 fhd I3-5005U 4GB 1TB Linux Prata - UB422,Notebook ultra 14 pol core I3 7A 4GB 1TB hdd win 10 prata - UB431
+0,1,notebooks,Notebook Gamer Dell G15-i1100-M40P 15.6 fhd 11ª Geração Intel Core i5 16GB 512GB ssd nvidia rtx 3050 Windows 11,Notebook Gamer Dell G15-i1100-M30P 15.6 fhd 11ª Geração Intel Core i5 8GB 512GB ssd nvidia rtx 3050 Windows 11
+0,0,notebooks,Notebook Compaq Presario CQ-29 Intel i5 5257u 8GB DDR3 ssd 480GB Tela 15.6 Full HD Windows 10 Home,"Notebook Intel Core i5, Tela 15.6 Full HD ips, 8GB, 512 ssd e Windows 10 - Everex"
+0,1,notebooks,"Notebook Multilaser Legacy Book, W10 Home, Processador Intel Pentium Quad Core, Memoria 4GB 64GB Tela 14,1 Pol. HD Preto Multilaser – PC310","Notebook Multilaser Legacy Book, W10 Home, Processador Intel Celeron Quad Core, Memoria 4GB 64GB, Tela 14,1 Pol. HD, Preto – PC260"
+0,0,notebooks,"Notebook Positivo Motion Q464C-O Intel Atom Quad Core Windows 10 Home 14,1'' - Dourado - Inclui Microsoft 365*","Notebook Positivo Motion C4128E Intel® Celeron® Dual-Core™ Windows 10 Home 14"" - Vermelho - Inclui Microsoft 365* Notebook Positivo Motion C4128E Intel® Celeron® Dual-Core™ Windows 10 Home 14"" - Vermelho - Inclui Microsoft 365"
+0,1,notebooks,"Notebook Samsung Book 15,6 fhd Intel Celeron 6305 128GB ssd 4GB Windows 10 Pro - NP550XDA-KO7BR","Notebook Samsung - Tela 15.6 Full hd, Intel Celeron 6305, 8GB, ssd 128GB, Windows 11 - NP550XDA"
+0,0,notebooks,"Notebook 15,6"" Bs145 I3-1005g1/4gb/hd500gb/win 10 Pro - 82hb0002br Lenovo","Notebook Lenovo V15 i7-1165G7 8GB 256GB SSD Windows 10 Pro 15.6"" FHD Antirreflexo 82ME0004BR Preto"
+0,1,notebooks,Notebook Dell Inspiron i13-i1100-M10S 13.3 Full HD 11ª geração Plataforma Intel evo Core i5 8GB 256GB ssd Windows 11,"Notebook Dell Inspiron i15-i1100-M40S 15.6"" Full HD 11ª Geração Intel Core i5 8GB 256GB SSD Windows 11"
+0,0,notebooks,"Notebook Positivo Duo C464A Celeron Dual Core, 12, Windows 10, 4GB ram, 64GB, Cinza",Notebook Multilaser 13.3 Pol 4Gb 64Gb (32+32Sd) Windows 10 Dual Core Prata - PC222
+0,0,notebooks,Notebook Dell Inspiron 15 i1101-M60S 15.6 Full HD 11ª geração Intel Core i7 16GB 512GB ssd nvidia Geforce Windows 11,"Notebook Dell Inspiron i15-i1100-M70P 15.6"" Full HD 11ª Geração Intel Core i7 8GB 256GB SSD NVIDIA GeForce Windows 11"
+1,1,notebooks,"Notebook Samsung Book Intel Core I5 1135G7 - Iris Xe, Windows 10 Home 256GB ssd, 8GB ram, Tela 15.6 Iintel iris xe - Cinza Chumbo","Notebook Samsung Core I5-1135G7, 11 Geração, 8GB 256GB SSD 15,6 Book Win10 Cinza"
+0,0,notebooks,Notebook Dell Inspiron 15 3000 a0700-UM20P 15.6 fhd amd Ryzen 7 8GB 256GB ssd Linux Preto,"Notebook Dell Inspiron 15 3000 i15-a0500-AM10P 15.6"" FHD AMD Ryzen™ 5 8GB 256GB SSD Windows 11 Preto"
+0,0,notebooks,Notebook 8gb Ssd 256gb R5 W11h Fhd A515-45-r84h Acer,"Notebook Acer 15,6 Fhd A515-45-r2a3/ R5-5500u/ 8gb/ 512gb Ssd/ W11 Home"
+0,0,notebooks,Notebook Intel Core i5 8GB ram 256GB ssd IdeaPad 3i-15IML Tela 15.6 Windows 11,"Notebook Dell Inspiron i15-i1100-M40S 15.6"" Full HD 11ª Geração Intel Core i5 8GB 256GB SSD Windows 11"
+0,1,notebooks,"Notebook Acer 15,6 Fhd A515-45-r6kh/ R3-5300u/ 8gb/ 256gb Ssd/ W11 Home","Notebook Acer Aspire 5 15,6 FHD i5-10210U 256GB SSD 8GB Win 11 Home Prata - A515-54-57CS"
+0,1,notebooks,Notebook Positivo Motion Gray C4128E ssd 128GB DDR4 4GB,"Notebook Positivo Motion Gray C4128E-S Intel Celeron 4GB 128GB SSD 14,1'' LED Webcam HD Windows 10 Home - Cinza"
+0,1,notebooks,Notebook Gamer Dell G15-a0700-MM20PB 15.6 fhd amd Ryzen 7 16GB 512GB ssd nvidia rtx 3060 Windows 11 + Mochila,"Kit Notebook Gamer Dell G15-a0700-MM20PM 15.6"" FHD AMD Ryzen™ 7 16GB 512GB SSD NVIDIA RTX 3060 Windows 11"
+1,1,notebooks,Notebook lenovo cel IDEAPAD3 4GB 128GB ssd 82BU 15IGL,Notebook Lenovo IdeaPad 3i 82BUS00100 Intel Celeron Linux 4GB 128GB 15.6 Polegadas
+1,1,notebooks,Notebook Multilaser Legacy Cloud 14 Pol. 2GB 32GB W10 Cinza - PC131,Notebook Multilaser PC131 Legacy Cloud Intel Atom Z8350 2GB 32GB W10 14''
+0,1,notebooks,"Notebook Samsung Book E30 4GB, 15.6'', Intel Core i3, ssd 256GB, Windows 10 Home, cinza",Notebook Samsung Book I3 8GB 256GB SSD 15.6 Windows 11 Cinza Chumbo
+0,1,notebooks,"Notebook Gamer Gigabyte G5 Intel Core i5 10500H 16GB ram ssd 512GB GeForce rtx 3060 Tela 15,6'' Win 10 Home - KC-5BR2130SH","Notebook Gamer Gigabyte G5 Gd, Intel I5-11400h, 15.6, Fhd, 16gb Ddr4, Ssd 512gb M.2, Rtx 3050 4gb, Gd-51br123sd"
+0,1,notebooks,Notebook vaio FE14 Intel Core i3 Windows 11 Home 4GB 1TB Full HD - Cinza Escuro,Notebook vaio FE14 Intel Core i3 Linux 4GB 1TB Full HD - Cinza Escuro
+0,1,notebooks,"Notebook Acer A315-34-C6ZS Intel Celeron N4000 4gb 1tb 15,6"" Linux","Notebook Acer Aspire 3 A315 Celeron N4000 4Gb 1Tb 15,6 Linux"
+0,1,notebooks,Notebook Lenovo V14 i7-1165G7 8GB 256GB ssd Geforce MX350 W11 Home 14 fhd 82NM0016BR Preto,Notebook Lenovo V14 i3-1115G4 8GB 256GB ssd W11 Home 14 HD 82NM0010BR Preto
+1,1,notebooks,Notebook Samsung Book I5 8GB 256GB SSD 15.6 Windows 11H Cinza Chumbo,Notebook Samsung Book I5 8GB 256GB ssd 15.6 Windows 11H Cinza Chumbo
+0,0,notebooks,"Notebook Asus M515 Ryzen 7 3700U 8GB ram ssd 256GB Windows 10 Home 15,6 Cinza Escuro - M515DA-EJ533T",Notebook Ryzen 5 8GB ram 256GB ssd IdeaPad 3-15ALC Tela 15.6 Linux
+0,1,notebooks,Notebook gt Silver Intel Celeron 4GB 64GB ssd 14 HD Windows 10 - Goldentec,"Notebook GT Lisboa Intel® Core™ i3, 4GB, SSD 120GB, 14"", Windows 10"
+0,1,notebooks,Notebook Positivo C4128ei Celeron N3350 4gb Ddr4 Ssd 128gb Tela 14 Hd Led Windows 10 Pro,"Notebook Vaio FE14 - Tela 14 Full hd, Intel i3 1005G1, 8GB, ssd 128GB, Windows 10 pro"
+0,0,notebooks,Notebook Dell Inspiron i15-i1100-U10P 15.6 Full HD Intel Pentium Gold 4GB 128GB ssd Linux Preto,"Notebook Dell Inspiron i15-i1100-M10P 15.6"" Full HD Intel Pentium Gold 4GB 128GB SSD Windows 11 Preto"
+0,0,notebooks,Notebook vaio FE14 Intel Core i5 Windows 11 Home 8GB 256GB ssd Full HD - Cinza Escuro,Notebook VAIO® FE14 Intel® Core™ i5 Windows 10 Home 8GB 256GB SSD Full HD- Branco
+0,1,notebooks,"ASUS Notebook Intel Core i5-1035G1, 8GB, 256GB SSD, Intel® HD Graphics 620, Tela de 15,6"", Cinza - X515JA-EJ592T","Notebook Asus Intel Core i5-1035G1 8GB 256GB SSD W10 15,6'' Cinza X515JA-EJ592T"
+0,1,notebooks,Notebook Asus VivoBook X513EA-EJ1064T Intel Core i7 1165G7 Win 10 Home,Notebook ASUS VivoBook 15 X513EA-EJ1065T INTEL CORE I7 1165G7 / 8 GB / 512 GB SSD / Windows 10 Home / Black
+0,0,notebooks,Notebook Samsung Tela 11.6 N4000 32GB 4GBRAM Chromebook XE310XBA-KT1BR,"SAMSUNG CHROMEBOOK INTEL® DUAL-CORE, GOOGLE CHROME OS, 4GB, 32GB, 11.6'' HD LED, 1.18KG"
+0,1,notebooks,Kit Notebook Dell Alienware m15 R6 AW15-i1100-A30PH 15.6 fhd 11ª ger Intel Core i7 16GB 1TB ssd rtx 3070 Win 11 Headset,"Notebook Dell Alienware m15 R6 AW15-i1100-M30PB 15.6"" FHD 11ª ger Intel Core i7 16GB 1TB SSD RTX 3070 Win 11 + Mochila"
+1,1,notebooks,Notebook Aspire 3 I5 4GB 256GB SSD Linux - Acer,"Notebook Acer Aspire 3 A315-56-569F, 15,6 Intel Core i5-1035G1, 4GB, 256GB ssd - Endless os"
+0,0,notebooks,"Notebook Acer Aspire 3 amd Ryzen 3500U, 1TB hd, 8GB ram, amd Radeon Graphics 2GB GDDR5",Notebook Acer Swift 3 AMD Ryzen 7-4700U 8GB (AMD Radeon) 512GB SSD W10 14'' IPS FHD SF314-42-R9S5 - Prata
+0,1,notebooks,"Notebook Positivo Motion Gray C41TEi Intel Celeron 4GB 1TB HD 14,1'' LED Webcam HD Linux Debian 10 - Cinza","Notebook Positivo Motion Gray C4128E-S Intel Celeron 4GB 128GB SSD 14,1'' LED Webcam HD Windows 10 Home - Cinza"
+1,1,notebooks,"Notebook Lenovo Ideapad 3i Intel Celeron N4020 Memoria 4GB Ssd 480GB Tela 15,6'' HD Windows 10 Pro","Notebook Lenovo Ideapad 3i Intel Celeron N4020 Memoria 4GB HD 500GB Tela 15,6'' HD Windows 10 Pro"
+0,1,notebooks,"Notebook Ideapad Gaming 3i Intel Core i5-10300H 8GB (Geforce GTX 1650 4GB) 256GB SSD FHD Linux 15.6"" Azul","Notebook IdeaPad Gaming 3i, Intel Core i5-10300H, 8GB RAM, 256GB SSD, Placa Dedicada GTX 1650 4GB, Windows 10, 15.6"" Full HD WVA, Azul"
+0,1,notebooks,Notebook vaio FE14 Intel Core i7 Windows 11 Home 8GB 512GB ssd Full HD - Branco,Notebook VAIO® FE15 Intel® Core™ i7 Windows 11 Home 16GB 512GB SSD Full HD - Prata
+0,0,notebooks,"Notebook Asus M515 Ryzen 7 3700U 8GB ram ssd 256GB Windows 10 Home 15,6 Cinza Escuro - M515DA-EJ533T","Notebook Lenovo Ultrafino ideapad S145 Ryzen 5 8GB 256GB SSD Windows 10 15.6"" 81V70008BR Prata"
+0,0,notebooks,Notebook Dell Inspiron i15-i1100-U10P 15.6 Full HD Intel Pentium Gold 4GB 128GB ssd Linux Preto,"Kit Notebook Dell Inspiron i15-i1100-M10PC 15.6"" Full HD Intel Pentium Gold 4GB 128GB SSD Windows 11 Preto com Capa"
+0,1,notebooks,Notebook Intel Core i5 8GB ram 256GB ssd IdeaPad 3i-15IML Tela 15.6 Windows 11,Notebook IdeaPad 82BS0006BR Intel Core i3-10110U 4GB ram 256GB ssd Tela 15.6 Windows 10 Lenovo
+1,1,notebooks,Notebook Acer Aspire 3 A315-56-330J Ci3 4GB 256GB SSD 15.6 Windows 10,Notebook Acer 3 A315 3.4Ghz 4Gb Ram 256Gb Tela 15.6 – Cinza
+0,0,notebooks,Notebook Dell Inspiron i15-i1100-M10P 15.6 Full HD Intel Pentium Gold 4GB 128GB ssd Windows 11 Preto,Notebook Dell Inspiron i15-i1100-U10P 15.6 Full HD Intel Pentium Gold 4GB 128GB ssd Linux Preto
+0,1,notebooks,Notebook compaq CQ-27 COREI3 4GB SSD120GB WIN10,Notebook Compaq CQ-25 Pentium N3700 4GB SSD 120 Windows 10 Home
+0,1,notebooks,Notebook Lenovo Yoga Slim 9i 14 i7-1165G7 16GB 512GB ssd Placa de Vídeo Intel Iris Xe W11 fhd wva,"Notebook Lenovo Yoga 9i 2 em 1 14"" i7-1185G7 8GB 512GB SSD Placa de Vídeo Intel Iris Xe W11 FHD WVA"
+0,1,notebooks,"Notebook Lenovo Ultrafino ideapad S145 Ryzen 5 12GB 1TB Linux 15.6"" 81V7S00000 Prata","Notebook Lenovo Ultrafino ideapad S145 i3-8130U 4GB 1TB Linux 15.6"" 81XMS00000 Prata"
+0,0,notebooks,Notebook Gamer Legion Slim7 R5-5600H 16GB 512GB RTX3050 Ti 4GB W11 15.6 Full HD wva 82K800EABR,"Notebook Gamer Legion 5i i7-10750H 16GB 512GB SSD RTX2060 6GB W10 15.6"" Full HD WVA 82CF0002BR"
+1,1,notebooks,Notebook Positivo Motion C4128ei Celeron Dual-core N3350 Memoria 4gb Ddr4 Hd 1tb Tela 14 Hd Led Linux,Notebook Positivo C4128ei Celeron N3350 4gb Ddr4 Ssd 128gb Tela 14 Hd Led Windows 10 Pro
+1,1,notebooks,Notebook vaio FE14 Intel Core i5 Windows 10 Home 8GB 256GB ssd Full hd- Branco,Notebook VAIO® FE14 Intel® Core™ i5 Windows 10 Home 8GB 256GB SSD Full HD- Branco
+0,1,notebooks,Notebook Lenovo ideapad Gaming 3i i5-10300H 8GB 256SSD gtx 1650 4GB 15.6 fhd wva W10 82CG0002BR,Notebook Lenovo ideapad Gaming 3i i7-10750H 16GB 512GB ssd gtx 1650 4GB 15.6 fhd wva W10 82CG0004BR
+1,1,notebooks,"Notebook Asus Zenbook Core I5 2,4 Ghz 8Gb 256 Gb Ssd",Notebook Asus ZenBook 14 UX425EA-BM319T CORE I5-1135G7 / 8 GB / 256 GB SSD / Windows 10 Home / Cinza Escuro
+0,1,notebooks,"Notebook Dell Inspiron I15-3501-A25P Intel Core I3-1005G1 4GB 256GB SSD W10 15.6"" - Preto",Notebook Dell Inspiron i15-i1100-M25P 15.6 Full HD 11ª Geração Intel Core i3 4GB 256GB ssd Windows 11 Preto
+0,1,notebooks,Notebook asus rog Zephyrus Duo 15 GX550LXS-HF157T Cinza,Notebook asus rog Zephyrus G14 GA401IV-HE251T Ryzen 9 4900HS 16GB 1TB ssd RTX2060 W10 14'' Cinza
+1,1,notebooks,"Notebook Lenovo Ideapad 3i Intel Celeron N4020 Memoria 4GB Ssd 240GB Tela 15,6'' HD Sistema Linux","Notebook Lenovo Ultrafino Ideapad 3i Intel Celeron-N4020 4GB 128GB SSD W10 15.6"" Prata"
+1,1,notebooks,Notebook Motion C41TEi Celeron Linux 04GB 01TB - Positivo,Notebook Positivo Motion C41TEi Celeron 4GB 1TB HD Linux - Cinza
+0,0,notebooks,"Notebook Positivo Motion Q464C Intel Atom Quad Core 4GB 64GB eMMC 14,1'' W10 - Cinza","Notebook Positivo Motion Gray Q464C-O Intel® Atom® Quad Core™ Windows 10 Home 14,1'' - Cinza - Inclui Microsoft 365*"
+0,0,notebooks,Notebook asus X515JA-EJ592T intel I5-1035G1/8GB/SSD256/15.6/WIND.10/CINZA,Notebook Gamer Asus Rog Strix 15.6 Intel Core I7-10750H
+1,1,notebooks,Notebook Intel Core i3-1115G4 Windows 10 ram 4GB 1TB Tela 15.6 NP550XDA-KV2BR Samsung,"SAMSUNG Notebook Intel Core i3-1115G4 4GB 1TB W11 15,6"" NP550XDA-KV2BR - Branco"
+0,1,notebooks,"Notebook Acer A315-56-569F, Intel Core i5, 4GB 256GB, 15.6, Endless Os, Grafite","Notebook A315-56-356Y Intel Core i3 4GB ram Tela 15,6 256GB ssd W10 Acer"
+0,1,notebooks,"Notebook Lenovo Ultrafino Ideapad S145 AMD Ryzen 5 12GB 1TB Linux 15.6"" Prata","Notebook Lenovo Ultrafino ideapad S145 i3-8130U 4GB 1TB Linux 15.6"" 81XMS00000 Prata"
+0,1,notebooks,Notebook Acer A314-35-C4CZ Celeron N4500 4GB 256GB ssd 14FHD,"ACER Notebook A314-35-C236 14"" Celeron N4500 4GB 500GB W10H, preto"
+0,1,notebooks,"Dell Inspiron i3501-U25P - Tela 15.6, Intel i3 1005G1, 4GB, ssd 256GB, Linux","Kit Notebook Dell Inspiron i15-i1100-U25PC 15.6"" Full HD 11ª Geração Intel Core i3 4GB 256GB SSD Linux com Capa"
+1,1,notebooks,Notebook Gamer Dell G15-a0700-MM20PB 15.6 fhd amd Ryzen 7 16GB 512GB ssd nvidia rtx 3060 Windows 11 + Mochila,"Notebook Gamer Dell G15-a0700-MM20PB 15.6"" FHD AMD Ryzen™ 7 16GB 512GB SSD NVIDIA RTX 3060 Windows 11 + Mochila"
+1,1,notebooks,Notebook Positivo Motion C41TE Celeron 4GB 1TB 14 LED Windows 10,"Notebook Positivo Motion C41TE Intel Celeron 14,1'' Cinza"
+0,1,notebooks,"Notebook Dell Inspiron 15 a0500-UM10P 15.6"" FHD AMD Ryzen™ 5 8GB 256GB SSD Linux Preto","Notebook Dell Inspiron 15 a0700-UM20P 15.6"" FHD AMD Ryzen™ 7 8GB 256GB SSD Linux Preto"
+0,1,notebooks,Notebook Samsung E40 NP550XDZ i3 4GB 256GB ssd Linux Cinza,Notebook Samsung Book Celeron 4GB 256GB SSD 15.6 W11H Cinza Chumbo
+0,0,notebooks,Notebook Compaq Presario 421 Pentium N3700 120Gb Shell Efi,"Notebook Compaq Presario 431 14,1 LED HD i3-6157U 120GB 4GB Shell EFI - Cinza"
+1,1,notebooks,"Notebook Lenovo IdeaPad 3i, Intel Core i3-10110U, 4GB RAM, 256 GB SSD, Windows 10, 15.6"", Prata","Notebook Lenovo IdeaPad 3i, Intel Core i3-10110U, 4GB ram, 256GB ssd, Windows 10, 15.6 82BSS006BR Prata"
+0,1,notebooks,Notebook Gamer Legion Slim7 R7-5800H 16GB 512GB ssd rtx 3060 6GB W11 15.6 Full HD wva 82K800E9BR,"Lenovo Notebook Gamer Legion Slim7 R5-5600H 16GB 512GB RTX3050 Ti 4GB W11 15.6"" Full HD WVA 82K800EABR, Shadow Black"
+0,1,notebooks,Notebook Acer Aspire 5 A514-54-54LT Intel Core i5 11ª Gen 8GB 256GB SSD 14' Full HD Win10,Notebook Acer Aspire 5 A514-54-52TY Intel Core i5 11ª Gen Windows 11 Home 8GB 256GB sdd 14' Full HD
+0,0,notebooks,"Notebook Asus VivoBox 15,6 HD LED 500GB 4GB Ram cz - Asus",Notebook Asus Intel Celeron 2.8GHz 4GB ram 128GB ssd Windows 10 Pro Tela 15.6
+0,1,notebooks,"Notebook Acer Aspire 3 amd Ryzen 3500U, 1TB hd, 8GB ram, amd Radeon Graphics 2GB GDDR5","Notebook Acer Aspire 3 A315-23-R6DJ AMD R3 8GB 1TB W10 15.6"" - Preto"
+0,1,notebooks,Notebook Compaq Presario 454 Intel Core i5 Linux 8GB 240GB ssd 14 - Cinza,Notebook VAIO® FE15 Intel® Core™ i5 Linux 8GB 256GB SSD HD - Prata
+0,1,notebooks,Notebook 8gb Ssd 256gb R5 W11h Fhd A515-45-r84h Acer,Notebook Acer Aspire 3 i3 Windows 11 8GB 256GB ssd 15.6 Polegadas A315-56-39UP
+0,0,notebooks,Notebook Dell Inspiron i13-i1100-M20S 13.3 Full HD 11ª geração Plataforma Intel evo Core i7 8GB 512GB ssd Windows 11,"Notebook Dell Inspiron i15-i1100-M60S 15.6"" Full HD 11ª Geração Intel Core i7 8GB 256GB SSD Windows 11"
+1,1,notebooks,"Notebook ASUS X515JF-EJ360T Intel Core i5 1035G1 8GB 256GB SSD W10 15,6"" LED-backlit Cinza","Notebook asus X515JF-EJ360T Intel Core i5 1035G1 8GB 256GB ssd W10 15,6 LED-backlit Cinza"
+1,1,notebooks,Notebook Positivo Motion Intel Celeron Dual-Core Linux 14 - Cinza - C41TEI,Notebook Motion C41TEi Celeron Linux 04GB 01TB - Positivo
+1,1,notebooks,"Notebook Positivo Duo C464A Celeron Dual Core, 12, Windows 10, 4GB ram, 64GB, Cinza","Notebook 2 em 1 Positivo Duo C464C Intel Celeron 4GB de Memória RAM 64GB de Armazenamento 11.6"" IPS Full HD touch com caneta Windows 10 Home - Cinza"
+0,0,notebooks,Notebook Dell Inspiron 15 i1101-M50S 15.6 Full HD 11ª geração Intel Core i7 8GB 512GB ssd nvidia Geforce Windows 11,"Notebook Dell Inspiron i15-3501-WA70S 15.6"" HD 11ª Geração Intel Core i7 8GB 256GB SSD NVIDIA GeForce Windows 11 Prata"
+0,0,notebooks,Notebook Lenovo BS145 Intel i3 1005G1 4GB 500GB Windows 10 Home 15.6' HD Preto - 82HB0001BR,"Samsung Book E20 Intel® Dual-Core, Windows 10 Home, 4GB, 500GB, 15.6'' HD LED"
+0,1,notebooks,"Notebook Samsung Book E30 4GB, 15.6'', Intel Core i3, ssd 256GB, Windows 10 Home, cinza",Notebook Samsung Book I3 4GB 256GB SSD 15.6 Windows 11 Cinza Chumbo
+0,0,notebooks,Notebook vaio FE14 Intel Core i5 Windows 11 Home 8GB 256GB ssd Full HD - Cinza Escuro,Notebook vaio FE14 Intel Core i5 Windows 10 Home 8GB 256GB ssd Full hd- Branco
+0,0,notebooks,Notebook Aspire 3 I5 4GB 256GB ssd Linux - Acer,Notebook Acer Aspire 5 256Gb ssd Core I5-10210U 4Gb Ram
+0,0,notebooks,Notebook 15.6 vivobook core I3-7020U/4GB/256GB/WIN10 X543UA-GQ3430T asus,Notebook Asus VivoBook X515JA-212. V15BB 15.6 Intel Core I3-1005G1 - Slate Grey Oferta!
+0,1,notebooks,Notebook Dell Inspiron i13-i1100-M20S 13.3 Full HD 11ª geração Plataforma Intel evo Core i7 8GB 512GB ssd Windows 11,"Notebook Dell Inspiron i13-i1100-M10S 13.3"" Full HD 11ª geração Plataforma Intel® EVO™ Core i5 8GB 256GB SSD Windows 11"
+0,0,notebooks,Notebook Dell Inspiron 15 3000 a0700-UM20P 15.6 fhd amd Ryzen 7 8GB 256GB ssd Linux Preto,"Notebook Dell Inspiron 15 a0500-MM10P 15.6"" FHD AMD Ryzen™ 5 8GB 256GB SSD Windows 11 Preto"
+1,1,notebooks,Notebook Samsung Book I3 8GB 256GB ssd 15.6 Windows 11 Cinza Chumbo,Notebook Samsung Book I3 8GB 256GB SSD 15.6 Windows 11 Cinza Chumbo
+0,0,notebooks,Notebook Dell Inspiron i15-i1100-M20PF 15.6 Full HD 11ª Ger. Intel Core i3 4GB 128GB ssd Win 11 Microsoft 365 Preto,"Notebook Dell Inspiron i15-i1100-U20P 15.6"" Full HD 11ª Geração Intel Core i3 4GB 128GB SSD Linux"
+0,1,notebooks,Notebook Acer Aspire 5 A515 Intel Core I5-10210u Memoria 4gb Ssd 256gb Tela 15.6'' Full Hd Sistema Linux,"ACER, Notebook Aspire 5 A515-56-327T Intel Core i3-1115G4 4GB 256GB SSD M.2 15,6"" Full HD Windows 10 Home, Cinza"
+0,0,notebooks,Notebook VAIO® FE14 Intel® Core™ i5 Windows 10 Home 8GB 256GB SSD Full HD- Branco,Notebook VAIO® FE14 Intel® Core™ i5 Windows 11 Home 8GB 256GB SSD Full HD - Cinza Escuro
+0,0,notebooks,Notebook Compaq Presario 430 Intel Core i3 Windows 10 Home 4GB 120GB ssd 14 - Cinza,"Notebook GT Lisboa Intel® Core™ i3, 4GB, SSD 120GB, 14"", Windows 10"
+0,1,notebooks,"Notebook Samsung Book E30 4GB, 15.6'', Intel Core i3, ssd 256GB, Windows 10 Home, cinza",Notebook Samsung Book I3 4GB 256GB ssd 15.6 Windows 11 Cinza Chumbo
+1,1,notebooks,Notebook Lenovo Ideapad 3i 15.6 HD Intel Celeron ssd 128GB 4GB Windows 11 Home Prata - 82BU0006BR,"Notebook Lenovo IdeaPad 3i Celeron 4GB 128GB SSD W11 15.6"", 82BU0006BR"
+0,1,notebooks,Notebook Intel Pentium 4GB ram 500GB hdd Ultra UB322 Tela 14.1 HD Windows 10 Preto,"Notebook Ultra com Windows 11 Home, Intel Celeron, 4GB ram 120GB ssd + Tecla Netflix, Tela 14,1 Pol. HD Preto - UB230"
+0,0,notebooks,Notebook Gamer Dell G15-i1000-U20P 15.6 fhd 10ª Geração Intel Core i5 8GB 512GB ssd nvidia gtx 1650 Linux,Notebook Gamer Dell G15-i1000-M10P 15.6 fhd 10ª Geração Intel Core i5 8GB 256GB ssd nvidia gtx 1650 Windows 11
+1,0,notebooks,"Notebook Gamer Acer Nitro 5 Ryzen 7 4800H, GeForce gtx 1650, 8GB ram Preto","Notebook Nitro 5 AN515-44-R4KA, AMD R7 4800H, 8GB, 512GB SDD, (GTX 1650 com 4 GB) Windows11. 15,6” LED FHD IPS"
+0,0,notebooks,"Notebook Multilaser PC134 Legacy Cloud Intel Atom-Z8350 2GB 64GB W10 14"" Cinza",Notebook Multilaser PC270 Legacy Book Intel Celeron 4GB 64GB W11 14'' Preto + Office 365
+0,0,notebooks,"Notebook Gamer Dell G15-i1000-M20P 15.6"" FHD 10ª Geração Intel Core i5 8GB 512GB SSD NVIDIA GTX 1650 Windows 11","Notebook Gamer Dell G15-i1000-M25P 15.6"" 165Hz FHD 10ª Geração Intel Core i5 8GB 512GB SSD NVIDIA GTX 1650 Windows 11"
+0,0,notebooks,"Notebook Samsung Book Intel Core I5 1135G7 - Iris Xe, Windows 10 Home 256GB ssd, 8GB ram, Tela 15.6 Iintel iris xe - Cinza Chumbo","Notebook Dell i15-3501 - Tela 15.6, Intel i7 1165G7, 8GB, ssd 256GB, Intel Iris Xe, Windows 10"
+1,1,notebooks,Notebook Dell Inspiron 15 3000 a0500-UM10P 15.6 fhd amd Ryzen 5 8GB 256GB ssd Linux Preto,"Notebook Dell Inspiron 15 a0500-UM10P 15.6"" FHD AMD Ryzen™ 5 8GB 256GB SSD Linux Preto"
+0,1,notebooks,"Chromebook Lenovo 100e Gen 3 AMD 3015C3 4GB 32GB eMMC Google Chrome 11.6"" Antirreflexo 82J80001BR Preto","Lenovo Chromebook 100e Gen 3, AMD 3015Ce. 4GB RAM, 32GB eMMC"
+1,1,notebooks,"Notebook Acer Aspire 3 AMD Ryzen 5-3500U, 8GB, 1TB, Windows 10 Home, 15.6' - A315-23G-R24V","Notebook Acer Aspire 3 amd Ryzen 3500U, 1TB hd, 8GB ram, amd Radeon Graphics 2GB GDDR5"
+0,1,notebooks,Notebook Gamer 2AM E550 nvidia GeForce gtx 1050 3GB - Windows 10 Home Core i7-9700 8GB 1TB + ssd 128GB FullHD 15.6,"Notebook Gamer 2AM E550, Intel Core i3 9100, 8GB, 256GB SSD, NVIDIA GeForce GTX 1050 3GB, IPS Full HD 15.6"" - Windows 10 Home"
+0,0,notebooks,Notebook Positivo Motion Q4128C Intel Atom Quad-Core Windows 10 Home 14.1 - Cinza – Inclui Microsoft 365*,"Notebook Positivo Motion Q464C-O Intel Atom Quad Core Windows 10 Home 14,1'' - Dourado - Inclui Microsoft 365*"
+0,1,notebooks,"NOTEBOOK ACER 15,6 FHD A515-45-R84H/ R5-5500U/ 8GB/ 256GB SSD/ W11 HOME","Notebook Acer 15,6 Fhd A515-45-r6kh/ R3-5300u/ 8gb/ 256gb Ssd/ W11 Home"
+0,0,notebooks,Notebook Acer A314-35-C4CZ Celeron N4500 4GB 256GB ssd 14FHD,ACER Notebook A315-56-3478 i3 4GB 256GB W11
+0,0,notebooks,Notebook Lenovo V14 i5-1135G7 8GB 256GB ssd Linux 14 82NMS00100 Preto,Notebook Lenovo V14 i5-1135G7 8GB 256GB ssd W11 Pro mx 350 2GB 14 fhd 82NM0014BR Preto
+0,0,notebooks,"Notebook Dell Inspiron i15-i1100-M25P 15.6"" Full HD 11ª Geração Intel Core i3 4GB 256GB SSD Windows 11 Preto","Notebook Dell Inspiron i15-i1100-M20P 15.6"" Full HD 11ª Geração Intel Core i3 4GB 128GB SSD Windows 11 Preto"
+0,0,notebooks,Kit Notebook Dell Inspiron 15 3000 a0700-MM20SF 15.6 fhd amd Ryzen 7 8GB 256GB ssd Windows 11 + Microsoft 365 Prata,"Notebook Dell Inspiron 15 3000 i15-a0500-AM10P 15.6"" FHD AMD Ryzen™ 5 8GB 256GB SSD Windows 11 Preto"
+0,1,notebooks,Notebook Dell Inspiron 15 3000 a0500-UM10P 15.6 fhd amd Ryzen 5 8GB 256GB ssd Linux Preto,Notebook Dell Inspiron 15 3000 a0700-UM20P 15.6 fhd amd Ryzen 7 8GB 256GB ssd Linux Preto
+0,1,notebooks,"Notebook Vaio FE14 VJFE42F11X-B1521H Intel Core i3-10110U 4GB 128GB SSD FHD Linux 14"" Chumbo Escuro","Notebook Vaio FE14 Intel Core i3-10110U 8GB 256GB SSD W11 14"" FHD Chumbo-Escuro VJFE42F11X-B2891H"
+0,0,notebooks,Notebook positivo motion Q432B intel ATOM/4GB/32GB EMMC/14/ WIND.10 home,NOTEBOOK POSITIVO MOTION C4500D
+0,1,notebooks,"Notebook Gamer Acer AN517-52-50RS Tela 17.3 ips fhd 144Hz, i5, 8GB, ssd 512GB, gtx 1650, Windows 11",Notebook Gamer Acer Nitro 5 AN515-44-R4KA amd Ryzen 7 Windows 11 Home 8GB 512GB ssd gtx 1650 15.6'
+0,1,notebooks,Notebook Lenovo V14 i5-1135G7 8GB 256GB ssd Intel Iris Xe Graphics Win 10 Pro 14 82NM0000BR Preto,"Notebook Lenovo V14 i5-1135G7 8GB 256GB SSD W11 Pro MX 350 2GB 14"" FHD 82NM0014BR Preto"
+0,1,notebooks,"Notebook Positivo 2 Em 1 Tablet Tela 11,6 Hd 64gb C464ap","Notebook 2 em 1 Positivo DUO C4128B-1 Intel Celeron 4GB 128GB 11.6"" IPS Full HD touch com caneta Windows 11 Home - Cinza"
+0,0,notebooks,Notebook Lenovo Ultrafino Ideapad 3 15.6 Ryzen 5 5500U 256GB ssd 8GB Linux Cinza - 82MFS00100,"Notebook Lenovo Ultrafino IdeaPad 3i i7-10510U 8GB 256GB SSD Linux 15.6"" 82BSS00300,Prata"
+0,0,notebooks,"Notebook Asus X543MA-GQ1300W Windows 11 15,6 Polegadas 500GB 4GB ram Celeron wi-fi","Notebook Asus VivoBook Intel Celeron 4GB ram 500GB 15,6 W10"
+0,0,notebooks,Notebook Ryzen 5 8GB ram 256GB ssd IdeaPad 3-15ALC Tela 15.6 Linux,"Notebook Lenovo Ideapad 3i - Tela 15.6, Intel i3 10110U, ram 12GB, ssd 256GB, Linux"
+1,1,notebooks,"Notebook Dell Inspiron i15-i1100-U10P 15.6"" Full HD Intel Pentium Gold 4GB 128GB SSD Linux Preto",Notebook Dell Inspiron i15-i1100-U10P 15.6 Full HD Intel Pentium Gold 4GB 128GB ssd Linux Preto
+0,0,notebooks,Notebook Lenovo ThinkPad E14 i5-1135G7 8GB 256GB SSD Windows 11 Home 20TB0023BO Preto,Notebook Lenovo ThinkPad E14 i3-1115G4 8GB 256GB ssd Windows 11 Pro 20TB0021BO Preto
+0,0,notebooks,"Notebook Ultra UB522 - Tela 15 Full hd, Intel i5, ram 8GB, ssd 240GB, Windows 10 - Prata","Notebook GT Tóquio Intel® Core™ i5, 8GB, SSD 240GB, 15.6"" Full HD, Windows 10"
+0,1,notebooks,"Notebook Samsung Book E30 4GB, 15.6'', Intel Core i3, ssd 256GB, Windows 10 Home, cinza","Notebook Acer Aspire 3, 4GB, 15.6'', Intel Core i3, 256 gb ssd, Windows 10 Home, cinza"
+0,1,notebooks,"Notebook Samsung NP550XDA-KU1BR Intel Core i7-1165G7 8GB 256GB SSD Tela 15,6"" Windows 11 - Cinza Chumbo",Notebook Samsung Book I3 4GB 256GB ssd 15.6 Windows 11 Cinza Chumbo
+0,0,notebooks,Notebook asus X571GT-AL888T Preto,Notebook ASUS M515DA-BR1213 Cinza
+0,1,notebooks,Notebook Gamer Dell G15-i1100-M30P 15.6 fhd 11ª Geração Intel Core i5 8GB 512GB ssd nvidia rtx 3050 Windows 11,"Notebook Gamer Dell G15-i1100-M30PB 15.6"" FHD 11ª Ger Intel Core i5 8GB 512GB SSD NVIDIA RTX 3050 Windows 11 + Mochila"
+0,0,notebooks,"Notebook Positivo Motion Gray Q464C Intel Atom Quad Core 4GB 64GB 14,1'' LED Webcam HD Windows 10 Home - Cinza","Notebook Positivo Motion Gray C4128E-S Intel Celeron 4GB 128GB SSD 14,1'' LED Webcam HD Windows 10 Home - Cinza"
+1,1,notebooks,"Notebook Positivo Motion Gold C41TEI Intel Celeron-N3350 4GB 1TB Linux 14,1'' Dourado","Notebook Positivo Motion C41TEi Intel® Celeron® Dual-Core™ Linux 14"" - Dourado"
+0,1,notebooks,"Notebook Lenovo Ideapad S145, 15.6, amd Ryzen 5, 8GB, Windows 10",Notebook lenovo ideapad 3I ryzen 5-5500U 8GB 256GB ssd windows 11 home 15.6 - prata
+0,1,notebooks,"Notebook Asus, Intel Core i3 1005G1, 8GB, 256GB ssd, Tela de 15,6, W11, Cinza - X515JA-BR2751W","ASUS Notebook Intel Core i7-1165G7 8GB 256GB SSD W11 15,6"" Preto X513EA-EJ3010W"
+0,0,notebooks,"Notebook Asus X515JA-EJ1792W, 15,6 Intel Core i5-1035G1, 8GB, ssd 256GB","ASUS Notebook Intel Core i7-1165G7 8GB 256GB SSD W11 15,6"" Preto X513EA-EJ3010W"
+0,1,notebooks,Notebook Lenovo Yoga Slim 9i 14 i7-1165G7 16GB 512GB ssd Placa de Vídeo Intel Iris Xe W11 fhd wva,Notebook Lenovo Yoga 9i 2 em 1 14 i7-1185G7 8GB 512GB ssd Placa de Vídeo Intel Iris Xe W11 fhd wva
+0,1,notebooks,Notebook Dell Inspiron i15-i1100-U40P 15.6 Full HD 11ª Geração Intel Core i5 8GB 256GB ssd Linux,"Notebook Dell Inspiron i15-i1100-U60P 15.6"" Full HD 11ª Geração Intel Core i7 8GB 256GB SSD Linux Preto"
+0,1,notebooks,"Notebook Samsung Book Intel Core I5 1135G7 - Iris Xe, Windows 10 Home 256GB ssd, 8GB ram, Tela 15.6 Iintel iris xe - Cinza Chumbo","SAMSUNG BOOK CORE I5-1135G7, WIN 10 PRO, 8GB, 256GB SSD, INTEL IRIS XE GRAPHICS, 15.6'' FHD LED ,CINZA CHUMBO, NP550XDA-KF6BR"
+0,1,notebooks,"Notebook Compaq Presario 431 14,1 LED HD i3-6157U 120GB 4GB Shell efi - Cinza","Notebook Compaq Presario 430 Intel Core i3 4GB 120GB SSD 14,1'' LED Webcam HD Windows 10 Home - Cinza"
+0,1,notebooks,"Notebook Dell Inspiron i15-i1100-M10P 15.6"" Full HD Intel Pentium Gold 4GB 128GB SSD Windows 11 Preto","Notebook Dell Inspiron i15-i1100-M10PF 15.6"" Full HD Intel Pentium Gold 4GB 128GB SSD Windows 11 Microsoft 365 Preto"
+0,0,notebooks,Notebook asus X571GT-AL888T Preto,Notebook ASUS VivoBook X513EA-EJ3010 Preto
+0,1,notebooks,"Notebook Philco PNB14 Intel Celeron-N3350 4GB 128GB W10 14"" Cinza","Notebook Positivo Motion Intel® Core™ i3 1TB 4GB Linux 14"" - Cinza"
+0,0,notebooks,"Notebook 2 em 1 hp 435-G8, amd Ryzen 3, 8GB, 256GB ssd, Tela de 13, Windows 11 Home, 5R5A6LA","Notebook 445-g8 Hp, Amd Ryzen 7, 16gb, 256gb Ssd, Windows 10 Pro, Tela de 14"", 46u29la"
+1,1,notebooks,Notebook Lenovo 15.6 RYZEN5 8GB 256GBSSD W11 - 82MF0003BR Prata Bivolt,"Notebook Lenovo Ultrafino IdeaPad 3 R5-5500U 8GB 256GB SSD Windows 11 15.6"" 82MF0003BR Prata"
+0,1,notebooks,"Notebook Acer 15,6 Fhd A515-45-r6kh/ R3-5300u/ 8gb/ 256gb Ssd/ W11 Home","NOTEBOOK ACER A515-45-R760 R7 5700U 8GB 256GB SSD W11 15,6"
+0,0,notebooks,"Notebook Asus ZenBook 14, Intel Core i7 10510U, 8GB, 256GB ssd, 14, Segunda Tela ScreenPad 2.0 - UX434FAC-A6340T",Notebook LG Gram Intel Core i5 10ª 8GB 256GB ssd LED 14 Titânio Win10
+0,0,notebooks,"Notebook Gamer Acer AN517-52-50RS Tela 17.3 ips fhd 144Hz, i5, 8GB, ssd 512GB, gtx 1650, Windows 11","Notebook Gamer Dell G15-i1000-M20P 15.6"" FHD 10ª Geração Intel Core i5 8GB 512GB SSD NVIDIA GTX 1650 Windows 11"
+0,0,notebooks,"Notebook Lenovo IdeaPad 3i, Intel Core i3-10110U, 4GB ram, 256GB ssd, Windows 10, 15.6 82BSS006BR Prata","Notebook Lenovo Ultrafino IdeaPad 3i, Intel Core i5-10210U, 8GB RAM, 256GB SSD, Placa de Vídeo Dedicada, Windows 10, 15.6"", Prata"
+0,1,notebooks,Notebook Multilaser Ultra 14 fhd I3-5005U 4GB 1TB Linux Prata - UB422,"Notebook Ultra UB420 Intel Core i3 4GB 120GB W10 14"" - Prata"
+0,1,notebooks,"Notebook Samsung NP550XDA-KV1BR Intel Core i3-1115G4 4GB 1TB  Tela 15,6"" W11 - Cinza Chumbo",Notebook Samsung Book Intel Core I3-1115G4 4GB 1TB W10 FHD 15.6'' Cinza Chumbo NP550XDA-KT1BR
+0,1,notebooks,"Notebook Samsung Intel Celeron-6305 4GB 500GB W11 15,6"" NP550XDA-KP2BR - Branco",Notebook Samsung Book Intel Celeron-6305 4GB 500GB W10 FHD 15.6'' Cinza Chumbo NP550XDA-KO1BR
+1,1,notebooks,"ASUS Notebook X515JA-EJ2734W Intel Core i5 1035G1 4GB 256GB ssd W11 15,6 LED-backlit tft lcd Cinza","Notebook Asus Core I5 256GB Memória 4GB ram Windows 11 15,6 Polegadas wi-fi X515JA-EJ2734W"
+0,1,notebooks,Kit Notebook Dell Alienware m15 R6 AW15-i1100-A30PH 15.6 fhd 11ª ger Intel Core i7 16GB 1TB ssd rtx 3070 Win 11 Headset,"Kit Notebook Dell Alienware m15 R6 AW15-i1100-A20PH 15.6"" FHD 11ª ger Intel Core i7 16GB 1TB SSD RTX 3060 Win 11 Headset"
+0,1,notebooks,Notebook vaio FE14 Intel Core i3 Linux 4GB 1TB Full HD - Cinza Escuro,Notebook VAIO® FE15 Intel® Core™ i3 Windows 11 Home 4GB 1TB Full HD - Cinza Escuro
+0,1,notebooks,Notebook Samsung Book Intel Celeron-6305 4GB 500GB W10 FHD 15.6'' Cinza Chumbo NP550XDA-KO1BR,Notebook Samsung Book Intel Core I3-1115G4 4GB 1TB W10 FHD 15.6'' Cinza Chumbo NP550XDA-KT1BR
+0,0,notebooks,Notebook 445-G8 Ryzen 7 16gb 256gb ssd wp 46U29LA hp cx 1 un,"Notebook Dell i15-A0500 - Tela 15.6 Full hd, Ryzen 5, 16GB, ssd 256GB, Radeon rx Vega 8, Windows 11"
+0,1,notebooks,"Notebook Positivo Motion Q464C Intel Atom Quad Core 4GB 64GB eMMC 14,1'' W10 - Cinza",Notebook Positivo Motion Q464C Intel Atom Z8350 4GB eMMC 64GB W10 14.1'' - Vermelho
+0,1,notebooks,Notebook Vaio FE14 14 fhd i5-10210U 1TB 4GB Win 10 Home VJFE42F11X-B0211H,Notebook Vaio FE14 14 fhd i7-10510U 256GB ssd 8GB Windows 10 Home - VJFE42F11X-B0542H
+0,1,notebooks,Notebook Dell Inspiron i15-i1100-U25P 15.6 Full HD 11ª Geração Intel Core i3 4GB 256GB ssd Linux,"Notebook Dell Inspiron i15-i1100-U20P 15.6"" Full HD 11ª Geração Intel Core i3 4GB 128GB SSD Linux"
+0,0,notebooks,Notebook Dell Inspiron i15-i1100-U60P 15.6 Full HD 11ª Geração Intel Core i7 8GB 256GB ssd Linux Preto,"Notebook Dell Inspiron i15-3501-D60S 15.6"" HD 11ª Geração Intel Core i7 8GB 256GB SSD Linux Prata"
+0,1,notebooks,"Notebook hp 256-G8, Processador Core i5, 8GB de memoria, 256GB ssd, Tela de 15,6, Windows 11","Notebook 2 em 1 Hp 435-g8, Amd Ryzen 3, 8gb , 256gb Ssd, Tela de 13"", Windows 11 Home, 5r5a6la"
+0,0,notebooks,"Notebook Philco PNB14 Intel Celeron-N3350 4GB 128GB W10 14"" Cinza",Notebook Positivo Motion I34128BI 14 HD Intel Core i3-6157U 128GB SSD 4GB Linux Cinza Escuro
+0,0,notebooks,"Notebook asus VivoBook X513EA-BQ2782W Intel Core i5 1135G7 8GB 256GB ssd W11 15,6 LED-backlit Azul","Notebook asus X515JF-EJ360T Intel Core i5 1035G1 8GB 256GB ssd W10 15,6 LED-backlit Cinza"
+1,1,notebooks,"Notebook ASUS X515MA-BR623X Intel Celeron Dual Core N4020 4GB 128GB SSD W11 15,60"" LED-backlit Cinza","Notebook asus X515MA-BR623X Intel Celeron Dual Core N4020 4GB 128GB ssd W11 15,60 LED-backlit Cinza"
+0,0,notebooks,"Notebook Asus X543MA-GQ1300W Windows 11 15,6 Polegadas 500GB 4GB ram Celeron wi-fi",Notebook Asus Intel Celeron 2.8GHz 4GB ram 128GB ssd Windows 10 Pro Tela 15.6
+0,1,notebooks,Kit Notebook Dell Alienware m15 R6 AW15-i1100-A30PH 15.6 fhd 11ª ger Intel Core i7 16GB 1TB ssd rtx 3070 Win 11 Headset,"Kit Notebook Dell Alienware m15 R6 AW15-i1100-M20PH 15.6"" FHD 11ª ger Intel Core i7 16GB 1TB SSD RTX 3060 Win 11 Headset"
+0,1,notebooks,Notebook Positivo Motion Q464C Intel Atom Z8350 4GB eMMC 64GB W10 14.1'' - Vermelho,"Notebook Positivo Motion Q464C Intel Atom Quad Core 4GB 64GB eMMC 14,1'' W10 - Cinza"
+0,0,notebooks,Notebook Lenovo Yoga 9i 2 em 1 14 i7-1185G7 8GB 512GB ssd Placa de Vídeo Intel Iris Xe W11 fhd wva,"Notebook Lenovo IdeaPad Flex 5i i7-1165G7 8GB 256GB SSD W11 14"" FHD Intel Iris Xe, Grafite"
+0,1,notebooks,"Notebook Asus Intel Celeron-N4020  4GB 128GB W11 Pro 15,6"" Azul E510MA-BR701X","Notebook Asus VivoBook Intel Celeron 4GB ram 500GB 15,6 W10"
+0,1,notebooks,"Notebook 2 em 1 hp 435-G8, amd Ryzen 3, 8GB, 256GB ssd, Tela de 13, Windows 11 Home, 5R5A6LA","Notebook 445-g8 Hp, Amd Ryzen 5, 8gb, 512gb Ssd, Tela de 14"", Windows 11 Home, 5r5b4la"
+0,1,notebooks,"Notebook Compaq Presario 420 Intel Pentium-N3700 4GB 120GB W10 14,1'' Cinza","Notebook Compaq Presario 431 14,1 LED HD i3-6157U 120GB 4GB Shell EFI - Cinza"
+0,0,notebooks,"Notebook Samsung Book S Intel Core i5, 512GB SSD, 8GB RAM , Tela 13.3"" Full HD -Touch Screen - Dourado (Earth Gold)",Notebook Samsung Core i5-1135G7 8GB 256GB ssd Tela Full HD 15.6 Windows 10 Book NP550XDA-KF2BR
+0,1,notebooks,Notebook Lenovo 15.6 RYZEN5 8GB 256GBSSD W11 - 82MF0003BR Prata Bivolt,"Notebook Lenovo Ultrafino Ideapad 3i Intel Core i7-10510U 8GB 256GB SSD (GeForce® MX330 2GB) Tela 15.6"" W11 - Prata"
+1,1,notebooks,Notebook Positivo Motion Gray C4128E ssd 128GB DDR4 4GB,Notebook positivo motion gray C4128E celeron 14 ssd 128GB wifi office 365 W10 home
+0,0,notebooks,Notebook positivo motion red Q232B intel ATOM/2GB/32GB EMMC/14/ WIND.10 home,Notebook positivo motion Q432B intel ATOM/4GB/32GB EMMC/14/ WIND.10 home
+1,1,notebooks,"Notebook Acer A315-56-569F, Intel Core i5, 4GB 256GB, 15.6, Endless Os, Grafite","Notebook Acer 15,6 - A315-56-569F/ I5-1035G1 - Linux Endless"
+0,1,notebooks,Notebook Positivo Motion 14 HD Intel i3-7020U 1TB 4GB Linux Cinza Escuro,Notebook Positivo Motion I34128BI 14 HD Intel Core i3-6157U 1TB 4GB Linux Cinza Escuro
+0,0,notebooks,Notebook Gamer Dell G15-i1100-M40P 15.6 fhd 11ª Geração Intel Core i5 16GB 512GB ssd nvidia rtx 3050 Windows 11,"Notebook Gamer Dell G15-i1100-A30P 15.6"" FHD 11ª Geração Intel Core i5 8GB 512GB SSD NVIDIA RTX 3050 Windows 11, preto"
+0,1,notebooks,Notebook Dell Inspiron i15-i1100-M25P 15.6 Full HD 11ª Geração Intel Core i3 4GB 256GB ssd Windows 11 Preto,"Notebook Dell Inspiron i15-i1100-M60P 15.6"" Full HD 11ª Geração Intel Core i7 8GB 256GB SSD Windows 11"
+0,1,notebooks,Chromebook Lenovo 100e Gen 3 amd 3015C3 4GB 32GB eMMC Google Chrome 11.6 Antirreflexo 82J80001BR,"Lenovo Chromebook 100e Gen 3, AMD 3015Ce. 4GB RAM, 32GB eMMC"
+1,1,notebooks,Notebook Gaming 3i Core I5 8gb 256gbssd Gtx1650 15.6 Linux 82cgs00100,Notebook Lenovo Gaming 3 Core i5 8GB 256GB ssd gfx 4GB Linux
+1,1,notebooks,Notebook Dell Inspiron i15-i1100-M25P 15.6 Full HD 11ª Geração Intel Core i3 4GB 256GB ssd Windows 11 Preto,"Notebook Dell Inspiron i15-i1100-M25P 15.6"" Full HD 11ª Geração Intel Core i3 4GB 256GB SSD Windows 11 Preto"
+0,0,notebooks,Notebook vaio FE14 Intel Core i5 Windows 11 Home 8GB 256GB ssd Full HD - Cinza Escuro,Notebook VAIO® FE15 Intel® Core™ i7 Windows 11 Home 8GB 256GB Full HD Cinza Escuro - Inclui Microsoft 365* IO® FE15 Intel® Core™ i7 Windows 11 Home 8GB 256GB Full HD Cinza Escuro
+0,1,notebooks,"Notebook 14 Galaxy Book Go Snapdragon 7c, 4GB, SSD128GB, Windows 10 Prata NP340XLA-K02BR samsung","Notebook Samsung Book 15,6 fhd Intel Celeron 6305 128GB ssd 4GB Windows 10 Pro - NP550XDA-KO7BR"
+1,1,notebooks,Notebook Aspire 3 I5 4GB 256GB ssd Linux - Acer,Notebook Aspire 3 I5 4GB 256GB SSD Linux - Acer
+0,1,notebooks,"Notebook Vaio FE14, Intel Core i5, 8GB RAM, HD 1TB, Tela 14"" LCD FullHD, Windows 10 - Chumbo Escuro","Notebook Vaio FE14, Intel Core i5, 4GB RAM, HD 1TB, Tela 14"" LCD FullHD, Windows 10 - Chumbo Escuro"
+0,1,notebooks,Notebook Acer Aspire 5 A514 Intel Core I5 1035G1 Memória 8gb Ssd 256gb Tela 14'' HD Windows 10 pro,Notebook Acer Aspire 5 A514-53-59QJ Intel Core I5 8GB 256GB SSD 14'' Windows 10
+0,1,notebooks,"Notebook Acer Aspire 5 Intel Core i5-10210U 8GB 256GB SSD W10 15,6'' IPS FHD Preto A515-54-53VN","Notebook Acer Aspire 5 15,6 FHD i5-10210U 256GB SSD 8GB Win 11 Home Prata - A515-54-57CS"
+0,0,notebooks,"Notebook Acer A514-54-54LT - Tela 14 Full hd, Intel i5 1135G7, 8GB, ssd 256GB, Windows - Gold",Notebook Acer Spin 3 SP314-54N-59HF Intel Core I5 8GB 256GB SSD 14' Windows 10
+1,1,notebooks,"Notebook Acer 15,6 Fhd A515-45-r2a3/ R5-5500u/ 8gb/ 512gb Ssd/ W11 Home","Notebook Acer Aspire 5 A515-45-R2A3 AMD Ryzen 5 Windows 11 Home 8GB 512GB SSD 15,6' Full HD"
+0,1,notebooks,Notebook asus X515JA-EJ592T intel I5-1035G1/8GB/SSD256/15.6/WIND.10/CINZA,Notebook Asus X515EA-BQ1002T 15.6 Intel Core I7-1165G7 - Prata Oferta!
+0,1,notebooks,"Notebook Asus X543MA-GQ1300W Windows 11 15,6 Polegadas 500GB 4GB ram Celeron wi-fi","Notebook Asus VivoBook X543MA (Celeron Dual Core / N4020 / 4GB RAM / 500GB HDD / Windows 10 Home / Tela 15,6"") - Cinza Escuro - X543MA-DM1317T"
+1,1,notebooks,Notebook Intel Celeron 4GB ram 128GB ssd IdeaPad 3i - igl Tela 15.6 Windows 10,"Notebook Lenovo Ideapad 3i Intel Celeron N4020 Memoria 4GB Ssd 480GB Tela 15,6'' HD Windows 10 Pro"
+1,1,notebooks,Notebook asus E410MA-BV1872X Intel Celeron Dual Core N4020 4GB 128GB ssd W11 14 Rose Gold,"Notebook ASUS E410MA-BV1872X Intel Celeron Dual Core N4020 4GB 128GB SSD W11 14"" Rose Gold"
+0,0,notebooks,"Notebook Asus VivoBox 15,6 HD LED 500GB 4GB Ram cz - Asus","Notebook Asus Core I5 256GB Memória 4GB ram Windows 11 15,6 Polegadas wi-fi X515JA-EJ2734W"
+0,1,notebooks,"Notebook Lenovo Bs145 Tela 15.6, Intel I3, 4Gb Mem, Hd 500Gb",Notebook Lenovo BS145 Intel i3 1005G1 4GB 500GB Windows 10 Home 15.6' HD Preto - 82HB0001BR
+0,1,notebooks,Notebook vaio FE14 Intel Core i3 Windows 11 Home 4GB 1TB Full HD - Cinza Escuro,Notebook VAIO® FE15 Intel® Core™ i3 Windows 11 Home 4GB 1TB Full HD - Cinza Escuro
+0,0,notebooks,Notebook Lenovo IdeaPad 3i i7 8GB 256gb Ssd 15.6 W11 Prata,"Notebook Lenovo Ultrafino Ideapad 3i Intel Core i7-10510U 8GB 256GB SSD (GeForce® MX330 2GB) Tela 15.6"" W11 - Prata"
+0,1,notebooks,"Notebook Positivo Motion Q464C-O Intel Atom Quad Core Windows 10 Home 14,1'' - Dourado - Inclui Microsoft 365*","Notebook Positivo Motion Gray Q464C Intel Atom Quad Core 4GB 64GB 14,1'' LED Webcam HD Windows 10 Home - Cinza"
+0,0,notebooks,Kit Notebook Dell Inspiron i15-i1100-M10PC 15.6 Full HD Intel Pentium Gold 4GB 128GB ssd Windows 11 Preto com Capa,"Notebook Dell Inspiron i15-3501-WA10P 15.6"" HD 11ª Geração Intel Pentium Gold 4GB 128GB SSD Windows 11 Preto"
+0,1,notebooks,Notebook Multilaser Legacy Book PC250 Celeron 4gb 64gb Preto,"Notebook Multilaser Legacy Book, W10 Home, Processador Intel Pentium Quad Core, Memoria 4GB 64GB Tela 14,1 Pol. HD Preto Multilaser – PC310"
+0,0,notebooks,"Notebook A315-56-356Y Intel Core i3 4GB ram Tela 15,6 256GB ssd W10 Acer","Notebook Lenovo IdeaPad 3i 15IML05 Intel Core i3 - 4GB Ram e SSD de 256GB Tela 15,6” LCD Windows 10"
+1,0,notebooks,"Notebook Vaio FE14 VJFE42F11X-B1521H Intel Core i3-10110U 4GB 128GB SSD FHD Linux 14"" Chumbo Escuro",Notebook Vaio 10ª Geração I3 4gb 128 Ssd Tela 14 Full Hd
+0,0,notebooks,Notebook Lenovo Yoga 7i 2 em 1 14 i7-1165G7 8GB 512GB ssd Intel Iris Xe W11 fhd wva,"Notebook Lenovo IdeaPad Flex 5i i7-1165G7 8GB 256GB SSD W11 14"" FHD Intel Iris Xe, Grafite"
+1,1,notebooks,Notebook legacy book pentium quadcore 4 + 64GB/WIN10HOME - PC312,"Notebook Multilaser Legacy Book, W10 Home, Processador Intel Quad, Mémoria 4GB e 64GB ,1 Tela 14,1 Pol. HD, + Microsoft 365 Personal + 1TB na Nuvem – PC312, preto"
+0,0,notebooks,Notebook Dell Inspiron i15-i1100-M20PF 15.6 Full HD 11ª Ger. Intel Core i3 4GB 128GB ssd Win 11 Microsoft 365 Preto,"Kit Notebook Dell Inspiron i15-i1100-M25PB 15.6"" Full HD 11ª Geração Intel Core i3 4GB 256GB SSD Win 11 Preto com Mochila"
+0,1,notebooks,Notebook i3 4GB ssd 120GB Tela full HD 15.6 Wifi Bluetooh WebCam,"Notebook i3 4GB HD 500GB Tela FULL HD 15.6"" Wifi BT4 C/WebCam"
+0,1,notebooks,Notebook Multilaser Legacy Book PC312 Intel 64GB Windows 10 Preto,Notebook Multilaser Legacy Book Intel Pentium Quadcore 4GB 64GB Windows 10 Home 14 Pol. HD Preto - PC310
+1,1,notebooks,Notebook Acer A315 Intel Celeron N4000 Memoria 8gb HD 1tb Tela 15.6' Hd Windows 10 Home,"Notebook Acer 15.6"" A315-34-C5EY Celeron N4000 4GB 500GB, NX.HRNAL.001"
+0,0,notebooks,Notebook 8gb Ssd 256gb R5 W11h Fhd A515-45-r84h Acer,"NOTEBOOK ACER A515-45-R760 R7 5700U 8GB 256GB SSD W11 15,6"
+1,1,notebooks,"SAMSUNG - Core i3 - 4G, 256GB SSD, Intel UHD, 15.6""FHD, Linux C, Cinza",Notebook Samsung E30 Tela 15.6 Intel i3 SSD256 4GBRAM Linux
+0,1,notebooks,"Lenovo Notebook ideapad Gaming 3i i5-10300H 8GB 256GBSSD GTX 1650 4GB 15.6"" FHD WVA Linux 82CGS00100, Blue",Notebook Lenovo ideapad Gaming 3i i5-10300H 8GB 256SSD gtx 1650 4GB 15.6 fhd wva W10 82CG0002BR
+0,0,notebooks,Notebook Lenovo V14 i5-1135G7 8GB 256GB ssd Linux 14 82NMS00100 Preto,"Notebook Lenovo V14 i5-1135G7 8GB 256GB SSD W11 Pro MX 350 2GB 14"" FHD 82NM0014BR Preto"
+0,1,notebooks,"Notebook Positivo Duo C464A Celeron Dual Core, 12, Windows 10, 4GB ram, 64GB, Cinza",Notebook 2 em 1 Positivo duo C464D Intel Celeron Dual Core Windows 11 Home 11 - Cinza
+1,1,notebooks,Notebook Acer Aspire 5 Intel Core i5-1035G1 4GB 256GB SSD W10 14'' A514-53-5239 - Cinza,Notebook Acer Aspire 5 A514 Intel Core I5 1035G1 Memória 8gb Ssd 256gb Tela 14'' HD Windows 10 pro
+0,1,notebooks,Notebook legacy book pentium quadcore 4 + 64GB/WIN10HOME - PC312,"Multilaser Notebook Legacy Cloud, 14.1"", Preto"
+0,0,notebooks,"Notebook Samsung NP550XDA-KU1BR Intel Core i7-1165G7 8GB 256GB SSD Tela 15,6"" Windows 11 - Cinza Chumbo",Notebook Samsung Book I5 8GB 256GB ssd 15.6 Windows 11H Cinza Chumbo
+0,1,notebooks,"Notebook Acer A514-53- Tela 14, Intel i3 1005G1, ram 8GB, ssd 128GB, Windows 10 Professional","Notebook Vaio FE14 - Tela 14 Full hd, Intel i3 1005G1, 8GB, ssd 128GB, Windows 10 pro"
+0,1,notebooks,Notebook vaio FE15 Intel Core i7 Windows 11 Home 8GB 256GB Full HD Cinza Escuro,Notebook VAIO® FE15 Intel® Core™ i7 Windows 11 Home 8GB 256GB SSD Full HD- Prata
+0,0,notebooks,Notebook Ultra 15 Pol Core I5 8Gb 1Tb Hdd Windows 10 Prata - Ub521,"Notebook Ultra UB522 - Tela 15 Full hd, Intel i5, ram 8GB, ssd 240GB, Windows 10 - Prata"
+0,1,notebooks,"Notebook Acer 15,6 Fhd A515-45-r2a3/ R5-5500u/ 8gb/ 512gb Ssd/ W11 Home","Notebook Acer amd Ryzen 7 5700U A515-45-R8W2 8GB 512GB ssd W11 15,6'' Prata"
+0,0,notebooks,"Kit Notebook Dell Inspiron i15-i1100-M10PC 15.6"" Full HD Intel Pentium Gold 4GB 128GB SSD Windows 11 Preto com Capa","Notebook Dell Inspiron i15-i1100-M10P 15.6"" Full HD Intel Pentium Gold 4GB 128GB SSD Windows 11 Preto"
+0,0,notebooks,"Notebook Asus Intel Core i3-1115G4 4GB 256GB SSD W11 15,6"" Cinza X515EA-BR1275W","Notebook Asus, Intel Core i3 1005G1, 8GB, 256GB ssd, Tela de 15,6, W11, Cinza - X515JA-BR2751W"
+1,1,notebooks,Notebook vaio FE14 Intel Core i3 Windows 11 Home 4GB 1TB Full HD - Cinza Escuro,Notebook VAIO® FE14 Intel® Core™ i3 Windows 11 Home 4GB 1TB Full HD - Cinza Escuro
+0,1,notebooks,Notebook Samsung Tela 11.6 N4000 32GB 4GBRAM Chromebook XE310XBA-KT1BR,"Samsung Chromebook 4 Chrome OS 11,6"" HD Processador Intel Celeron N4000 4GB RAM 32GB eMMC Gigabit Wi-Fi - XE310XBA-K01US"
+0,1,notebooks,Notebook Compaq Presario 421 Pentium N3700 120Gb Shell Efi,"Notebook Intel Pentium 4GB 120GB SSD Compaq Presario 420 N3700 Tela 14"" Windows 10"
+0,1,notebooks,Notebook Gamer Dell G15-i1100-M30P 15.6 fhd 11ª Geração Intel Core i5 8GB 512GB ssd nvidia rtx 3050 Windows 11,"Notebook Gamer Dell G15-I1100-A30P 11ª Intel Core i5 8GB 512GB SSD (GeForce RTX 3050 4GB) Tela FHD 15.6"" Windows 11 - Preto"
+1,1,notebooks,"Notebook 445-g8 Hp, Amd Ryzen 7, 16gb, 256gb Ssd, Windows 10 Pro, Tela de 14"", 46u29la",Notebook 445-G8 Ryzen 7 16gb 256gb ssd wp 46U29LA hp cx 1 un
+0,0,notebooks,Notebook Dell Inspiron 15 3000 a0500-MM10P 15.6 fhd amd Ryzen 5 8GB 256GB ssd Windows 11 Preto,Notebook Dell Inspiron 15 3000 a0700-UM20P 15.6 fhd amd Ryzen 7 8GB 256GB ssd Linux Preto
+0,0,notebooks,Notebook Vaio Fe14 14 Fhd I5-10210u 1tb 8gb Win10 Home,Notebook Vaio FE14 14 fhd i7-10510U 256GB ssd 8GB Windows 10 Home - VJFE42F11X-B0542H
+0,1,notebooks,"Notebook Acer Aspire 3 amd Ryzen 3500U, 1TB hd, 8GB ram, amd Radeon Graphics 2GB GDDR5","Notebook Acer Aspire 3 A315-23-R291 Processador amd Ryzen 5 8GB 1TB HD Windows 10 Tela 15.6, Preto"
+0,0,notebooks,Kit Notebook Dell Inspiron 15 3000 a0700-MM20SF 15.6 fhd amd Ryzen 7 8GB 256GB ssd Windows 11 + Microsoft 365 Prata,Kit Notebook Dell Inspiron 15 3000 a0500-MM10SB 15.6 fhd amd Ryzen 5 8GB 256GB ssd Windows 11 Prata + Mochila
+0,0,notebooks,"Notebook Lenovo Ideapad S145, 15.6, amd Ryzen 5, 8GB, Windows 10","Notebook Acer Aspire 3 AMD Ryzen 5-3500U, 8GB, 1TB, Windows 10 Home, 15.6' - A315-23G-R24V"
+0,0,notebooks,Notebook Vaio FE14 14 fhd i5-10210U 1TB 4GB Win 10 Home VJFE42F11X-B0211H,Notebook Positivo Motion 14 HD Intel i3-6157U 128GB ssd 4GB Win 10 Home I34128GB
+0,1,notebooks,"Notebook Positivo Motion Q464C-O Intel Atom Quad Core Windows 10 Home 14,1'' - Dourado - Inclui Microsoft 365*","Notebook Positivo Motion Gray Q464C-O Intel® Atom® Quad Core™ Windows 10 Home 14,1'' - Cinza - Inclui Microsoft 365*"
+0,1,notebooks,"Notebook Lenovo Ultrafino Ideapad 3 AMD Ryzen 7-5700u 8GB 256GB SSD W11 15,6"" - Prata","Notebook Lenovo Ultrafino IdeaPad 3 R5-5500U 8GB 256GB SSD Windows 11 15.6"" 82MF0003BR Prata"
+0,1,notebooks,"Notebook Acer Aspire 3, 4GB, 15.6'', Intel Core i3, 256 gb ssd, Windows 10 Home, cinza","Notebook Samsung Book E30 4GB, 15.6'', Intel Core i3, ssd 256GB, Windows 10 Home, cinza"
+1,1,notebooks,Notebook Positivo Motion C41TE Celeron 4GB 1TB HD Windows 10 Home – Cinza,"Notebook Positivo Motion C41TE Intel Celeron Dual-Core Windows 10 Home 14"" - Cinza"
+0,1,notebooks,Notebook Samsung Book i7 8GB 256GB ssd Intel Iris Xe 15.6 fhd LED,"NOTEBOOK SAMSUNG I7 8GB 15,6'' 1TB 256GB SSD W11 PRO"
+0,0,notebooks,Notebook Samsung Book I3 4GB 256GB ssd 15.6 Windows 11 Cinza Chumbo,"Notebook Samsung Intel Celeron-6305 NP550XDA-KP3BR 4GB 256GB SSD Tela 15,6"" Windows 11 - Cinza Chumbo"
+0,1,notebooks,"Notebook Gamer Acer Nitro 5 Intel Core i7-10750H 8GB (GeForce GTX1650 4GB) 512GB SSD W11 15,6” FHD IPS AN515-55-79X0","Notebook Acer Aspire 5 Intel Core i7-10510U 8GB 512GB SSD Linux 15,6” FHD IPS Prata A515-54-76NA"
+0,0,notebooks,Notebook 8gb Ssd 256gb R5 W11h Fhd A515-45-r84h Acer,"NOTEBOOK ACER A515-45-R6KH R3 5300U 8GB 256GB SSD W11 15,6"
+0,1,notebooks,"Notebook Gamer Gigabyte G5 Intel Core i5 10500H 16GB ram ssd 512GB GeForce rtx 3060 Tela 15,6'' Win 10 Home - KC-5BR2130SH","Notebook Gamer Dell G15-I1100-A30P 11ª Intel Core i5 8GB 512GB SSD (GeForce RTX 3050 4GB) Tela FHD 15.6"" Windows 11 - Preto"
+1,1,notebooks,Notebook A315-56-569F Intel Core I5-1035G1 ssd 256GB Endless os Acer,Notebook Aspire 3 I5 4GB 256GB SSD Linux - Acer
+0,1,notebooks,Notebook Positivo Motion C41TEi Intel Celeron Dual-Core Linux 14 - Vermelho,Notebook Positivo Motion Intel Celeron Dual-Core Linux 14 - Cinza - C41TEI
+0,1,notebooks,"Notebook Lenovo IdeaPad 3i Celeron 4GB 128GB SSD Linux 15.6"" 82BUS00100, Prata","Notebook Lenovo Ultrafino IdeaPad 3i i3-10110U 4GB 128GB SSD Linux 15.6"" 82BSS00000 Prata"
+0,1,notebooks,"Notebook Compaq Presario 431 14,1 LED HD i3-6157U 120GB 4GB Shell efi - Cinza","Notebook Positivo Motion Gray C41TEi Intel Celeron 4GB 1TB HD 14,1'' LED Webcam HD Linux Debian 10 - Cinza"
+0,1,notebooks,Notebook Gamer Dell G15-i1000-M10P 15.6 fhd 10ª Geração Intel Core i5 8GB 256GB ssd nvidia gtx 1650 Windows 11,"Notebook Gamer Dell G15-i1000-M15P 15.6"" 165Hz FHD 10ª Geração Intel Core i5 8GB 256GB SSD NVIDIA GTX 1650 Windows 11"
+0,0,notebooks,"Notebook Asus Core I5 256GB Memória 4GB ram Windows 11 15,6 Polegadas wi-fi X515JA-EJ2734W",Notebook Acer Aspire 5 A514-53-5239 Intel Core I5 10ª geração 4GB memória 256GB SSD Windows
+0,1,notebooks,Chromebook Lenovo 100e Gen 3 amd 3015C3 4GB 32GB eMMC Google Chrome 11.6 Antirreflexo 82J80001BR,"SAMSUNG CHROMEBOOK INTEL® DUAL-CORE, GOOGLE CHROME OS, 4GB, 32GB, 11.6'' HD LED, 1.18KG"
+1,1,notebooks,"Notebook Ultra 15"" Intel Core i5 8GB 240GB SSD Windows 10, UB522, Prata","Notebook Ultra UB522 - Tela 15 Full hd, Intel i5, ram 8GB, ssd 240GB, Windows 10 - Prata"
+0,0,notebooks,Notebook acer Aspire 5 A515-54G-53GP CI5 8 GB 256 GB SSD NVDIA® GeForce MX250 15.6 Win 10,"Notebook Acer Aspire 3, 4GB, 15.6'', Intel Core i3, 256 gb ssd, Windows 10 Home, cinza"
+0,1,notebooks,Notebook Lenovo IdeaPad 3-15ALC 82MFS00100 Ryzen 5-5500U 8GB ram 256GB HD 15.6 Linux,"Notebook Lenovo Ideapad - Tela 15.6 Full hd, Ryzen 5 5500U, 12GB, ssd 256GB, Linux"
+0,1,notebooks,Notebook vaio FE14 Intel Core i5 Linux 8GB 256GB ssd - Branco,Notebook VAIO® FE14 Intel® Core™ i5 Windows 11 Home 8GB 256GB SSD Full HD - Cinza Escuro
+0,1,notebooks,Notebook ThinkPad E14 Ryzen 3 8GB 256GB ssd Windows 11 Pro 14 Full HD 20YD000PBO Preto,Notebook Lenovo ThinkPad E14 i5-1135G7 8GB 256GB ssd Windows 11 Home 20TB0023BO Preto
+0,0,notebooks,Notebook positivo motion red Q232B intel ATOM/2GB/32GB EMMC/14/ WIND.10 home,Notebook Positivo Motion Q464C Intel Atom Quad-Core Windows 10 Home – Vermelho
+0,0,notebooks,"Notebook Lenovo Ultrafino IdeaPad 3 Ryzen 7 5700U 8GB 256GB SSD Windows 11 15.6"" 82MF0004BR Prata","Notebook Lenovo Ultrafino IdeaPad 3 R5-5500U 8GB 256GB SSD Windows 11 15.6"" 82MF0003BR Prata"
+0,0,notebooks,Notebook Multilaser Ultra 14 fhd I3-5005U 4GB 1TB Linux Prata - UB422,Notebook Compaq Presario 433 Intel Core i3 Linux 4GB 1TB 14 - Cinza
+0,1,notebooks,"Notebook Ideapad Gaming 3i Intel Core i7-10750H 8GB (Geforce GTX 1650 4GB) 512GB SSD FHD W10 15.6"" Azul",Notebook Lenovo ideapad Gaming 3i i7-10750H 16GB 512GB ssd gtx 1650 4GB 15.6 fhd wva W10 82CG0004BR
+0,1,notebooks,Notebook Dell Inspiron i15-i1100-U40P 15.6 Full HD 11ª Geração Intel Core i5 8GB 256GB ssd Linux,Notebook Dell Inspiron i15-i1100-U60P 15.6 Full HD 11ª Geração Intel Core i7 8GB 256GB ssd Linux Preto
+0,1,notebooks,Notebook Positivo Motion Intel Celeron Dual-Core Linux 14 - Cinza - C41TEI,"Notebook Positivo Motion C41TEi Intel® Celeron® Dual-Core™ Linux 14"" - Dourado"
+0,0,notebooks,Kit Notebook Dell Inspiron 15 3000 a0500-MM10SC 15.6 fhd amd Ryzen 5 8GB 256GB ssd Windows 11 Prata + Capa,Notebook Dell Inspiron 15 3000 a0700-MM20S 15.6 fhd amd Ryzen 7 8GB 256GB ssd Windows 11 Prata
+0,0,notebooks,Notebook asus X571GT-AL888T Preto,Notebook ASUS VivoBook K513EQ-EJ663W Preto
+1,1,notebooks,"SAMSUNG Book Intel Dual-Core, Windows 11 Home, 4GB, 500GB, 15.6'' Full HD LED, 1.86kg*., branco","Notebook Samsung Book NP550XDA, Processador Intel Celeron 4GB HD 500GB Windows 10 Tela 15.6, Branco"
+0,0,notebooks,Notebook Lenovo IdeaPad 3i i7 8GB 256gb Ssd 15.6 W11 Prata,"Notebook Lenovo 3i Intel i5-10210U 8GB ssd 256GB 15,6 W11"
+0,0,notebooks,"NOTEBOOK ACER A515-45-R6KH R3 5300U 8GB 256GB SSD W11 15,6","NOTEBOOK ACER A515-45-R760 R7 5700U 8GB 256GB SSD W11 15,6"
+1,1,notebooks,Notebook Positivo C4128ei Celeron N3350 4gb Ddr4 Ssd 128gb Tela 14 Hd Led Windows 10 Pro,Notebook Positivo C4128ei Celeron N3350 4gb Ddr4 Hd 1TB Tela 14 Hd Led Windows 10 Pro
+0,1,notebooks,Notebook Lenovo Yoga 9i 2 em 1 14 i7-1185G7 8GB 512GB ssd Placa de Vídeo Intel Iris Xe W11 fhd wva,"Notebook Lenovo Yoga Slim 9i 14"" i7-1165G7 16GB 512GB SSD Placa de Vídeo Intel Iris® Xe W11 FHD WVA"
+0,1,notebooks,Notebook lenovo BS145-15IIL I3 1005G1 4GB 500GB 15.6 dos,Notebook Lenovo BS145 Intel i3 1005G1 4GB 500GB Windows 10 Home 15.6' HD Preto - 82HB0001BR
+0,0,notebooks,Chromebook Lenovo 100e Gen 3 amd 3015C3 4GB 32GB eMMC Google Chrome 11.6 Antirreflexo 82J80001BR,Chromebook Lenovo 300e Celeron 4GB 64GB eMMC W10s 11.6 LED HD Multitouch Antirreflexo
+1,1,notebooks,Notebook Acer Aspire 3 Intel Celeron 4GB 1TB Endless,"Notebook Acer N4000 4Gb 1Tb 15,6' Win 10 + Office 2010"
+0,1,notebooks,"Notebook Compaq Presario 431 14,1 LED HD i3-6157U 120GB 4GB Shell efi - Cinza","Notebook Compaq Presario 454 Intel Core i5 8GB 240GB SSD 14,1'' LED Webcam HD Linux Debian 10 - Cinza"
+0,1,notebooks,"Notebook asus VivoBook X513EA-EJ3010 Intel Core i7 1165G7 8GB 256GB ssd Linux 15,6 LED Preto","Notebook asus VivoBook X513EA-EJ3011W Intel Core i7 1165G7 16GB 512GB ssd W11 15,6 Preto"
+0,0,notebooks,"Notebook Asus Vivobook Intel Core i7-1165G7 8GB 256GB SSD W10 15,6"" Preto X513EA-EJ1064T","Notebook asus X515JF-EJ361T Intel Core i5 1035G1 8GB 256GB ssd W10 15,6 LED-backlit Cinza"
+0,1,notebooks,Notebook Samsung Book I3 8GB 256GB ssd 15.6 Windows 11 Cinza Chumbo,Notebook Samsung Book I3 4GB 256GB SSD 15.6 Windows 11 Cinza Chumbo
+0,0,notebooks,Notebook positivo motion Q432B intel ATOM/4GB/32GB EMMC/14/ WIND.10 home,"Notebook Positivo Motion C4500F Intel® Celeron® Dual-Core™ Windows 11 Home 14"" - Dourado"
+0,0,notebooks,"Notebook Asus Vivobook Intel Core i7-1165G7 8GB 256GB SSD W10 15,6"" Preto X513EA-EJ1064T","Notebook Asus X515JA-EJ1792W, 15,6 Intel Core i5-1035G1, 8GB, ssd 256GB"
+0,0,notebooks,"Notebook asus X515JA-BR2750 Intel Core i3 1005G1 4GB 256GB ssd Linux 15,6 LED-backlit Cinza","Notebook Asus Intel Core i3-1115G4 4GB 256GB SSD W11 15,6"" Cinza X515EA-BR1275W"
+0,0,notebooks,Kit Notebook Dell Inspiron i15-i1100-M10PC 15.6 Full HD Intel Pentium Gold 4GB 128GB ssd Windows 11 Preto com Capa,Notebook Dell Inspiron i15-i1100-U10P 15.6 Full HD Intel Pentium Gold 4GB 128GB ssd Linux Preto
+0,0,notebooks,Notebook Dell Inspiron i15-i1100-U60P 15.6 Full HD 11ª Geração Intel Core i7 8GB 256GB ssd Linux Preto,Notebook Dell Inspiron i15-i1100-M70P 15.6 Full HD 11ª Geração Intel Core i7 8GB 256GB ssd nvidia GeForce Windows 11
+0,1,notebooks,"Notebook Lenovo Ultrafino Ideapad S145, 15.6, Intel Core i3, 4GB, 1TB hd, Windows 10",Notebook IdeaPad 82BS0006BR Intel Core i3-10110U 4GB ram 256GB ssd Tela 15.6 Windows 10 Lenovo
+0,1,notebooks,"Notebook Positivo Motion C4128Ei - Intel Celeron Dual Core N3350, 14, 4Gb, ssd 128GB",Notebook Positivo Motion C4128ei Celeron Dual-core N3350 Memória 4gb Ddr4 Ssd 128gb Tela 14 Hd Led Windows 10 Pro
+0,1,notebooks,"Notebook Lenovo Ultrafino ideapad S145 Ryzen 5 8GB 256GB SSD Windows 10 15.6"" 81V70008BR Prata","Notebook Lenovo Ultrafino ideapad S145 i5-1035G1 8GB 256GB SSD Windows 10 15.6"" 82DJ0003BR Prata"
+0,1,notebooks,"Notebook Acer 15,6 Fhd A515-45-r6kh/ R3-5300u/ 8gb/ 256gb Ssd/ W11 Home",Notebook 8gb Ssd 256gb R5 W11h Fhd A515-45-r84h Acer
+0,1,notebooks,"Notebook Asus X515JA-EJ1792W, 15,6 Intel Core i5-1035G1, 8GB, ssd 256GB","Notebook Asus Intel Core i5-1035G1 8GB 256GB SSD W10 15,6'' Cinza X515JA-EJ592T"
+0,1,notebooks,"Notebook Vaio FE14 VJFE42F11X-B1521H Intel Core i3-10110U 4GB 128GB SSD FHD Linux 14"" Chumbo Escuro","Notebook Vaio FE14 VJFE42F11X-B1591H Intel Core i3-10110U 4GB 128GB SSD M.2 14"" Full HD Windows 11 Home - Chumbo Escuro"
+0,1,notebooks,"Notebook Lenovo Ideapad S145, 15.6, amd Ryzen 5, 8GB, Windows 10","Notebook Lenovo Ultrafino ideapad S145 i5-1035G1 8GB 256GB SSD Windows 10 15.6"" 82DJ0003BR Prata"
+1,1,notebooks,Notebook legacy cloud 2GB ram/tela 14PO,"Notebook Multilaser PC134 Legacy Cloud Intel Atom-Z8350 2GB 64GB W10 14"" Cinza"
+1,1,notebooks,Notebook Compaq Presario 421 14 HD Pentium N3700 120GB SSD 4GB Shell EFI,Notebook Compaq Presario 421 Pentium N3700 120Gb Shell Efi
+0,1,notebooks,"COMPAQ PRESARIO 433, Positivo, Cinza","COMPAQ PRESARIO 452, Positivo, Cinza"
+0,0,notebooks,Notebook Samsung Book I5 8GB 512GB ssd 15.6 Windows 11 Cinza Chumbo,Notebook Samsung Book I3 4GB 256GB SSD 15.6 Windows 11 Cinza Chumbo
+0,1,notebooks,"Notebook Asus Intel Celeron-N4020  4GB 128GB W11 Pro 15,6"" Azul E510MA-BR701X","Notebook Asus Intel Core i3-1115G4 4GB 256GB SSD W11 15,6"" Cinza X515EA-BR1275W"
+0,0,notebooks,Notebook vaio FE14 Intel Core i5 Linux 8GB 1TB Full HD - Cinza Escuro,Notebook VAIO® FE14 Intel® Core™ i3 Linux 4GB 128GB SSD Full HD - Cinza Escuro
+0,0,notebooks,Notebook Asus 1011cx 1025c 1101hab 1104ha 1106ha compatível,Notebook ASUS VivoBook X513EA
+0,1,notebooks,Notebook Samsung E40 NP550XDZ i3 4GB 256GB ssd Linux Cinza,Notebook Samsung Book I3 4GB 256GB SSD 15.6 Windows 11 Cinza Chumbo
+1,1,notebooks,Notebook Samsung Book Intel Celeron-6305 4GB 500GB W10 FHD 15.6'' Cinza Chumbo NP550XDA-KO1BR,"SAMSUNG Book Intel® Dual-Core, Windows 11 Home, 4GB, 500GB, 15.6'' Full HD LED, 1.86kg Cinza Chumbo, NP550XDA-KO1BR"
+0,1,notebooks,Notebook vaio FE15 Intel Core i7 Windows 11 Home 8GB 256GB Full HD Cinza Escuro,Notebook VAIO® FE15 Intel® Core™ i7 Windows 11 Home 8GB 256GB SSD HD - Prata
+0,1,notebooks,Notebook VAIO® FE14 Intel® Core™ i3 Windows 11 Home 4GB 1TB Full HD - Cinza Escuro,Notebook VAIO® FE15 Intel® Core™ i3 Windows 11 Home 4GB 1TB Full HD - Cinza Escuro
+0,1,notebooks,Notebook Gamer Dell G15-a0500-MM10P 15.6 fhd amd Ryzen 5 8GB 512GB ssd nvidia rtx 3050 Windows 11,"Notebook Gamer Dell G15-a0500-M11P 15.6"" 165Hz FHD AMD Ryzen™ 5 8GB 512GB SSD NVIDIA RTX 3050 Windows 11"
+0,0,notebooks,Notebook Acer Aspire 3 A315-33-C58X Intel Celeron N3060 Memória de 4GB HD de 240GB ssd Tela de 15.6,"Laptop de negócios, tela HD de 13,3 polegadas 1366 x 768, 6 GB de RAM, 64 GB de armazenamento, Windows 10, N3350 1,1 GHz/CPU de 2,4 GHz, bateria de longa duração, trabalho afluente, suporte de memória de expansão SSD, Mulyiport"
+0,0,notebooks,Notebook vaio FE14 Intel Core i5 Linux 8GB 1TB Full HD - Cinza Escuro,"Notebook VAIO FE14 VJFE42F11X-B0451H Intel Core i5 10510U 8GB 1TB 14"" Full HD Linux - Grey (Chumbo Escuro)"
+0,1,notebooks,"Notebook Lenovo IdeaPad 3i 15IML05 Intel Core i3 - 4GB Ram e SSD de 256GB Tela 15,6” LCD Windows 10","Notebook Lenovo Ideapad 3i - Tela 15.6, Intel i3 10110U, ram 12GB, ssd 128GB, Windows 10 Pro"
+0,1,notebooks,Notebook Vaio FE14 14 fhd i5-10210U 1TB 4GB Win 10 Home VJFE42F11X-B0211H,Notebook Vaio Fe14 14 Fhd I5-10210u 1tb 8gb Win10 Home
+1,1,notebooks,Notebook Gaming 3i Core I5 8gb 256gbssd Gtx1650 15.6 Linux 82cgs00100,"Lenovo Notebook ideapad Gaming 3i i5-10300H 8GB 256GBSSD GTX 1650 4GB 15.6"" FHD WVA Linux 82CGS00100, Blue"
+0,1,notebooks,Notebook vaio FE14 Intel Core i7 Windows 11 Home 8GB 512GB ssd Full HD - Branco,Notebook VAIO® FE14 Intel® Core™ i5 Windows 10 Home 8GB 256GB SSD Full HD- Branco
+0,1,notebooks,Notebook Multilaser Legacy Book Intel Pentium Quadcore 4GB 64GB Windows 10 Home 14 Pol. HD Preto - PC310,"Notebook Ultra, com Windows 10 Home, Processador Intel Pentium, Memória 4GB RAM e 500GB HDD, Tela 14,1 Pol. HD, Preto – UB322"
+0,1,notebooks,Notebook Lenovo Ultrafino ideapad S145 i7-1065G7 8GB (Placa de Vídeo Intel Iris Plus) 256GB SSD W10 15.6'' FHD Prata,Notebook Lenovo ideapad S145 i7-1065G7 8GB 256GB SSD Linux Intel® Iris Plus FHD 82DJS00000 Prata
+0,1,notebooks,Notebook Gamer Dell G15-i1100-M40P 15.6 fhd 11ª Geração Intel Core i5 16GB 512GB ssd nvidia rtx 3050 Windows 11,"Notebook Gamer Dell G15-i1100-M35P 15.6"" 165Hz FHD 11ª Geração Intel Core i5 8GB 512GB SSD NVIDIA RTX 3050 Windows 11"
+0,0,notebooks,Notebook vaio FE14 Intel Core i3 Linux 4GB 128GB ssd Full HD - Branco,Notebook vaio FE14 Intel Core i3 Linux 4GB 1TB Full HD - Cinza Escuro
+0,1,notebooks,"Notebook Gamer 2AM E550, Intel Core i7 9700, 8GB, 1TB HD +128GB SSD, NVIDIA GeForce GTX 1050 3GB, IPS Full HD 15.6"" - Windows 10 Home","Notebook Gamer 2AM E550, Intel Core i7 9700, 16GB, 1TB HD + 128GB SSD, NVIDIA GeForce GTX 1050 3GB, IPS Full HD 15.6"" - FreeDOS"
+0,1,notebooks,"Notebook Positivo Motion Q464C Intel Atom Quad Core 4GB 64GB eMMC 14,1'' W10 - Cinza",Notebook Motion Intel Atom Quad Core Tela 14 128Gb Positivo
+0,0,notebooks,Notebook Dell Inspiron i13-i1100-M20S 13.3 Full HD 11ª geração Plataforma Intel evo Core i7 8GB 512GB ssd Windows 11,Notebook Dell Inspiron i15-i1100-M70P 15.6 Full HD 11ª Geração Intel Core i7 8GB 256GB ssd nvidia GeForce Windows 11
+0,0,notebooks,Notebook Acer Aspire 5 i5 W10 Pro 8GB 256SSD 15.6 A515-55G-53QD - Prata,"Notebook Acer Aspire 3 A315-23-R6DJ AMD R3 8GB 1TB W10 15.6"" - Preto"
+1,1,notebooks,Notebook Positivo Motion I34128B Ssd 128Gb Ddr4 4Gb,Notebook Positivo Motion 14 HD Intel i3-6157U 128GB ssd 4GB Win 10 Home I34128GB
+0,1,notebooks,Notebook ThinkPad E14 Ryzen 3 8GB 256GB ssd Windows 11 Pro 14 Full HD 20YD000PBO Preto,Notebook ThinkPad E14 Ryzen 7 16GB 512GB ssd Windows 11 Pro 14 Full HD 20YD000YBO Preto
+0,1,notebooks,Notebook Acer Aspire 3 A315-33-C58X Intel Celeron N3060 Memória de 4GB HD de 240GB ssd Tela de 15.6,"Diydeg Laptop de 13,3 polegadas, portátil de 4 GB de RAM, 64 GB de armazenamento de memória estendida, bateria grande de 4000 mAh, processador de computador N3350, suporta HDD SSD 0,3 MP, câmera de negócios e notebook para Windows10"
+0,1,notebooks,Notebook Asus 1011cx 1025c 1101hab 1104ha 1106ha compatível,Notebook ASUS E510MA-BR295R Preto
+0,1,notebooks,Notebook Positivo 11.6 2 em 1 Intel 2.4GHz 4GB DDR4 64GB SSD Windows 10 PRO,"Notebook Positivo Motion Intel Atom Q464B 4GB 64GB SSD 14"" Windows 10 Cinza"
+0,0,notebooks,"Notebook Asus VivoBox 15,6 HD LED 500GB 4GB Ram cz - Asus",Notebook i3 4GB HD 500GB Tela full HD 15.6 Wifi Bluetooh WebCam
+0,1,notebooks,"Notebook Compaq Presario 454 Intel Core i5 8GB 240GB SSD 14,1'' LED Webcam HD Linux Debian 10 - Cinza","Notebook Compaq Presario 450 Intel Core i5 8GB 240GB SSD 14,1'' LED Webcam HD Windows 10 Home - Cinza"
+0,1,notebooks,Notebook Gamer Acer Nitro5 Ryzen 5 512Gb Ssd Gtx1650 Endless,Notebook Gamer Acer Nitro 5 AN515-44-R4KA amd Ryzen 7 Windows 11 Home 8GB 512GB ssd gtx 1650 15.6'
+0,1,notebooks,Notebook Multilaser PC131 Legacy Cloud Intel Atom Z8350 2GB 32GB W10 14'',"Multilaser Notebook Legacy Cloud, 14.1"", Preto"
+0,1,notebooks,"Notebook Lenovo Ultrafino Ideapad 3i Intel Celeron-N4020 4GB 128GB SSD W10 15.6"" Prata","Notebook Lenovo Ultrafino IdeaPad 3i i3-10110U 4GB 128GB SSD Linux 15.6"" 82BSS00000 Prata"
+0,1,notebooks,"Notebook Acer 15,6 - A315-56-569F/ I5-1035G1 - Linux Endless","Notebook Acer 15,6"" A515-55G-53QD I5-1035G1 8GB 512GB W10H"
+0,1,notebooks,Notebook Samsung Book Intel Core I3-1115G4 4GB 1TB W10 FHD 15.6'' Cinza Chumbo NP550XDA-KT1BR,"SAMSUNG, Notebook Samsung Intel Celeron-6305 4GB 500GB W11 15,6"" Cinza Chumbo NP550XDA-KP1BR"
+0,0,notebooks,"Notebook Lenovo Ultrafino Ideapad S145, 15.6, Intel Core i3, 4GB, 1TB hd, Windows 10","Notebook Lenovo Ideapad 3i Intel Celeron N4020 Memoria 4GB HD 500GB Tela 15,6'' HD Windows 10 Pro"
+0,1,notebooks,"Notebook Gamer Acer Nitro 5 Intel Core i7-10750H 8GB (GeForce GTX1650 4GB) 512GB SSD W11 15,6” FHD IPS AN515-55-79X0",Notebook Acer Aspire 5 Intel Core i5-1135G7 8GB 512GB SSD W11 15.6” FHD Prata A515-56-57LB
+0,0,notebooks,Kit Notebook Dell Inspiron i15-i1100-M70PB 15.6 fhd 11ª Ger Intel Core i7 8GB 256GB ssd nvidia GeForce Win 11 + Mochila,Notebook Dell Inspiron 15.6” i1101-M60SF FHD 11ªger Intel Core i7 16GB 512GB SSD NVIDIA Geforce Mochila Windows 11
+0,1,notebooks,Notebook Positivo C4128ei Celeron N3350 4gb Ddr4 Ssd 128gb Tela 14 Hd Led Windows 10 Pro,"Notebook Positivo Motion Gray C4128E-S Intel Celeron 4GB 128GB SSD 14,1'' LED Webcam HD Windows 10 Home - Cinza"
+0,1,notebooks,Notebook Positivo Motion Q4128C Intel Atom Quad-Core Windows 10 Home 14.1 - Cinza – Inclui Microsoft 365*,Notebook Positivo Motion C4120F Intel® Celeron® Windows 11 Home Cinza - Inclui Microsoft 365*
+0,1,notebooks,Notebook Samsung Book i7 8GB 256GB ssd Intel Iris Xe 15.6 fhd LED,Notebook Lenovo IdeaPad Flex 5i i7-1165G7 8GB 256GB ssd W11 14 fhd Intel Iris Xe
+0,0,notebooks,"Notebook asus X515JA-BR2750 Intel Core i3 1005G1 4GB 256GB ssd Linux 15,6 LED-backlit Cinza","ASUS Notebook X515JA-EJ2734W Intel Core i5 1035G1 4GB 256GB ssd W11 15,6 LED-backlit tft lcd Cinza"
+0,1,notebooks,"Notebook Acer Aspire 5 Intel Core i5-10210U 8GB 256GB SSD W10 15,6'' IPS FHD Preto A515-54-53VN",Notebook Acer Aspire 5 A515-54-564G 15.6 Intel Core I5-10210U - Preto Oferta!
+0,0,notebooks,"Notebook Asus VivoBox 15,6 HD LED 500GB 4GB Ram cz - Asus","Notebook Asus X543MA-GQ1300W Windows 11 15,6 Polegadas 500GB 4GB ram Celeron wi-fi"
+0,1,notebooks,Notebook Dell Inspiron 15 3000 a0500-UM10P 15.6 fhd amd Ryzen 5 8GB 256GB ssd Linux Preto,"Notebook Dell Inspiron 15 a0700-UM20P 15.6"" FHD AMD Ryzen™ 7 8GB 256GB SSD Linux Preto"
+0,0,notebooks,"Notebook Asus Intel Core i3-1115G4 4GB 256GB SSD W11 15,6"" Cinza X515EA-BR1275W","Notebook asus X515JA-BR2750 Intel Core i3 1005G1 4GB 256GB ssd Linux 15,6 LED-backlit Cinza"
+0,1,notebooks,Notebook Lenovo IdeaPad 3i 82BUS00100 Intel Celeron Linux 4GB 128GB 15.6 Polegadas,"Notebook Lenovo Ideapad 3i Intel Celeron N4020 Memoria 4GB Ssd 240GB Tela 15,6'' HD Sistema Linux"
+0,1,notebooks,Notebook vaio FE14 Intel Core i7 Windows 11 Home 8GB 512GB ssd Full HD - Branco,Notebook vaio FE14 Intel Core i5 Windows 10 Home 8GB 256GB ssd Full hd- Branco
+0,0,notebooks,Notebook Dell Inspiron i15-i1100-U20P 15.6 Full HD 11ª Geração Intel Core i3 4GB 128GB ssd Linux,"Kit Notebook Dell Inspiron i15-i1100-M20PC 15.6"" Full HD 11ª Geração Intel Core i3 4GB 128GB SSD Windows 11 Preto com Capa"
+0,0,notebooks,Notebook vaio FE14 Intel Core i5 Windows 11 Home 8GB 256GB ssd Full HD - Cinza Escuro,Notebook VAIO® FE15 Intel® Core™ i7 Windows 11 Home 8GB 256GB SSD Full HD- Prata
+1,1,notebooks,Notebook Aspire 3 I5 4GB 256GB ssd Linux - Acer,"Notebook Acer Aspire 3 A315-56-569F, 15,6 Intel Core i5-1035G1, 4GB, 256GB ssd - Endless os"
+0,1,notebooks,"Notebook asus X515JF-EJ361T Intel Core i5 1035G1 8GB 256GB ssd W10 15,6 LED-backlit Cinza","Notebook ASUS X515JF-EJ360T Intel Core i5 1035G1 8GB 256GB SSD W10 15,6"" LED-backlit Cinza"
+0,1,notebooks,Notebook Gamer Legion Slim7 R5-5600H 16GB 512GB RTX3050 Ti 4GB W11 15.6 Full HD wva 82K800EABR,"Notebook Gamer Legion 5 R7-5800H 16GB 512GB SSD RTX3050 4GB W11 15.6"" Full HD WVA 82QJ0000BR"
+1,1,notebooks,"Notebook Ultra 14"" Pentium 4GB 120GB SSD W10, UB320, Preto","Notebook Ultra Intel Pentium, Tela 14 hd, 4GB ram, 120GB ssd UB320"
+1,1,notebooks,"Notebook Acer A514-53- Tela 14, Intel i3 1005G1, ram 8GB, ssd 128GB, Windows 10 Professional",Notebook Acer Aspire 5 I3-1005g1 8gb 128 Ssd Tela 14 Hd
+0,1,notebooks,Notebook Samsung Book i7 8GB 256GB ssd Intel Iris Xe 15.6 fhd LED,Notebook Samsung Book 15.6 Intel Core i7-10510 8GB
+0,1,notebooks,"Notebook Acer A514-53 - Tela 14, Intel i3 1005G1, 12GB, ssd 128GB + HD 1TB, Windows 10 Pro",Notebook Acer Aspire 5 A514 Intel Core I5 1035G1 Memória 8gb Ssd 256gb Tela 14'' HD Windows 10 pro
+0,1,notebooks,"Notebook Lenovo Yoga Slim 9i 14"" i7-1165G7 16GB 512GB SSD Placa de Vídeo Intel Iris® Xe W11 FHD WVA",Notebook Lenovo Yoga 9i 2 em 1 14 i7-1185G7 8GB 512GB ssd Placa de Vídeo Intel Iris Xe W11 fhd wva
+1,1,notebooks,"Notebook Acer A315-56-569F, Intel Core i5, 4GB 256GB, 15.6, Endless Os, Grafite",Notebook A315-56-569F Intel Core I5-1035G1 ssd 256GB Endless os Acer
+0,1,notebooks,"Notebook Asus Intel Core i7-1165G7 8GB 256GB SSD W11 15,6"" Preto X513EA-EJ3010W","Notebook Asus Intel Core i3-1115G4 4GB 256GB SSD W11 15,6"" Cinza X515EA-BR1275W"
+0,1,notebooks,NOTEBOOK DELL VOSTRO 3401 CORE i3 1005G1,"Notebook Dell Inspiron i15-3501 - Tela 15.6, Intel i3 1005G1, 12GB, ssd 256GB, Windows 10 Pro"
+0,0,notebooks,"Dell Latitude 3420, laptop HD de 14"" sem toque - Intel Core i5-1135G7, 8GB DDR4 RAM, 500GB 7200 RPM SATA HD, Intel Iris Xe Graphics, Windows Pro - Preto (modelo mais recente)","Lenovo Notebook ThinkPad E14 Gen 2 de 14 polegadas, Intel Core i5-1135G7, 8 GB RAM DDR4, 256 GB SSD, Intel Iris Xe Graphics, Windows 10 Pro, preto (20TA009AUS)"
+0,0,notebooks,"Notebook asus X515MA-BR623X Intel Celeron Dual Core N4020 4GB 128GB ssd W11 15,60 LED-backlit Cinza","Notebook ASUS E410MA-BV1871X Celeron Dual Core N4020 4GB 128GB SSD W11 14"" LED-backlit Star Black"
+0,1,notebooks,"Notebook Ultra UB522 - Tela 15 Full hd, Intel i5, ram 8GB, ssd 240GB, Windows 10 - Prata","Notebook Ultra - Tela 15 Full hd, Intel i5, 8GB, ssd 480GB, Windows 10 - Prata"
+0,1,notebooks,"Notebook Ideapad Gaming 3i Intel Core i5-10300H 8GB (Geforce GTX 1650 4GB) 256GB SSD FHD Linux 15.6"" Azul","Notebook ideapad Gaming 3 R7-5800H 8GB 256GB SSD PCIe GTX 1650 4GB 15.6"" FHD W11 82MJ0001BR"
+1,1,notebooks,"Notebook Asus Intel Core i3-1115G4 4GB 256GB SSD W11 15,6"" Cinza X515EA-BR1275W","Notebook ASUS Vivobook X515EA-BR1275W Intel Core i3 1115G4 4GB 256GB SSD W11 15,6"" LED-backlit Cinza"
+0,0,notebooks,Notebook Asus 1011Cx 1025C 1101Hab 1104Ha 1106Ha Compatível,Notebook ASUS X515EA-EJ1668 Cinza
+1,1,notebooks,"Notebook Dell Inspiron i15-i1100-U40P 15.6"" Full HD 11ª Geração Intel Core i5 8GB 256GB SSD Linux",Notebook Dell Inspiron i15-i1100-U40P 15.6 Full HD 11ª Geração Intel Core i5 8GB 256GB ssd Linux
+0,1,notebooks,Notebook asus rog Zephyrus G14 GA401IV-HE251T Ryzen 9 4900HS 16GB 1TB ssd RTX2060 W10 14'' Cinza,Asus Zephyrus G14 (Laptop Gamer) rtx 3060 Ryzen9 5900HS tela 14' ssd 1Tb NVMe ram 16Gb
+0,1,notebooks,"Notebook asus VivoBook X513EA-EJ3010 Intel Core i7 1165G7 8GB 256GB ssd Linux 15,6 LED Preto","ASUS Notebook Intel Core i7-1165G7 8GB 256GB SSD W11 15,6"" Preto X513EA-EJ3010W"
