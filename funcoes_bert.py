@@ -7,7 +7,7 @@ from tensorflow.keras.losses import SparseCategoricalCrossentropy
 from tensorflow.keras.metrics import SparseCategoricalAccuracy
 
 from transformers import TFBertForSequenceClassification
-from transformers import BertModel
+from transformers import BertModel, TFBertModel
 from transformers import BertTokenizer
 
 from scipy import spatial
@@ -198,10 +198,10 @@ def pipeline_bert(X_teste):
     
     # inicialização do mocelo
     modelo = BertModel.from_pretrained('neuralmind/bert-base-portuguese-cased', output_hidden_states = True)
-
+ 
     modelo.eval()
 
     #embedding = X_teste.apply(lambda linha: calcular_embedding(modelo, linha['titulo']) , axis = 1)
     embedding = X_teste.apply( lambda linha: calcular_embedding(modelo, linha) )
     
-    return (modelo, embedding)
+    return embedding
