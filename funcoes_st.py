@@ -45,7 +45,7 @@ def calcular_embedding(modelo, titulo):
     return embedding
 
 
-def pipeline_st(df_treino, df_val, df_teste, nome_modelo, num_epocas = 1):
+def pipeline_st(df_treino, df_val, df_teste, nome_modelo, num_epocas = 3):
     
     # carregando o modelo
     modelo = SentenceTransformer(nome_modelo)
