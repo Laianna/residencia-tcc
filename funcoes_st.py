@@ -45,7 +45,7 @@ def calcular_embedding(modelo, titulo):
     return embedding
 
 
-def pipeline_st(df_treino, df_val, df_teste, nome_modelo, num_epocas = 3):
+def pipeline_st(df_treino, df_val, df_teste, nome_modelo, num_epocas = 1):
     
     # carregando o modelo
     modelo = SentenceTransformer(nome_modelo)
@@ -54,10 +54,10 @@ def pipeline_st(df_treino, df_val, df_teste, nome_modelo, num_epocas = 3):
     dados_val = df_val.apply(lambda row: retornar_input_example(row['titulo_1'], row['titulo_2'], float(row['match'])), axis = 1)
 
     treino_dataloader = DataLoader(dados_treino, shuffle = True, batch_size = 1)
-    treino_perda = losses.CosineSimilarityLoss(model = modelo)
-    #treino_perda = losses.ContrastiveLoss(model = modelo)
-    avaliador = evaluation.EmbeddingSimilarityEvaluator.from_input_examples(dados_val)
-    #avaliador = evaluation.BinaryClassificationEvaluator.from_input_examples(dados_val)
+    #treino_perda = losses.CosineSimilarityLoss(model = modelo)
+    treino_perda = losses.ContrastiveLoss(model = modelo)
+    #avaliador = evaluation.EmbeddingSimilarityEvaluator.from_input_examples(dados_val)
+    avaliador = evaluation.BinaryClassificationEvaluator.from_input_examples(dados_val)
 
     # fine-tune do modelo
     modelo.fit(
