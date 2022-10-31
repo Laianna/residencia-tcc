@@ -5,7 +5,7 @@ import unicodedata
 
 from scipy import spatial
 
-#from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.feature_extraction.text import CountVectorizer
 
 def remove_pontuacao(texto):
     
@@ -130,7 +130,7 @@ def criar_df_teste(df_teste, coluna_1 = "titulo_sa_1", coluna_2 = "titulo_sa_2",
     return df_concat_sr, df_matches
 
 
-'''def formatar_entrada_bow(dados, mf = 1000):
+def formatar_entrada_bow(dados, mf = 1000):
     
     cv = CountVectorizer(
                          lowercase = True,
@@ -143,7 +143,7 @@ def criar_df_teste(df_teste, coluna_1 = "titulo_sa_1", coluna_2 = "titulo_sa_2",
 
     #X = matriz.fit_transform(dados).toarray()
     
-    return cv, dados_transformados'''
+    return cv, dados_transformados
 
 
 def calcular_dis_cos(vetor_1, vetor_2):
