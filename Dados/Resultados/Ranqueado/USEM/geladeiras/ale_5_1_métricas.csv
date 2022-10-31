@@ -1,232 +1,97 @@
-indice,titulo,ean,categoria,tempo,k-1,k-1-qtd,k-1-qtd/1,k-10,k-10-qtd,k-10-qtd/10,k-50,k-50-qtd,k-50-qtd/50,match_rank,1/match_rank,match_rank/total
-10,Frigobar 117L consul - CRC12CBBNA,7891129224070,geladeiras,884.5510833263397,1,1,1.0,1,7,0.7,1,7,0.14,1,1.0,0.00012540757461750688
-23,Refrigerador Frost Free Duplex 340litros CRM39AKANA Consul,7891129514232,geladeiras,884.5510833263397,1,1,1.0,1,7,0.7,1,11,0.22,1,1.0,0.00012540757461750688
-49,Refrigerador Brastemp Inverse Frost Free 573L Evox 220V BRE80AK,7891129236714,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-80,Frigobar Philco 93 litros PFG111B 110v,7891356076848,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-87,Geladeira Brastemp Frost Free 2 Portas BRM56 462L Inox - 110v,7891129251571,geladeiras,884.5510833263397,1,1,1.0,1,6,0.6,1,6,0.12,1,1.0,0.00012540757461750688
-94,Geladeira Consul Frost Free Duplex 397 litros com Freezer Embaixo cor inox - CRE44AK 110V,7891129499751,geladeiras,884.5510833263397,1,1,1.0,1,2,0.2,1,3,0.06,1,1.0,0.00012540757461750688
-99,Geladeira Consul Frost Free Duplex CRM50 410L Espaço Flex Inox com Controle Interno de Temperatura - 110v,7891129506022,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,3,0.06,1,1.0,0.00012540757461750688
-105,Refrigerador Philco Side By Side PRF533I 220v,7891356086892,geladeiras,884.5510833263397,1,1,1.0,1,6,0.6,1,8,0.16,1,1.0,0.00012540757461750688
-127,Geladeira Consul Cycle Defrost Duplex 334 Litros CRD37EB,7891129195455,geladeiras,884.5510833263397,1,1,1.0,1,4,0.4,1,4,0.08,1,1.0,0.00012540757461750688
-131,Frigobar eos Ice Compact 93 Litros Preto Efb101P 110V,736532819567,geladeiras,884.5510833263397,1,1,1.0,1,2,0.2,1,2,0.04,1,1.0,0.00012540757461750688
-136,Geladeira Consul Frost Free Duplex 386 litros Branca com Prateleira Dobrável,7891129246737,geladeiras,884.5510833263397,1,1,1.0,1,3,0.3,1,3,0.06,1,1.0,0.00012540757461750688
-142,"Ljyutihg Geladeira de carro bx 22 l portátil termoelétrico elétrico refrigerador de carro para bebidas, cerveja, vinho, frutos do mar, frutas, casa e viagem.",8344530850097,geladeiras,884.5510833263397,1,1,1.0,1,3,0.3,1,3,0.06,1,1.0,0.00012540757461750688
-152,Refrigerador Philco 482 Litros French Door Inverse Inox PFR500I – 127 Volts,7891356080029,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-159,Geladeira Frost Free DB84 Electrolux 598 Litros Duplex Branco 110V,7896584073553,geladeiras,884.5510833263397,1,1,1.0,1,5,0.5,1,10,0.2,1,1.0,0.00012540757461750688
-176,Refrigerador Electrolux Infinity 2 Portas 553L Frost Free Branco 127V DF82,7896584072365,geladeiras,884.5510833263397,1,1,1.0,1,2,0.2,1,2,0.04,1,1.0,0.00012540757461750688
-187,Geladeira Inverter Frost Free Samsung Duplex RT6000K economiza até 50% de energia RT53K6240S8 528L Inox Look,8801643246563,geladeiras,884.5510833263397,1,1,1.0,1,3,0.3,1,3,0.06,1,1.0,0.00012540757461750688
-190,Geladeira Duplex Invertida 397 Litros CRE44 Frost Free Consul,7891129499768,geladeiras,884.5510833263397,1,1,1.0,1,2,0.2,1,3,0.06,1,1.0,0.00012540757461750688
-203,Refrigerador Brastemp Frost Free Duplex 375 Litros com Espaço Adapt Branco BRM45HB – 127 Volts,7891129252745,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,4,0.08,1,1.0,0.00012540757461750688
-212,Geladeira/Refrigerador Electrolux Inverter Frost Free IF56B 474L Top Freezer Black - 220V,7909569390269,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-217,Refrigerador / Geladeira Continental Frost Free 2 Portas 370 Litros - TC41,7909569003091,geladeiras,884.5510833263397,1,1,1.0,1,5,0.5,1,14,0.28,1,1.0,0.00012540757461750688
-233,Geladeira Brastemp 462L Frost Free com Painel Touch BRM56ABANA Branca,7891129250093,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-249,Frigobar Consul 117L CRC12 - 110V,7891129224063,geladeiras,884.5510833263397,0,0,0.0,1,2,0.2,1,2,0.04,5,0.2,0.0006270378730875344
-251,Refrigerador vert vcfm284-1v000 127v p. Vidro branc,7899461805872,geladeiras,884.5510833263397,1,1,1.0,1,2,0.2,1,2,0.04,1,1.0,0.00012540757461750688
-276,Geladeira Panasonic Generation Frost Free 435L Aço Escovado,7896067226964,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,5,0.1,1,1.0,0.00012540757461750688
-294,Refrigerador Panasonic NR-BB53GV3WAB 425L White Glass,7896067227145,geladeiras,884.5510833263397,0,0,0.0,1,3,0.3,1,3,0.06,4,0.25,0.0005016302984700275
-295,Refrigerador Side Inverse Brastemp de 03 Portas Frost Free com 540 Litros Painel Eletrônico Inox - BRO81AR,7891129491717,geladeiras,884.5510833263397,1,1,1.0,1,3,0.3,1,3,0.06,1,1.0,0.00012540757461750688
-298,"Frigobar, 124L, Branco, 110v, Midea",7908198000518,geladeiras,884.5510833263397,1,1,1.0,1,2,0.2,1,2,0.04,1,1.0,0.00012540757461750688
-329,Refrigerador Panasonic BT41 2 Portas Frost Free 387 Litros Aço Escovado 220V NR-BT41PD1XB,7896067227756,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-333,Refrigerador Side by Side LG New Lancaster Instaview 601 litros 220v - GC-X247CSBV,8806098346189,geladeiras,884.5510833263397,0,0,0.0,1,2,0.2,1,2,0.04,7,0.14285714285714285,0.0008778530223225483
-343,Geladeira Brastemp Frost Free Inverse 443 litros cor Inox com Turbo Ice - BRE57AK 220V,7891129252066,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-371,Geladeira Brastemp Frost Free 375 litros cor inox - BRM45HK 220V,7891129252776,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-376,Geladeira Brastemp Frost Free Side Inverse 540 litros Preto com Ice Maker - BRO80AE 110V,7891129219946,geladeiras,884.5510833263397,1,1,1.0,1,2,0.2,1,2,0.04,1,1.0,0.00012540757461750688
-384,Refrigerador / Geladeira LG Bottom Freezer Universe Refresh 451L,8806098423927,geladeiras,884.5510833263397,1,1,1.0,1,5,0.5,1,6,0.12,1,1.0,0.00012540757461750688
-388,Refrigerador Consul Frost Free 342 Litros Com Controle De Temperatura Crb39 Branco 220v,7891129185418,geladeiras,884.5510833263397,1,1,1.0,1,8,0.8,1,10,0.2,1,1.0,0.00012540757461750688
-391,Frigobar Midea 93 Litros Black Edition,7898554871541,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-395,Geladeira Top Freezer DW44S Com Dispenser de Água Platinum 400L,7896584097993,geladeiras,884.5510833263397,1,1,1.0,1,4,0.4,1,4,0.08,1,1.0,0.00012540757461750688
-420,Geladeira Metalfrio Degelo Automático No Frost 1 Porta Soft Drinks VB25RB 276 Litros,7899908751328,geladeiras,884.5510833263397,1,1,1.0,1,2,0.2,1,2,0.04,1,1.0,0.00012540757461750688
-421,Frigobar Venax NGV 10 - 82 Litros - Azul 110V,7899552101371,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-425,Geladeira Brastemp Frost Free Inverse 443 litros cor Inox com Turbo Ice - BRE57AK 110V,7891129252059,geladeiras,884.5510833263397,1,1,1.0,1,3,0.3,1,3,0.06,1,1.0,0.00012540757461750688
-427,Geladeira Brastemp Frost Free Side Inverse 540 litros cor Inox com Ice Maker - BRO80AK 220V,7891129220010,geladeiras,884.5510833263397,0,0,0.0,0,0,0.0,1,2,0.04,24,0.041666666666666664,0.0030097817908201654
-446,Refrigerador ngv 10 vermelho 12/24 V,7899552144378,geladeiras,884.5510833263397,1,1,1.0,1,4,0.4,1,4,0.08,1,1.0,0.00012540757461750688
-454,"Refrigerador Philco 467 Litros PRF505TI, Frost Free, Inverter, 2 Portas, Inox 110V",7891356090592,geladeiras,884.5510833263397,1,1,1.0,1,2,0.2,1,3,0.06,1,1.0,0.00012540757461750688
-462,Refrigerador Smart LG Side By Side Door In Door 601L Inox 220V GS65SDN1,6934585684468,geladeiras,884.5510833263397,1,1,1.0,1,4,0.4,1,9,0.18,1,1.0,0.00012540757461750688
-524,Geladeira/Refrigerador Samsung French Door RF27T5501SG Black Inox 614L Family Hub SmartThings (Wi-Fi) - 127v,8806090402944,geladeiras,884.5510833263397,1,1,1.0,1,4,0.4,1,5,0.1,1,1.0,0.00012540757461750688
-527,Geladeira Consul Cycle Defrost Duplex CRD37EB 334 litros com Freezer Supercapacidade Branca - 110V,7891129195448,geladeiras,884.5510833263397,1,1,1.0,1,2,0.2,1,2,0.04,1,1.0,0.00012540757461750688
-551,"Freezer Horizontal Digital FlexBeer 100L, Midea, 127V, Preto, CBA10P1",7908198003120,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-562,Refrigerador Continental Tc56 Frost Free Duplex 472 Litros,7909569003022,geladeiras,884.5510833263397,1,1,1.0,1,5,0.5,1,9,0.18,1,1.0,0.00012540757461750688
-592,Refrigerador Esmaltec RCD34 Black 276L 2 Portas,7899081732084,geladeiras,884.5510833263397,1,1,1.0,1,4,0.4,1,4,0.08,1,1.0,0.00012540757461750688
-595,Geladeira Brastemp Duplex 2 Portas BRE59 Inverse Frost Free 460L Inox - 110v,7891129252134,geladeiras,884.5510833263397,1,1,1.0,1,2,0.2,1,2,0.04,1,1.0,0.00012540757461750688
-607,EXPOSITORA DE BEBIDAS VV 300L BRANCO 127 V,7898456262850,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-611,YDFXF Material de grau alimentício Geladeira portátil Casa Viagem Carro Piquenique Resfriamento Congelador Favorável,83456298320,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-623,Geladeira/Refrigerador Frost Free Electrolux 322L Branco (RFE39) 127V,7896584060478,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,5,0.1,1,1.0,0.00012540757461750688
-649,Geladeira / Refrigerador Panasonic Duplex NR-BT55PV2WB Top Freezer Frost Free 483L Branco,7896067226933,geladeiras,884.5510833263397,1,1,1.0,1,6,0.6,1,6,0.12,1,1.0,0.00012540757461750688
-650,Refrigerador Multi Door Cinza Cuisinart Arkton,7899100675002,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-659,Geladeira/Refrigerador Philco French Door PRF500I Inox 482L - 220v,7891356080036,geladeiras,884.5510833263397,1,1,1.0,1,3,0.3,1,3,0.06,1,1.0,0.00012540757461750688
-661,Frigobar Philco 85l Porta De Vidro Pfg85pg 127v,7891356078057,geladeiras,884.5510833263397,1,1,1.0,1,2,0.2,1,2,0.04,1,1.0,0.00012540757461750688
-665,Refrigerador Philco Side By Side 437L Eco Inverter 127v,7891356086885,geladeiras,884.5510833263397,1,1,1.0,1,3,0.3,1,10,0.2,1,1.0,0.00012540757461750688
-690,Expositor de Bebidas Gelopar 414l Gptu-40 110v,7899069607021,geladeiras,884.5510833263397,1,1,1.0,1,2,0.2,1,2,0.04,1,1.0,0.00012540757461750688
-695,Frigobar Midea 93 Litros Branco MRC10B2,7898626573823,geladeiras,884.5510833263397,1,1,1.0,1,3,0.3,1,3,0.06,1,1.0,0.00012540757461750688
-712,REFRIGERADOR NGV 10 AMARELO,7899552101388,geladeiras,884.5510833263397,1,1,1.0,1,3,0.3,1,6,0.12,1,1.0,0.00012540757461750688
-717,Refrigerador ngv 10 amarelo 12/24 V,7899552144361,geladeiras,884.5510833263397,1,1,1.0,1,3,0.3,1,3,0.06,1,1.0,0.00012540757461750688
-722,Geladeira/Refrigerador Electrolux Duplex TF55S Top Freezer 431L Platinum - 110V,7896584097832,geladeiras,884.5510833263397,1,1,1.0,1,3,0.3,1,3,0.06,1,1.0,0.00012540757461750688
-755,Refrigerador 400 Litros Brastemp 2 Portas Frost Free BRM54HB,7891129252837,geladeiras,884.5510833263397,1,1,1.0,1,4,0.4,1,8,0.16,1,1.0,0.00012540757461750688
-777,"Geladeira/Refrigerador Philco Side by Side PRF520DI, Frost Free, 2 Portas, 520 Litros, Inox",7891356080067,geladeiras,884.5510833263397,1,1,1.0,1,2,0.2,1,5,0.1,1,1.0,0.00012540757461750688
-789,Refrigerador Dc51Cycle Defrost Branco 475 Litros 110V Electrolux,7896584053463,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-810,Mini Geladeira 15 Litros preta Mini Cool,7898656530018,geladeiras,884.5510833263397,1,1,1.0,1,4,0.4,1,4,0.08,1,1.0,0.00012540757461750688
-817,Geladeira/Refrigerador Consul 386 Litros 2 Portas Frost Free Classe A CRM43,7891129246720,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,2,0.04,1,1.0,0.00012540757461750688
-819,Refrigerador Brastemp ff Duplex 500L 2 Pts Branco,7891129251908,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-828,Refrigerador French Door ConvertZone 638L Toshiba,7908198002550,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-848,Frigobar 79L Electrolux - Re80 110V,7896584035544,geladeiras,884.5510833263397,1,1,1.0,1,4,0.4,1,4,0.08,1,1.0,0.00012540757461750688
-850,Refrigerador Philco French Door 403l PRF411I Inverter 127V,7891356083754,geladeiras,884.5510833263397,1,1,1.0,1,5,0.5,1,5,0.1,1,1.0,0.00012540757461750688
-861,"Frigidaire EFMIS129-BLACK-AMZ_CP4 6 Can Retro Mini Refrigerador/Portátil Pessoal para Casa, Escritório ou Dormitório, Preto",58465807634,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-862,Refrigerador / Geladeira Elexctrolux RDE33 262L 1 Porta Cycle Defrost,7896584055931,geladeiras,884.5510833263397,1,1,1.0,1,4,0.4,1,4,0.08,1,1.0,0.00012540757461750688
-872,Geladeira/Refrigerador Top Freezer 474L Branco (TF56),7896584097870,geladeiras,884.5510833263397,1,1,1.0,1,2,0.2,1,2,0.04,1,1.0,0.00012540757461750688
-877,Refrigerador ngv 10 vermelho,7899552101401,geladeiras,884.5510833263397,0,0,0.0,1,1,0.1,1,1,0.02,2,0.5,0.00025081514923501377
-888,Mini Geladeira Frigobar Multilaser Portatil 10l 110/12v,7899838866574,geladeiras,884.5510833263397,1,1,1.0,1,3,0.3,1,8,0.16,1,1.0,0.00012540757461750688
-906,Frigobar Midea 71 Litros Branco MRC08B1 110v 110v,7908198000150,geladeiras,884.5510833263397,1,1,1.0,1,3,0.3,1,3,0.06,1,1.0,0.00012540757461750688
-909,Refrigerador Smart LG 428 Litros Inverter French Door Hygiene Fresh e NATUREFresh Inox GC-L228FTL1 – 220 Volts,8806098548934,geladeiras,884.5510833263397,1,1,1.0,1,3,0.3,1,3,0.06,1,1.0,0.00012540757461750688
-911,Geladeira/Refrigerador Electrolux Frost Free Bottom Freezer 454 Litros DB53 - 110v,7896584072280,geladeiras,884.5510833263397,1,1,1.0,1,3,0.3,1,3,0.06,1,1.0,0.00012540757461750688
-913,Geladeira/Refrigerador Electrolux Frost Free Bottom Freezer DB44S 400 litros Inox - 220v,7909569362501,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-931,"Geladeira Instaview Craft Ice Uvano Side By Side 598l, Inverter, Thinq, Aço Escovado 220v Gcx257csh1",8806091501875,geladeiras,884.5510833263397,1,1,1.0,1,2,0.2,1,2,0.04,1,1.0,0.00012540757461750688
-947,Geladeira Panasonic Frost Free 387L NR-BT42BV1X Aço Escovado - 220v,7896067226117,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-955,Frigobar 93 Litros Inox Classe A 220V Midea MRC10B2-X,7908198000587,geladeiras,884.5510833263397,1,1,1.0,1,4,0.4,1,4,0.08,1,1.0,0.00012540757461750688
-964,Geladeira / Refrigerador Electrolux DC51X Cycle Defrost - 475 Litros - Inox 110V,7896584063448,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-966,"Setpower FC20 Freezer portátil de 19 litros, 12 V",192408678261,geladeiras,884.5510833263397,1,1,1.0,1,3,0.3,1,3,0.06,1,1.0,0.00012540757461750688
-977,Expositor/Refrigerador Gelopar Vertical Porta de Vidro GPTU-40 414 Litros Preto 110V,7899069624431,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-982,Refrigerador Consul 386l Frost Free - Crm43 Platinum 110v,7891129240636,geladeiras,884.5510833263397,1,1,1.0,1,3,0.3,1,10,0.2,1,1.0,0.00012540757461750688
-994,Geladeira Electrolux Frost Free TF56 474L,7896584097887,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-1017,Refrigerador de Bebidas GRBA230PR Gelopar,7899069618904,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-1027,Geladeira Electrolux DFX41 Frost Free Duplex 371 Litros Inox,7896584071962,geladeiras,884.5510833263397,1,1,1.0,1,4,0.4,1,4,0.08,1,1.0,0.00012540757461750688
-1032,"Geladeira/Refrigerador Panasonic 435 Litros NR-BT51PV3, Frost Free, 2 Portas, Econavi, Aço Escovado",7896067226971,geladeiras,884.5510833263397,1,1,1.0,1,2,0.2,1,2,0.04,1,1.0,0.00012540757461750688
-1035,Geladeira/Refrigerador Samsung Duplex RT38K5A0KS9 Inox Look 385L com All-Around Cooling - Bivolt,8806090569678,geladeiras,884.5510833263397,1,1,1.0,1,2,0.2,1,4,0.08,1,1.0,0.00012540757461750688
-1037,Refrigerador Geladeira Electrolux Frost Free 2 Portas 310L Tf39 Branco 110V,7896584080063,geladeiras,884.5510833263397,1,1,1.0,1,2,0.2,1,3,0.06,1,1.0,0.00012540757461750688
-1047,Refrigerador Panasonic 480 Litros BB71 Bottom Freezer Aço Escovado 127V,7896067227480,geladeiras,884.5510833263397,1,1,1.0,1,5,0.5,1,5,0.1,1,1.0,0.00012540757461750688
-1057,Geladeira 2 Portas 340 Litros Frost Free com Prateleiras Flex CRM39 Consul,7891129514249,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-1070,Geladeira Panasonic BB71GV Frost Free Inverter 480L,7896067227510,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-1112,Refrigerador LG Side By Side New Lancaster 601L Door In Door Aço Escovado 110V GS65SDN,6934585684475,geladeiras,884.5510833263397,1,1,1.0,1,4,0.4,1,7,0.14,1,1.0,0.00012540757461750688
-1122,Geladeira LG Smart French Door InstaView Door In Door 525 Litros Preta 110V GR-X228NMSM,8806098602629,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,7,0.14,1,1.0,0.00012540757461750688
-1138,Frigobar Consul 76 Litros CRC08CB,7891129224056,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-1142,Geladeira LG Smart French Door InstaView Door In Door 525 Litros Preta 220V GR-X228NMS1,8806098602636,geladeiras,884.5510833263397,1,1,1.0,1,2,0.2,1,2,0.04,1,1.0,0.00012540757461750688
-1174,Refrigerador Brastemp Ative Inverse Maxi BRE80 573 Litros Iluminação LED Branco 110,7891129206205,geladeiras,884.5510833263397,1,1,1.0,1,2,0.2,1,3,0.06,1,1.0,0.00012540757461750688
-1184,Refrigerador de refrigerador de aquário de controle de temperatura inteligente e peixe silencioso mais quente,8450015620144,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-1200,Geladeira/Refrigerador Samsung Duplex RT46K6A4KS9 Inox Look 460L com All-Around Cooling - Bivolt,8806090569708,geladeiras,884.5510833263397,1,1,1.0,1,2,0.2,1,2,0.04,1,1.0,0.00012540757461750688
-1210,Refrigerador Instalação Livre Retro Bordeaux,3838782500664,geladeiras,884.5510833263397,1,1,1.0,1,2,0.2,1,2,0.04,1,1.0,0.00012540757461750688
-1243,Refrigerador 528 Litros 2 Portas Frost Free Side By Side Midea,7908198000839,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-1265,Frigobar Gallant Venezia 71L Branco 127V,7898648175661,geladeiras,884.5510833263397,1,1,1.0,1,2,0.2,1,2,0.04,1,1.0,0.00012540757461750688
-1281,Geladeira Gorenje Ion Generation 2 Portas Inverse Inox 220V NRK6192UX,3838942107108,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-1285,Geladeira/Refrigerador Consul Duplex Frost Free 340 litros CRM39 Branca 220V,7891129514225,geladeiras,884.5510833263397,1,1,1.0,1,3,0.3,1,3,0.06,1,1.0,0.00012540757461750688
-1294,"Chefman Mini Geladeira para Skincare 4 Litros com Espelho, 110V/12V, Branca.",816458024013,geladeiras,884.5510833263397,1,1,1.0,1,3,0.3,1,3,0.06,1,1.0,0.00012540757461750688
-1310,Geladeira Duplex Inverter Frost Free com 425 Litros BB53 Panasonic,7896067226650,geladeiras,884.5510833263397,1,1,1.0,1,5,0.5,1,5,0.1,1,1.0,0.00012540757461750688
-1325,Refrigerador Philco 403 Litros Inverter French Door Inverse Inox PRF411I – 220 Volts,7891356083761,geladeiras,884.5510833263397,1,1,1.0,1,3,0.3,1,4,0.08,1,1.0,0.00012540757461750688
-1345,Geladeira Samsung RF49A Inverter Frost Free 3 Portas com Dispenser de Água 470L Inox Look,8806090804274,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-1358,Frigobar Brastemp Retrô 76L Amarelo - Bra08by 127 V,7891129245709,geladeiras,884.5510833263397,1,1,1.0,1,2,0.2,1,2,0.04,1,1.0,0.00012540757461750688
-1371,Geladeira/Refrigerador Inverter Top Freezer 431L Platinum (IF55S) 127V,7896584098037,geladeiras,884.5510833263397,1,1,1.0,1,2,0.2,1,2,0.04,1,1.0,0.00012540757461750688
-1376,"Geladeira, resistente ao calor com indicação de LED para uso doméstico para geladeira grande",9330192319538,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-1379,Refrigerador Philco Inverter 489L Side By Side Inox Frost Free 220V PRF504I,7891356084607,geladeiras,884.5510833263397,1,1,1.0,1,2,0.2,1,2,0.04,1,1.0,0.00012540757461750688
-1400,Geladeira Consul Frost Free 342 litros cor Inox com Gavetão Hortifruti - CRB39AK 110V,7891129245471,geladeiras,884.5510833263397,1,1,1.0,1,5,0.5,1,5,0.1,1,1.0,0.00012540757461750688
-1410,Geladeira / Refrigerador Brastemp Duplex BRM44 Frost Free 375 Litros - Branco - 110V,7891129252707,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,4,0.08,1,1.0,0.00012540757461750688
-1414,Refrigerador Consul Frost Free Duplex 410L com Espaço Flex Inox 220V CRM50HKBNA,7891129506039,geladeiras,884.5510833263397,1,1,1.0,1,3,0.3,1,3,0.06,1,1.0,0.00012540757461750688
-1460,"Mini Geladeira AstroAI, Portátil - ac/dc, 4L (6 Latas), 12V, Azul",850289769477,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-1505,Refrigerador Brastemp Side By Side Inverse 540 L Inox 110v,7891129219939,geladeiras,884.5510833263397,1,1,1.0,1,2,0.2,1,2,0.04,1,1.0,0.00012540757461750688
-1531,Frigobar Midea 124 Litros Branco MRC12B2 - 220V,7898626573854,geladeiras,884.5510833263397,1,1,1.0,1,7,0.7,1,7,0.14,1,1.0,0.00012540757461750688
-1543,Refrigerador Smart LG 601 Litros Side by Side com IceWater e System e LG ThinQ Inox GC-L247SLUV – 127 Volts,8806098548958,geladeiras,884.5510833263397,1,1,1.0,1,4,0.4,1,4,0.08,1,1.0,0.00012540757461750688
-1548,Geladeira Midea Md-rt453fga042 425 Litros Frost Free Duplex Inox 220V,7908198000686,geladeiras,884.5510833263397,1,1,1.0,1,2,0.2,1,6,0.12,1,1.0,0.00012540757461750688
-1565,Geladeira Brastemp Frost Free Inverse 573 litros cor Inox com Smart Bar - BRE80AK 110V,7891129236707,geladeiras,884.5510833263397,1,1,1.0,1,4,0.4,1,6,0.12,1,1.0,0.00012540757461750688
-1570,Frigobar 45 Litros Preto Inox Classe A Midea Mrc06B1-X 127V,7908198002789,geladeiras,884.5510833263397,1,1,1.0,1,2,0.2,1,2,0.04,1,1.0,0.00012540757461750688
-1586,Freezer Horizontal Consul 309L - CHA31EB 220V,7891129098831,geladeiras,884.5510833263397,1,1,1.0,1,2,0.2,1,2,0.04,1,1.0,0.00012540757461750688
-1597,Refrigerador Electrolux 538L Multidoor DM85X,7896584072037,geladeiras,884.5510833263397,1,1,1.0,1,2,0.2,1,2,0.04,1,1.0,0.00012540757461750688
-1610,Refrigerador Brastemp 2 Portas Evox 375L Frost Free 127V,7891129252769,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-1612,"HOLPPO Mini geladeira branca de 10 litros com isolamento compacto e portátil, adequado para quarto, escritório, dormitório, adequado para cuidados com a pele e cosméticos (cor: rosa)",6939599516606,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-1617,Refrigerador Brastemp Frost Free Duplex 462 Litros com Turbo Control Branca BRM56AB – 127 Volts,7891129250086,geladeiras,884.5510833263397,1,1,1.0,1,5,0.5,1,8,0.16,1,1.0,0.00012540757461750688
-1634,Refrigerador Midea Frost Free Side by Side 528 Litros Inox MD-RS587 – 220 Volts,7908198000822,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-1671,Geladeira Brastemp Inverse Frost Free 460 litros - BRE59 Branco 110v,7891129252110,geladeiras,884.5510833263397,1,1,1.0,1,3,0.3,1,3,0.06,1,1.0,0.00012540757461750688
-1692,Frigobar Philco PFG85PL Inox 67L - 110v,7891356078552,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-1767,Refrigerador Consul CRA30 261 Litros Degelo Seco Branco 220v,7891129186415,geladeiras,884.5510833263397,0,0,0.0,1,1,0.1,1,1,0.02,10,0.1,0.001254075746175069
-1826,Refrigerador French Door Samsung de 03 Portas Frost Free com 530 Litros e Twin Cooling Plus Inox - RF23R6301SR,8801643928377,geladeiras,884.5510833263397,1,1,1.0,1,4,0.4,1,6,0.12,1,1.0,0.00012540757461750688
-1882,Refrigerador Brastemp 375l 2 Portas Evox Frost Free 127V,7891129252721,geladeiras,884.5510833263397,1,1,1.0,1,4,0.4,1,8,0.16,1,1.0,0.00012540757461750688
-1899,HOLPPO Mini geladeira 4L Carro Casa Duplo Uso Dormitório Dormitório Doméstico Refrigerado Carro Geladeira Medicamento Refrigerado (Cor: Vermelho),6939599516903,geladeiras,884.5510833263397,1,1,1.0,1,2,0.2,1,2,0.04,1,1.0,0.00012540757461750688
-1904,"Homyl Frigorífico pequeno, refrigeração e aquecimento de para bebidas automáticas ao ar livre",783268345242,geladeiras,884.5510833263397,1,1,1.0,1,3,0.3,1,3,0.06,1,1.0,0.00012540757461750688
-1910,Geladeira Panasonic Frost Free 480L NR-BB71GVFB Black Glass - 110v,7896067227503,geladeiras,884.5510833263397,1,1,1.0,1,2,0.2,1,2,0.04,1,1.0,0.00012540757461750688
-1957,"RCA Geladeira RFR834 com tampa dupla para freezer de 3,2 metros e aço inoxidável",58465747633,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-1985,Refrigerador / Geladeira Continental Frost Free 2 Portas 370 Litros - TC41S,7909569003114,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-2006,Refrigerador Philco 498 Litros 4 Portas Inox PRF510I – 127 Volts,7891356084034,geladeiras,884.5510833263397,0,0,0.0,0,0,0.0,1,2,0.04,15,0.06666666666666667,0.0018811136192626034
-2011,Refrigerador Facilite 1 Porta 300L Branco Frost Free Consul 220V,7891129180574,geladeiras,884.5510833263397,1,1,1.0,1,2,0.2,1,4,0.08,1,1.0,0.00012540757461750688
-2038,"Geladeira Portátil Maquiagem,Refrigerador Porta única 6l,Mini-geladeira Baixo Nível Ruído Para Carro,Geladeira Portátil Para Maquiagem,Micro-geladeira Com Alça,Freezer Fácil Usar",8222618421127,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-2053,Refrigerador Samsung 432 Litros 2 Portas Frost Free Inverter RL4353RBASL,8806090580413,geladeiras,884.5510833263397,1,1,1.0,1,4,0.4,1,4,0.08,1,1.0,0.00012540757461750688
-2104,Frigobar Retrô Vermelho Rubi 95L Midea,7908198003076,geladeiras,884.5510833263397,1,1,1.0,1,3,0.3,1,3,0.06,1,1.0,0.00012540757461750688
-2140,Refrigerador Consul 386l Frost Free Classe A Crm43 Platinum 220v,7891129240643,geladeiras,884.5510833263397,1,1,1.0,1,4,0.4,1,4,0.08,1,1.0,0.00012540757461750688
-2146,Mini Geladeira Portátil Multilaser Branca 6 Litros Trivolt 12/110/,7899838854748,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-2181,Refrigerador Ngv 10 Branco,7899552101357,geladeiras,884.5510833263397,1,1,1.0,1,2,0.2,1,2,0.04,1,1.0,0.00012540757461750688
-2192,Frigobar Vermelho Philco 121L Vintage 110V - PFG120,7891356070969,geladeiras,884.5510833263397,1,1,1.0,1,3,0.3,1,3,0.06,1,1.0,0.00012540757461750688
-2195,Frigobar Midea 45 Litros MRC06B2 Branco,7898626573809,geladeiras,884.5510833263397,1,1,1.0,1,3,0.3,1,3,0.06,1,1.0,0.00012540757461750688
-2205,Refrigerador Electrolux Infinity 2 Portas 553L Frost Free Branco 220V DF82,7896584072389,geladeiras,884.5510833263397,1,1,1.0,1,2,0.2,1,3,0.06,1,1.0,0.00012540757461750688
-2211,Geladeira/Refrigerador Philco Side By Side PRF504I Inox 489L - 220v,7891356084591,geladeiras,884.5510833263397,0,0,0.0,1,2,0.2,1,2,0.04,8,0.125,0.001003260596940055
-2217,Frigobar eos Ice Compact 93 Litros Preto Efb101P 220V,736532819574,geladeiras,884.5510833263397,1,1,1.0,1,2,0.2,1,2,0.04,1,1.0,0.00012540757461750688
-2250,Refrigerador Midea Top Mount Freezer 480L 127V,7908198000709,geladeiras,884.5510833263397,1,1,1.0,1,4,0.4,1,5,0.1,1,1.0,0.00012540757461750688
-2353,Geladeira Consul Inverse CRE44AK 397 L Branco,7891129499737,geladeiras,884.5510833263397,1,1,1.0,1,4,0.4,1,5,0.1,1,1.0,0.00012540757461750688
-2379,Geladeira Consul Frost Free Duplex CRM56 450L Espaço Flex Inox com Painel Eletrônico Externo - 220v,7891129506114,geladeiras,884.5510833263397,0,0,0.0,1,2,0.2,1,2,0.04,3,0.3333333333333333,0.0003762227238525207
-2419,Refrigerador 474L Electrolux Top Freezer Frost Free Df56,7896584097917,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-2472,"Crownful CF-PC4LBLK Mini Geladeira para Skincare 4 Litros Portátil, 110V/12V, Preta.",850014439101,geladeiras,884.5510833263397,1,1,1.0,1,2,0.2,1,2,0.04,1,1.0,0.00012540757461750688
-2481,Geladeira Side by Side Brastemp 4 Portas Frost Free Inverse 543L BRO90AK,7891129519749,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-2485,Cervejeira Consul smartbeer Carbono - CZE12AE 220V,7891129265622,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-2535,Geladeira Samsung Evolution RT46 com PowerVolt Inverter Duplex 460L - Branca,8806090569715,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-2559,Freezer Vertical Consul 231 Litros - CVU26EB 110V,7891129208834,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-2586,Kit Geladeira Inverter Frost Free French Door 530L Inox Look (110v) E Refil Filtro Àgua,1000043484460,geladeiras,884.5510833263397,1,1,1.0,1,2,0.2,1,2,0.04,1,1.0,0.00012540757461750688
-2607,Geladeira Panasonic Frost Free 483L NR-BT55PV2X Aço Escovado - 110v,7896067226940,geladeiras,884.5510833263397,1,1,1.0,1,2,0.2,1,2,0.04,1,1.0,0.00012540757461750688
-2620,Geladeira Samsung RS65R Frost Free Side by Side 3portas com Dispenser de Água e Gelo 601L Inox,8806090389740,geladeiras,884.5510833263397,1,1,1.0,1,2,0.2,1,2,0.04,1,1.0,0.00012540757461750688
-2635,Frigobar 45 Litros Com Termostato Mrc06b2 Midea Branco 220v,9000505286511,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-2666,Refrigerador Brastemp 500 Litros Frost Free BRM57AK,7891129251588,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-2674,Geladeira/Refrigerador Electrolux Duplex TF55 Top Freezer 431L Branca - 110V,7896584097856,geladeiras,884.5510833263397,1,1,1.0,1,2,0.2,1,4,0.08,1,1.0,0.00012540757461750688
-2702,"Kit Lava&Seca Wd11A 11Kg 110V, Geladeira Rt38 385L Inverter Bivolt E Aspirador Robô Vr5000",1000043606398,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-2772,Geladeira/Refrigerador Electrolux Frost Free Bottom DB44 400 Litros Branco - 220v,7909569362488,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-2809,Geladeira Frigobar Compact Branca 45L Midea - Branco - 127,7898488388665,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-2890,Frigobar Britânia Bfg85pl 67 Litros 127v,7891356084430,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-2899,Frigobar Ngv 10 Preto Fosco,7898291103165,geladeiras,884.5510833263397,1,1,1.0,1,4,0.4,1,4,0.08,1,1.0,0.00012540757461750688
-2949,Refrigerador Side By Side Philco PRF504ID 486L Eco Inverter,7891356089985,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-2992,Refrigerador Ngv 10 Preto Fosco 12/24 V,7899552144385,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-2994,Refrigerador ngv 10 branco 12/24 V,7899552144682,geladeiras,884.5510833263397,1,1,1.0,1,2,0.2,1,2,0.04,1,1.0,0.00012540757461750688
-3036,"Frigobar Retrô, 95L, Preto, 110V, Midea, MRV10P1",7908198003045,geladeiras,884.5510833263397,1,1,1.0,1,2,0.2,1,2,0.04,1,1.0,0.00012540757461750688
-3058,Refrigerador 472 Litros Continental 2 Portas Frost Free Tc56,7909569003015,geladeiras,884.5510833263397,1,1,1.0,1,3,0.3,1,3,0.06,1,1.0,0.00012540757461750688
-3112,Refrigerador Midea Side by Side 528L Preto Midea,7908198002420,geladeiras,884.5510833263397,1,1,1.0,1,2,0.2,1,2,0.04,1,1.0,0.00012540757461750688
-3172,FRIGOBAR PFG85PL 220V,7891356078569,geladeiras,884.5510833263397,1,1,1.0,1,2,0.2,1,2,0.04,1,1.0,0.00012540757461750688
-3273,Geladeira Frost Free Electrolux 431 Litros IF55B Top Freezer Inverter Black 110V,7909569390238,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-3287,Geladeira Consul Frost Free Duplex CRM56 450L Espaço Flex Inox com Painel Eletrônico Externo - 110v,7891129506107,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-3359,Kit Refrigerador e Aquecedor DCW180Z Makita e 2 Baterias 18V 5.0Ah e Carregador,9900000309091,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-3367,Kit Geladeira Side by Side RS50N 501L Inox Look (110v) E Filtro/Refil de Água Interno,1000043407506,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-3521,Refrigerador Brastemp Inverse 419L 3 Portas Frost Free Preto 127V BRY59BE,7891129531451,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-3529,Geladeira/Refrigerador Samsung Side by Side RS65R5411M9 Inox Look 617L - 127v,8801643893521,geladeiras,884.5510833263397,1,1,1.0,1,3,0.3,1,5,0.1,1,1.0,0.00012540757461750688
-3564,"Mini refrigerador e aquecedor de 4 litros compacto portátil bonito refrigerador para quarto, casa, escritório, carro, dormitório ou barco (rosa)",765192251318,geladeiras,884.5510833263397,1,1,1.0,1,2,0.2,1,2,0.04,1,1.0,0.00012540757461750688
-3581,"Frigidaire EFMIS175-PINK Mini Geladeira Portátil Retrô Extra Grande 9-Can Viajar Geladeira Compacta, Rosa",58465816971,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-3604,Refrigerador Cycle Defrost 276 Litros rcd 34 - Esmaltec,7899081731308,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-3649,Geladeira/Refrigerador Frost Free cor Inox 310L Electrolux (TF39S),7896584080087,geladeiras,884.5510833263397,1,1,1.0,1,3,0.3,1,3,0.06,1,1.0,0.00012540757461750688
-3656,Refrigerador Geladeira Esmaltec 2 Portas 276 Litros Inox - Rcd34,7899081731421,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-3660,Geladeira Electrolux Frost Free 490l Inverse Inverter Com Autosense Branca Ib54 - 127v,7909569362556,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-3671,"Geladeira Brastemp Frost Free BRO80AB 540,6L Branca",7891129219922,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-3685,Refrigerador Midea French Door Inverter Quattro 482 Litros Inox MD-RF556 – 220 Volts,7908198000846,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-3714,Refrigerador Electrolux 475L Duplex Clycle DeFrost,7896584053470,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-3715,Geladeira Frost Free Inverse 435 Litros Inox Samsung 220v,8806090165702,geladeiras,884.5510833263397,1,1,1.0,1,2,0.2,1,2,0.04,1,1.0,0.00012540757461750688
-3748,Refrigerador Electrolux Tf42s f. f. 2p 382l Platinum,7896584080049,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-3789,Refrigerador Smart LG Side By Side 601 Litros Inox 220V GC-L247SLUV,8806098548989,geladeiras,884.5510833263397,0,0,0.0,1,2,0.2,1,2,0.04,3,0.3333333333333333,0.0003762227238525207
-4003,Frigobar Retrô Philco PFG100RV 87L,7891356086779,geladeiras,884.5510833263397,1,1,1.0,1,2,0.2,1,2,0.04,1,1.0,0.00012540757461750688
-4036,Refrigerador Brastemp Ative BRM50 429 Litros Gavetão Multiuso Branco 220v,7891129198746,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-4092,Geladeira Conservador Refrigerador Vertical 402 Litros com Iluminação Led Total Black VCFM402 Fricon,7899461859998,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-4118,Iceco JP40 Mini Geladeira Automotiva Portátil 12V/110-220V 40L.,6412792344011,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-4220,Refrigerador Philco 434 Litros Side By Side Eco Inverter Inox PRF533ID – 127 Volts,7891356086908,geladeiras,884.5510833263397,1,1,1.0,1,2,0.2,1,2,0.04,1,1.0,0.00012540757461750688
-4363,Mini refrigerador de geladeira USB vermelho ThreeH para refrigerador/aquecedor de bebidas para laptop PC preto H-UF05Black,702865445124,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-4466,Geladeira Electrolux Top Freezer Frost Free Efficient Black Inox Look com Tecnologia Autosense (IF55B),7909569390245,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-4474,Geladeira Consul Frost Free Duplex CRM50 410L Espaço Flex Branca com Controle Interno de Temperatura - 220v,7891129506015,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-4648,"Newmind Mini geladeira portátil, mais quente, resfriamento de baixo ruído, aquecimento 12 v 6 l, geladeira pequena para viagens, bebidas, cuidados",607974148075,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-4742,Geladeira/Refrigerador Continental TC44 Branca 394L Top Freezer - 110v,7909569003053,geladeiras,884.5510833263397,1,1,1.0,1,2,0.2,1,2,0.04,1,1.0,0.00012540757461750688
-4814,Mini Geladeira 15 Litros cinza Mini Cool,7898656530025,geladeiras,884.5510833263397,0,0,0.0,1,1,0.1,1,1,0.02,8,0.125,0.001003260596940055
-4900,Refrigerador Electrolux Inverter Top Freezer 431L Branco 220V IF55,7896584098020,geladeiras,884.5510833263397,1,1,1.0,1,2,0.2,1,2,0.04,1,1.0,0.00012540757461750688
-4903,Geladeira Panasonic Frost Free 425L A+++ Black Glass - NR-BB53GV3B,7896067226643,geladeiras,884.5510833263397,1,1,1.0,1,2,0.2,1,2,0.04,1,1.0,0.00012540757461750688
-5015,Geladeira/Refrigerador Electrolux DC35A Branca 260L Cycle Defrost - 110v,7896584056549,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-5020,Refrigerador Consul 386L 2 Portas Frost Free Branco 220v,7891129240629,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-5024,Geladeira CRM43NK Frost Free Duplex 386 litros com Prateleira Dobrável Consul,7891129246744,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-5048,Geladeira Philco 554 Litros PRF600I Side by Side Frost Free Eco Inverter Inox,7891356084492,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-5049,"Frigobar Retrô, 95L, Vermelho Rubi, 110V, Midea, MRV10V1",7908198003069,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-5221,Geladeira Frost Free Bottom Freezer Inverter Branco 454 Litros (IB53) - 127v,7896584072327,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-5285,"Refrigerador French Door 482l Midea 110v Inox Frost Free, Maxi Freezer, Inverter Quattro - Mdrf55",7908198000853,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-5288,Geladeira Brastemp Frost Free Duplex 478 litros cor Inox com Freezer Control Advanced - BRM59AK 220V,7891129252028,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-5504,"Mini Geladeira Coca Cola Vintage 8 Latas Bivolt, Koolatron, Vermelho",59586600876,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-5604,Refrigerador LG Side By Side UVnano gc L257SLPL Aço Escovado 601L 127V,8806091457202,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-5840,"Geladeira / Refrigerador Brastemp Frost Free Evox BRY59BK, 419 Litros",7891129531482,geladeiras,884.5510833263397,1,1,1.0,1,2,0.2,1,2,0.04,1,1.0,0.00012540757461750688
-5915,Refrigerador Panasonic NR-BB53PV3WB 425L Branco,7896067226827,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-6073,Refrigerador Panasonic Bb53pv3xb 425 L Inox Frost Free,7896067226841,geladeiras,884.5510833263397,0,0,0.0,1,1,0.1,1,1,0.02,9,0.1111111111111111,0.001128668171557562
-6127,"HOLPPO Mini geladeira Mini geladeira Skin Care20L Compact Mini geladeira - Ideal para quarto ou escritório Mamadeiras, latas, fluidos de beleza, hidratantes e cosméticos (cor: prata)",6939599516873,geladeiras,884.5510833263397,1,1,1.0,1,2,0.2,1,2,0.04,1,1.0,0.00012540757461750688
-6201,Refrigerador Brastemp Inverse 3 BRY59 419 Litros Evox - 110v,7891129531475,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-6301,Refrigerador Frost Free Branco 370Litros (TC41) - Continental,7909569003107,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-7060,Refrigerador Electrolux 2 Portas 370 L Frost Free Dfx41 Inox 220v,7896584071979,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
-7769,Refrigerador 572 litros com LED VB52AH 110V metalfrio,7899908759751,geladeiras,884.5510833263397,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00012540757461750688
+indice,titulo,ean,url,categoria,tempo,k-1,k-1-qtd,k-1-qtd/1,k-10,k-10-qtd,k-10-qtd/10,k-50,k-50-qtd,k-50-qtd/50,match_rank,1/match_rank,match_rank/total
+10,Frigobar 117L consul - CRC12CBBNA,7891129224070,https://www.americanas.com.br/produto/4883384924,geladeiras,196.25342679023743,1,1,1.0,1,2,0.2,1,2,0.04,1,1.0,0.00023946360153256704
+23,Refrigerador Frost Free Duplex 340litros CRM39AKANA Consul,7891129514232,https://www.americanas.com.br/produto/4837906955,geladeiras,196.25342679023743,0,0,0.0,1,2,0.2,1,2,0.04,2,0.5,0.0004789272030651341
+86,Geladeira Brastemp Frost Free 2 Portas BRM56 462L Inox - 110v,7891129251571,https://www.americanas.com.br/produto/132718911,geladeiras,196.25342679023743,0,0,0.0,1,1,0.1,1,1,0.02,2,0.5,0.0004789272030651341
+93,Geladeira Consul Frost Free Duplex 397 litros com Freezer Embaixo cor inox - CRE44AK 110V,7891129499751,https://www.amazon.com.br/gp/offer-listing/B07WGQQRXN,geladeiras,196.25342679023743,0,0,0.0,1,1,0.1,1,1,0.02,9,0.1111111111111111,0.0021551724137931034
+98,Geladeira Consul Frost Free Duplex CRM50 410L Espaço Flex Inox com Controle Interno de Temperatura - 110v,7891129506022,https://www.americanas.com.br/produto/3144925483,geladeiras,196.25342679023743,0,0,0.0,0,0,0.0,1,2,0.04,19,0.05263157894736842,0.004549808429118774
+104,Refrigerador Philco Side By Side PRF533I 220v,7891356086892,https://www.americanas.com.br/produto/3419495292,geladeiras,196.25342679023743,0,0,0.0,1,2,0.2,1,2,0.04,2,0.5,0.0004789272030651341
+126,Geladeira Consul Cycle Defrost Duplex 334 Litros CRD37EB,7891129195455,https://www.americanas.com.br/produto/3072040175,geladeiras,196.25342679023743,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00023946360153256704
+135,Geladeira Consul Frost Free Duplex 386 litros Branca com Prateleira Dobrável,7891129246737,https://www.americanas.com.br/produto/5148393445,geladeiras,196.25342679023743,0,0,0.0,0,0,0.0,0,0,0.0,103,0.009708737864077669,0.024664750957854406
+157,Geladeira Frost Free DB84 Electrolux 598 Litros Duplex Branco 110V,7896584073553,https://www.americanas.com.br/produto/5141300429,geladeiras,196.25342679023743,0,0,0.0,1,1,0.1,1,2,0.04,4,0.25,0.0009578544061302681
+188,Geladeira Duplex Invertida 397 Litros CRE44 Frost Free Consul,7891129499768,https://www.americanas.com.br/produto/5010355702,geladeiras,196.25342679023743,0,0,0.0,0,0,0.0,1,1,0.02,19,0.05263157894736842,0.004549808429118774
+201,Refrigerador Brastemp Frost Free Duplex 375 Litros com Espaço Adapt Branco BRM45HB – 127 Volts,7891129252745,https://www.americanas.com.br/produto/2765640368,geladeiras,196.25342679023743,1,1,1.0,1,1,0.1,1,2,0.04,1,1.0,0.00023946360153256704
+214,Refrigerador / Geladeira Continental Frost Free 2 Portas 370 Litros - TC41,7909569003091,https://www.americanas.com.br/produto/3735416648,geladeiras,196.25342679023743,0,0,0.0,1,3,0.3,1,4,0.08,2,0.5,0.0004789272030651341
+245,Frigobar Consul 117L CRC12 - 110V,7891129224063,https://www.americanas.com.br/produto/119934610,geladeiras,196.25342679023743,0,0,0.0,1,2,0.2,1,2,0.04,3,0.3333333333333333,0.0007183908045977011
+271,Geladeira Panasonic Generation Frost Free 435L Aço Escovado,7896067226964,https://www.americanas.com.br/produto/3326995394,geladeiras,196.25342679023743,0,0,0.0,1,1,0.1,1,1,0.02,6,0.16666666666666666,0.0014367816091954023
+285,Refrigerador Panasonic NR-BB53GV3WAB 425L White Glass,7896067227145,https://www.americanas.com.br/produto/2449594152,geladeiras,196.25342679023743,0,0,0.0,1,1,0.1,1,1,0.02,3,0.3333333333333333,0.0007183908045977011
+286,Refrigerador Side Inverse Brastemp de 03 Portas Frost Free com 540 Litros Painel Eletrônico Inox - BRO81AR,7891129491717,https://www.americanas.com.br/produto/1546721889,geladeiras,196.25342679023743,0,0,0.0,1,1,0.1,1,1,0.02,4,0.25,0.0009578544061302681
+323,Refrigerador Side by Side LG New Lancaster Instaview 601 litros 220v - GC-X247CSBV,8806098346189,https://www.americanas.com.br/produto/227203881,geladeiras,196.25342679023743,0,0,0.0,1,1,0.1,1,1,0.02,5,0.2,0.0011973180076628352
+357,Geladeira Brastemp Frost Free 375 litros cor inox - BRM45HK 220V,7891129252776,https://www.amazon.com.br/Geladeira-Brastemp-Duplex-litros-Espa%C3%A7o/dp/B07JBHRNLK,geladeiras,196.25342679023743,0,0,0.0,0,0,0.0,1,1,0.02,40,0.025,0.009578544061302681
+369,Refrigerador / Geladeira LG Bottom Freezer Universe Refresh 451L,8806098423927,https://www.americanas.com.br/produto/5017788826,geladeiras,196.25342679023743,1,1,1.0,1,2,0.2,1,3,0.06,1,1.0,0.00023946360153256704
+372,Refrigerador Consul Frost Free 342 Litros Com Controle De Temperatura Crb39 Branco 220v,7891129185418,https://www.americanas.com.br/produto/5200633161,geladeiras,196.25342679023743,1,1,1.0,1,2,0.2,1,2,0.04,1,1.0,0.00023946360153256704
+379,Geladeira Top Freezer DW44S Com Dispenser de Água Platinum 400L,7896584097993,https://www.americanas.com.br/produto/83562531,geladeiras,196.25342679023743,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00023946360153256704
+410,Geladeira Brastemp Frost Free Side Inverse 540 litros cor Inox com Ice Maker - BRO80AK 220V,7891129220010,https://www.amazon.com.br/Geladeira-Frost-Inverse-Portas-Platinum/dp/B076B9DHN4,geladeiras,196.25342679023743,0,0,0.0,0,0,0.0,1,1,0.02,11,0.09090909090909091,0.0026340996168582377
+429,Refrigerador ngv 10 vermelho 12/24 V,7899552144378,https://www.americanas.com.br/produto/3653184222,geladeiras,196.25342679023743,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00023946360153256704
+435,"Refrigerador Philco 467 Litros PRF505TI, Frost Free, Inverter, 2 Portas, Inox 110V",7891356090592,https://www.americanas.com.br/produto/5189296385,geladeiras,196.25342679023743,0,0,0.0,1,1,0.1,1,1,0.02,4,0.25,0.0009578544061302681
+442,Refrigerador Smart LG Side By Side Door In Door 601L Inox 220V GS65SDN1,6934585684468,https://www.americanas.com.br/produto/4914217521,geladeiras,196.25342679023743,0,0,0.0,1,3,0.3,1,4,0.08,3,0.3333333333333333,0.0007183908045977011
+499,Geladeira/Refrigerador Samsung French Door RF27T5501SG Black Inox 614L Family Hub SmartThings (Wi-Fi) - 127v,8806090402944,https://www.americanas.com.br/produto/2492546025,geladeiras,196.25342679023743,0,0,0.0,1,1,0.1,1,1,0.02,3,0.3333333333333333,0.0007183908045977011
+501,Geladeira Consul Cycle Defrost Duplex CRD37EB 334 litros com Freezer Supercapacidade Branca - 110V,7891129195448,https://www.americanas.com.br/produto/110267814,geladeiras,196.25342679023743,0,0,0.0,0,0,0.0,0,0,0.0,80,0.0125,0.019157088122605363
+531,Refrigerador Continental Tc56 Frost Free Duplex 472 Litros,7909569003022,https://www.americanas.com.br/produto/2298984451,geladeiras,196.25342679023743,0,0,0.0,1,3,0.3,1,4,0.08,3,0.3333333333333333,0.0007183908045977011
+557,Refrigerador Esmaltec RCD34 Black 276L 2 Portas,7899081732084,https://www.americanas.com.br/produto/247379251,geladeiras,196.25342679023743,0,0,0.0,1,1,0.1,1,1,0.02,2,0.5,0.0004789272030651341
+582,Geladeira/Refrigerador Frost Free Electrolux 322L Branco (RFE39) 127V,7896584060478,https://www.amazon.com.br/gp/offer-listing/B076BB82XH,geladeiras,196.25342679023743,0,0,0.0,1,1,0.1,1,1,0.02,9,0.1111111111111111,0.0021551724137931034
+607,Geladeira / Refrigerador Panasonic Duplex NR-BT55PV2WB Top Freezer Frost Free 483L Branco,7896067226933,https://www.americanas.com.br/produto/2174972951,geladeiras,196.25342679023743,1,1,1.0,1,2,0.2,1,2,0.04,1,1.0,0.00023946360153256704
+608,Refrigerador Multi Door Cinza Cuisinart Arkton,7899100675002,https://www.americanas.com.br/produto/3293231240,geladeiras,196.25342679023743,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00023946360153256704
+618,Frigobar Philco 85l Porta De Vidro Pfg85pg 127v,7891356078057,https://www.americanas.com.br/produto/4707065342,geladeiras,196.25342679023743,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00023946360153256704
+622,Refrigerador Philco Side By Side 437L Eco Inverter 127v,7891356086885,https://www.americanas.com.br/produto/3374195068,geladeiras,196.25342679023743,0,0,0.0,1,2,0.2,1,3,0.06,3,0.3333333333333333,0.0007183908045977011
+662,REFRIGERADOR NGV 10 AMARELO,7899552101388,https://www.americanas.com.br/produto/3116181931,geladeiras,196.25342679023743,0,0,0.0,1,1,0.1,1,2,0.04,7,0.14285714285714285,0.0016762452107279694
+666,Refrigerador ngv 10 amarelo 12/24 V,7899552144361,https://www.americanas.com.br/produto/3652278577,geladeiras,196.25342679023743,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00023946360153256704
+701,Refrigerador 400 Litros Brastemp 2 Portas Frost Free BRM54HB,7891129252837,https://www.americanas.com.br/produto/2963093650,geladeiras,196.25342679023743,0,0,0.0,1,1,0.1,1,3,0.06,2,0.5,0.0004789272030651341
+719,"Geladeira/Refrigerador Philco Side by Side PRF520DI, Frost Free, 2 Portas, 520 Litros, Inox",7891356080067,https://www.americanas.com.br/produto/1620824490,geladeiras,196.25342679023743,0,0,0.0,0,0,0.0,1,1,0.02,22,0.045454545454545456,0.005268199233716475
+745,Mini Geladeira 15 Litros preta Mini Cool,7898656530018,https://www.americanas.com.br/produto/36649330,geladeiras,196.25342679023743,0,0,0.0,1,1,0.1,1,1,0.02,4,0.25,0.0009578544061302681
+752,Geladeira/Refrigerador Consul 386 Litros 2 Portas Frost Free Classe A CRM43,7891129246720,https://www.americanas.com.br/produto/4734543434,geladeiras,196.25342679023743,1,1,1.0,1,1,0.1,1,3,0.06,1,1.0,0.00023946360153256704
+780,Frigobar 79L Electrolux - Re80 110V,7896584035544,https://www.americanas.com.br/produto/4883384617,geladeiras,196.25342679023743,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00023946360153256704
+782,Refrigerador Philco French Door 403l PRF411I Inverter 127V,7891356083754,https://www.americanas.com.br/produto/4019971528,geladeiras,196.25342679023743,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00023946360153256704
+804,Refrigerador ngv 10 vermelho,7899552101401,https://www.americanas.com.br/produto/3193713997,geladeiras,196.25342679023743,0,0,0.0,1,1,0.1,1,1,0.02,2,0.5,0.0004789272030651341
+814,Mini Geladeira Frigobar Multilaser Portatil 10l 110/12v,7899838866574,https://www.americanas.com.br/produto/2285235574,geladeiras,196.25342679023743,0,0,0.0,1,1,0.1,1,3,0.06,8,0.125,0.0019157088122605363
+828,Frigobar Midea 71 Litros Branco MRC08B1 110v 110v,7908198000150,https://www.americanas.com.br/produto/2611763074,geladeiras,196.25342679023743,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00023946360153256704
+870,Frigobar 93 Litros Inox Classe A 220V Midea MRC10B2-X,7908198000587,https://www.americanas.com.br/produto/4243108307,geladeiras,196.25342679023743,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00023946360153256704
+890,Refrigerador Consul 386l Frost Free - Crm43 Platinum 110v,7891129240636,https://www.americanas.com.br/produto/4897922501,geladeiras,196.25342679023743,0,0,0.0,1,2,0.2,1,3,0.06,2,0.5,0.0004789272030651341
+926,Geladeira Electrolux DFX41 Frost Free Duplex 371 Litros Inox,7896584071962,https://www.americanas.com.br/produto/5079367613,geladeiras,196.25342679023743,0,0,0.0,1,1,0.1,1,1,0.02,4,0.25,0.0009578544061302681
+931,"Geladeira/Refrigerador Panasonic 435 Litros NR-BT51PV3, Frost Free, 2 Portas, Econavi, Aço Escovado",7896067226971,https://www.americanas.com.br/produto/48004110,geladeiras,196.25342679023743,0,0,0.0,0,0,0.0,1,1,0.02,28,0.03571428571428571,0.006704980842911878
+932,Geladeira/Refrigerador Samsung Duplex RT38K5A0KS9 Inox Look 385L com All-Around Cooling - Bivolt,8806090569678,https://www.americanas.com.br/produto/2492540678,geladeiras,196.25342679023743,0,0,0.0,0,0,0.0,1,1,0.02,23,0.043478260869565216,0.005507662835249042
+934,Refrigerador Geladeira Electrolux Frost Free 2 Portas 310L Tf39 Branco 110V,7896584080063,https://www.americanas.com.br/produto/4882326845,geladeiras,196.25342679023743,0,0,0.0,1,1,0.1,1,1,0.02,6,0.16666666666666666,0.0014367816091954023
+940,Refrigerador Panasonic 480 Litros BB71 Bottom Freezer Aço Escovado 127V,7896067227480,https://www.americanas.com.br/produto/4190642724,geladeiras,196.25342679023743,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00023946360153256704
+994,Refrigerador LG Side By Side New Lancaster 601L Door In Door Aço Escovado 110V GS65SDN,6934585684475,https://www.amazon.com.br/Refrigerador-LG-Lancaster-Escovado-GS65SDN/dp/B07B5166WN,geladeiras,196.25342679023743,0,0,0.0,1,3,0.3,1,3,0.06,2,0.5,0.0004789272030651341
+1001,Geladeira LG Smart French Door InstaView Door In Door 525 Litros Preta 110V GR-X228NMSM,8806098602629,https://www.americanas.com.br/produto/2015106537,geladeiras,196.25342679023743,0,0,0.0,1,3,0.3,1,3,0.06,6,0.16666666666666666,0.0014367816091954023
+1043,Refrigerador Brastemp Ative Inverse Maxi BRE80 573 Litros Iluminação LED Branco 110,7891129206205,https://www.americanas.com.br/produto/111574111,geladeiras,196.25342679023743,0,0,0.0,1,1,0.1,1,1,0.02,4,0.25,0.0009578544061302681
+1100,Refrigerador 528 Litros 2 Portas Frost Free Side By Side Midea,7908198000839,https://www.americanas.com.br/produto/2487659586,geladeiras,196.25342679023743,0,0,0.0,0,0,0.0,1,1,0.02,47,0.02127659574468085,0.011254789272030651
+1129,Geladeira Gorenje Ion Generation 2 Portas Inverse Inox 220V NRK6192UX,3838942107108,https://www.americanas.com.br/produto/1649146451,geladeiras,196.25342679023743,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00023946360153256704
+1153,Geladeira Duplex Inverter Frost Free com 425 Litros BB53 Panasonic,7896067226650,https://www.americanas.com.br/produto/5010270338,geladeiras,196.25342679023743,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00023946360153256704
+1164,Refrigerador Philco 403 Litros Inverter French Door Inverse Inox PRF411I – 220 Volts,7891356083761,https://www.americanas.com.br/produto/2517532481,geladeiras,196.25342679023743,0,0,0.0,1,1,0.1,1,1,0.02,5,0.2,0.0011973180076628352
+1200,Geladeira/Refrigerador Inverter Top Freezer 431L Platinum (IF55S) 127V,7896584098037,https://www.amazon.com.br/Geladeira-Refrigerador-Electrolux-Inverter-Platinum/dp/B07QHDR9X1,geladeiras,196.25342679023743,0,0,0.0,1,1,0.1,1,1,0.02,3,0.3333333333333333,0.0007183908045977011
+1206,Refrigerador Philco Inverter 489L Side By Side Inox Frost Free 220V PRF504I,7891356084607,https://www.americanas.com.br/produto/2933866332,geladeiras,196.25342679023743,0,0,0.0,0,0,0.0,1,1,0.02,23,0.043478260869565216,0.005507662835249042
+1224,Geladeira Consul Frost Free 342 litros cor Inox com Gavetão Hortifruti - CRB39AK 110V,7891129245471,https://www.amazon.com.br/Geladeira-Consul-litros-Gavet%C3%A3o-Hortifruti/dp/B07FYR5P3M,geladeiras,196.25342679023743,1,1,1.0,1,2,0.2,1,2,0.04,1,1.0,0.00023946360153256704
+1234,Geladeira / Refrigerador Brastemp Duplex BRM44 Frost Free 375 Litros - Branco - 110V,7891129252707,https://www.americanas.com.br/produto/133257344,geladeiras,196.25342679023743,0,0,0.0,1,1,0.1,1,1,0.02,9,0.1111111111111111,0.0021551724137931034
+1307,Refrigerador Brastemp Side By Side Inverse 540 L Inox 110v,7891129219939,https://www.americanas.com.br/produto/4898686415,geladeiras,196.25342679023743,0,0,0.0,1,1,0.1,1,1,0.02,2,0.5,0.0004789272030651341
+1327,Frigobar Midea 124 Litros Branco MRC12B2 - 220V,7898626573854,https://www.americanas.com.br/produto/4929732067,geladeiras,196.25342679023743,1,1,1.0,1,2,0.2,1,3,0.06,1,1.0,0.00023946360153256704
+1334,Refrigerador Smart LG 601 Litros Side by Side com IceWater e System e LG ThinQ Inox GC-L247SLUV – 127 Volts,8806098548958,https://www.americanas.com.br/produto/3927047867,geladeiras,196.25342679023743,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00023946360153256704
+1337,Geladeira Midea Md-rt453fga042 425 Litros Frost Free Duplex Inox 220V,7908198000686,https://www.americanas.com.br/produto/3456342851,geladeiras,196.25342679023743,0,0,0.0,1,1,0.1,1,1,0.02,5,0.2,0.0011973180076628352
+1349,Geladeira Brastemp Frost Free Inverse 573 litros cor Inox com Smart Bar - BRE80AK 110V,7891129236707,https://www.amazon.com.br/Geladeira-Brastemp-Frost-Inverse-litros/dp/B07CJLD8G1,geladeiras,196.25342679023743,0,0,0.0,0,0,0.0,1,2,0.04,12,0.08333333333333333,0.0028735632183908046
+1375,Refrigerador Electrolux 538L Multidoor DM85X,7896584072037,https://www.americanas.com.br/produto/3661452645,geladeiras,196.25342679023743,0,0,0.0,0,0,0.0,1,1,0.02,42,0.023809523809523808,0.010057471264367816
+1392,Refrigerador Brastemp Frost Free Duplex 462 Litros com Turbo Control Branca BRM56AB – 127 Volts,7891129250086,https://www.americanas.com.br/produto/2765640931,geladeiras,196.25342679023743,1,1,1.0,1,1,0.1,1,2,0.04,1,1.0,0.00023946360153256704
+1429,Geladeira Brastemp Inverse Frost Free 460 litros - BRE59 Branco 110v,7891129252110,https://www.americanas.com.br/produto/132532210,geladeiras,196.25342679023743,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00023946360153256704
+1499,Refrigerador Consul CRA30 261 Litros Degelo Seco Branco 220v,7891129186415,https://www.americanas.com.br/produto/108770509,geladeiras,196.25342679023743,0,0,0.0,1,1,0.1,1,1,0.02,4,0.25,0.0009578544061302681
+1540,Refrigerador French Door Samsung de 03 Portas Frost Free com 530 Litros e Twin Cooling Plus Inox - RF23R6301SR,8801643928377,https://www.americanas.com.br/produto/3282011874,geladeiras,196.25342679023743,0,0,0.0,1,1,0.1,1,2,0.04,4,0.25,0.0009578544061302681
+1578,Refrigerador Brastemp 375l 2 Portas Evox Frost Free 127V,7891129252721,https://www.americanas.com.br/produto/5188880918,geladeiras,196.25342679023743,0,0,0.0,1,1,0.1,1,2,0.04,7,0.14285714285714285,0.0016762452107279694
+1657,Refrigerador Philco 498 Litros 4 Portas Inox PRF510I – 127 Volts,7891356084034,https://www.americanas.com.br/produto/5176160243,geladeiras,196.25342679023743,0,0,0.0,1,1,0.1,1,1,0.02,7,0.14285714285714285,0.0016762452107279694
+1659,Refrigerador Facilite 1 Porta 300L Branco Frost Free Consul 220V,7891129180574,https://www.americanas.com.br/produto/4722127396,geladeiras,196.25342679023743,0,0,0.0,1,1,0.1,1,1,0.02,7,0.14285714285714285,0.0016762452107279694
+1742,Refrigerador Consul 386l Frost Free Classe A Crm43 Platinum 220v,7891129240643,https://www.americanas.com.br/produto/4883003415,geladeiras,196.25342679023743,0,0,0.0,1,1,0.1,1,1,0.02,2,0.5,0.0004789272030651341
+1769,Refrigerador Ngv 10 Branco,7899552101357,https://www.americanas.com.br/produto/3193711545,geladeiras,196.25342679023743,0,0,0.0,0,0,0.0,1,1,0.02,49,0.02040816326530612,0.011733716475095786
+1785,Refrigerador Electrolux Infinity 2 Portas 553L Frost Free Branco 220V DF82,7896584072389,https://www.americanas.com.br/produto/4722127433,geladeiras,196.25342679023743,0,0,0.0,1,1,0.1,1,1,0.02,6,0.16666666666666666,0.0014367816091954023
+1789,Geladeira/Refrigerador Philco Side By Side PRF504I Inox 489L - 220v,7891356084591,https://www.americanas.com.br/produto/1809493508,geladeiras,196.25342679023743,0,0,0.0,1,1,0.1,1,1,0.02,3,0.3333333333333333,0.0007183908045977011
+1813,Refrigerador Midea Top Mount Freezer 480L 127V,7908198000709,https://www.americanas.com.br/produto/2522755056,geladeiras,196.25342679023743,0,0,0.0,0,0,0.0,1,1,0.02,17,0.058823529411764705,0.0040708812260536395
+1871,Geladeira Consul Inverse CRE44AK 397 L Branco,7891129499737,https://www.americanas.com.br/produto/4305751171,geladeiras,196.25342679023743,1,1,1.0,1,2,0.2,1,2,0.04,1,1.0,0.00023946360153256704
+1883,Geladeira Consul Frost Free Duplex CRM56 450L Espaço Flex Inox com Painel Eletrônico Externo - 220v,7891129506114,https://www.americanas.com.br/produto/5198665517,geladeiras,196.25342679023743,0,0,0.0,1,1,0.1,1,1,0.02,2,0.5,0.0004789272030651341
+2058,Geladeira/Refrigerador Electrolux Duplex TF55 Top Freezer 431L Branca - 110V,7896584097856,https://www.americanas.com.br/produto/1808805725,geladeiras,196.25342679023743,0,0,0.0,0,0,0.0,1,1,0.02,14,0.07142857142857142,0.003352490421455939
+2182,Frigobar Britânia Bfg85pl 67 Litros 127v,7891356084430,https://www.americanas.com.br/produto/4707063005,geladeiras,196.25342679023743,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00023946360153256704
+2187,Frigobar Ngv 10 Preto Fosco,7898291103165,https://www.americanas.com.br/produto/115147061,geladeiras,196.25342679023743,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00023946360153256704
+2239,Refrigerador Ngv 10 Preto Fosco 12/24 V,7899552144385,https://www.americanas.com.br/produto/2986962539,geladeiras,196.25342679023743,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00023946360153256704
+2269,"Frigobar Retrô, 95L, Preto, 110V, Midea, MRV10P1",7908198003045,https://www.amazon.com.br/Frigobar-Retr%C3%B4-Preto-Midea-MRV10P1/dp/B09FVKJMSY,geladeiras,196.25342679023743,0,0,0.0,1,1,0.1,1,1,0.02,2,0.5,0.0004789272030651341
+2279,Refrigerador 472 Litros Continental 2 Portas Frost Free Tc56,7909569003015,https://www.americanas.com.br/produto/1943546471,geladeiras,196.25342679023743,0,0,0.0,0,0,0.0,1,1,0.02,27,0.037037037037037035,0.00646551724137931
+2520,Geladeira/Refrigerador Samsung Side by Side RS65R5411M9 Inox Look 617L - 127v,8801643893521,https://www.americanas.com.br/produto/2428078861,geladeiras,196.25342679023743,0,0,0.0,1,1,0.1,1,1,0.02,8,0.125,0.0019157088122605363
+2658,Refrigerador Smart LG Side By Side 601 Litros Inox 220V GC-L247SLUV,8806098548989,https://www.americanas.com.br/produto/3927019938,geladeiras,196.25342679023743,0,0,0.0,1,1,0.1,1,1,0.02,2,0.5,0.0004789272030651341
+3126,Mini Geladeira 15 Litros cinza Mini Cool,7898656530025,https://www.americanas.com.br/produto/32751118,geladeiras,196.25342679023743,0,0,0.0,1,1,0.1,1,1,0.02,5,0.2,0.0011973180076628352
+3162,Geladeira Panasonic Frost Free 425L A+++ Black Glass - NR-BB53GV3B,7896067226643,https://www.amazon.com.br/Refrigerador-Panasonic-Frost-Glass-NR-BB53GV3BA/dp/B07GWWZ4LQ,geladeiras,196.25342679023743,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00023946360153256704
+3305,"Refrigerador French Door 482l Midea 110v Inox Frost Free, Maxi Freezer, Inverter Quattro - Mdrf55",7908198000853,https://www.americanas.com.br/produto/4500928569,geladeiras,196.25342679023743,0,0,0.0,0,0,0.0,1,1,0.02,32,0.03125,0.007662835249042145
+3584,Refrigerador Panasonic Bb53pv3xb 425 L Inox Frost Free,7896067226841,https://www.americanas.com.br/produto/2466188181,geladeiras,196.25342679023743,0,0,0.0,1,1,0.1,1,1,0.02,4,0.25,0.0009578544061302681
+3898,Refrigerador Electrolux 2 Portas 370 L Frost Free Dfx41 Inox 220v,7896584071979,https://www.americanas.com.br/produto/4899129531,geladeiras,196.25342679023743,1,1,1.0,1,1,0.1,1,1,0.02,1,1.0,0.00023946360153256704
