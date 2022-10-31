@@ -44,10 +44,10 @@ def concatenar_titulos(df_teste):
 
 def concatenar_df(df_teste, coluna_1 = "titulo_sa_1", coluna_2 = "titulo_sa_2", coluna_saida = 'titulo_sa'):
 
-    df_1 = df_teste.rename(columns = {coluna_1: coluna_saida, 'ean_1': 'ean'})
-    df_2 = df_teste.rename(columns = {coluna_2: coluna_saida, 'ean_2': 'ean'})
+    df_1 = df_teste.rename(columns = {coluna_1: coluna_saida, 'ean_1': 'ean', 'url_1': 'url'})
+    df_2 = df_teste.rename(columns = {coluna_2: coluna_saida, 'ean_2': 'ean', 'url_2': 'url'})
 
-    lista_df = [df_1[[coluna_saida, 'ean', 'categoria']], df_2[[coluna_saida, 'ean', 'categoria']]]
+    lista_df = [df_1[[coluna_saida, 'ean', 'url', 'categoria']], df_2[[coluna_saida, 'ean', 'url', 'categoria']]]
     df = pd.concat(lista_df, ignore_index = True)
 
     return df
@@ -72,26 +72,28 @@ def calcular_tam_max(df):
     return tam_max
 
 
-def criar_dicionario(indice, titulo, ean, categoria, colunas):
+def criar_dicionario(indice, titulo, ean, url, categoria, colunas):
     
     return {
-            colunas[0] : indice, colunas[1] : titulo, colunas[2] : ean, colunas[3] : categoria
+            colunas[0] : indice, colunas[1] : titulo, colunas[2] : ean,
+            colunas[3] : url, colunas[4] : categoria
            }
 
 
-def criar_df_match(df_concat, ean_repetido, colunas, coluna_saida = 'titulo_sa'):
+def criar_df_unico(df_concat, valor_repetido, colunas, metrica, coluna_saida = 'titulo_sa'):
 
     df_matches = pd.DataFrame(columns = colunas)
-    for ean in ean_repetido:
+    for valor in valor_repetido:
 
         # pega o indice da primeira linha com aquele EAN
-        filtro = (df_concat['ean'] == ean)
+        filtro = (df_concat[metrica] == valor)
         indice = next(iter(filtro.index[filtro]))
 
         dicionario = criar_dicionario(
                                       indice = indice,
                                       titulo = df_concat.loc[indice][coluna_saida],
                                       ean = df_concat.loc[indice]['ean'],
+                                      url = df_concat.loc[indice]['url'],
                                       categoria = df_concat.loc[indice]['categoria'],
                                       colunas = colunas
                                      )
@@ -104,21 +106,28 @@ def criar_df_match(df_concat, ean_repetido, colunas, coluna_saida = 'titulo_sa')
     return df_matches
 
 
+
 def criar_df_teste(df_teste, coluna_1 = "titulo_sa_1", coluna_2 = "titulo_sa_2", coluna_saida = 'titulo_sa'):
 
-    COLUNAS = ("indice", coluna_saida, "ean", "categoria")
+    COLUNAS = ("indice", coluna_saida, "ean", "url", "categoria")
 
     # colocando os titulos em um dataframe com 1 coluna só
     df_concat = concatenar_df(df_teste, coluna_1, coluna_2, coluna_saida)
 
+    # encontrando a lista de valores únicos de URLs repetidas
+    vc_url = df_concat['url'].value_counts()
+    url_repetida = vc_url[vc_url >= 1].index.values
+    # removendo os produtos com URLs repetidas (mesmos produtos)
+    df_concat_sr = criar_df_unico(df_concat, url_repetida, COLUNAS, "url", coluna_saida)
+
     # encontrando a lista de valores únicos de EAN repetidos
-    vc = df_concat['ean'].value_counts()
-    ean_repetido = vc[vc > 1].index.values
+    vc_ean = df_concat_sr['ean'].value_counts()
+    ean_repetido = vc_ean[vc_ean > 1].index.values
 
     # criando um dataframe apenas com 1 ocorrência de cada EAN repetido
-    df_matches = criar_df_match(df_concat, ean_repetido, COLUNAS, coluna_saida)
+    df_matches = criar_df_unico(df_concat_sr, ean_repetido, COLUNAS, "ean", coluna_saida)
 
-    return df_concat, df_matches
+    return df_concat_sr, df_matches
 
 
 '''def formatar_entrada_bow(dados, mf = 1000):
